@@ -22,7 +22,7 @@ I am interested in improving the security of mobile systems and having an impact
 
 If you would like to reach me, please send an email to [shenaowang@hust.edu.cn](shenaowang@hust.edu.cn)
 
-Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/), [Yanjie Zhao](https://yanjiezhao96.github.io/), [Liu Wang](https://liuer-wang.github.io/), [Ningke Li](https://ningke-li.github.io/).
+Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/), [Yanjie Zhao](https://yanjiezhao96.github.io/), [Liu Wang](https://liuer-wang.github.io/), [Ningke Li](https://ningke-li.github.io/)
 
 # 🎉 News
 
@@ -34,7 +34,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 - [18 Jul 2023] Our paper on WeChat AppSecret Leaks is accepted by ASE 2023.
 
-- [25 Jun 2023] I receive my B.S. degree at Xidian University. :)
+- [25 Jun 2023] I receive my B.Eng. degree at Xidian University. :)
 
 - [16 May 2023] I give a presentation at the first [Cyber Security Innovation Forum in Wuhan](https://epaper.hubeidaily.net/pc/content/202305/17/content_224970.html), with a topic of “Research on Permission Abuse in Android Apps”.
 
@@ -59,8 +59,8 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 # 🎓 Educations
 
-* 2019.09 - 2023.06, B.E., Xidian University, Xi'an, China.
-* 2023.09 - Current, M.S. candidate, Huazhong University of Science and Technology, Wuhan, China.
+* 2019.09 - 2023.06, B.Eng., Xidian University, Xi'an, China.
+* 2023.09 until now, M.S., Huazhong University of Science and Technology, Wuhan, China.
 
 # 🏆 Honors and Awards
 * 2023 - Third Prize of Prototype Competition in ChinaSoft'23 (软件研究成果原型系统竞赛).
