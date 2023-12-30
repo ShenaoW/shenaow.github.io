@@ -18,11 +18,11 @@ I am interested in improving the security of mobile systems and having an impact
 
 - Mobile Security: Super/Mini App Security
 - OSS Security: Supply Chain Poisoning
-- LLM Security: Jailbreak、LLM4Security
+- LLM Security: Jailbreak, LLM4Security
 
 If you would like to reach me, please send an email to [shenaowang@hust.edu.cn](shenaowang@hust.edu.cn)
 
-Here are my close friends' homepages: [Xinyi Hou](https://xinhi-hou.github.io/), [Yanjie Zhao](https://yanjiezhao96.github.io/), [Liu Wang](https://liuer-wang.github.io/), [Ningke Li](https://ningke-li.github.io/).
+Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/), [Yanjie Zhao](https://yanjiezhao96.github.io/), [Liu Wang](https://liuer-wang.github.io/), [Ningke Li](https://ningke-li.github.io/).
 
 # 🎉 News
 
@@ -59,7 +59,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinhi-hou.github.io/),
 * 2019.09 - 2023.06, B.E., Xidian University, Xi'an, China.
 * 2023.09 - Current, M.S. candidate, Huazhong University of Science and Technology, Wuhan, China.
 
-# 🏆 Honors & Awards
+# 🏆 Honors and Awards
 * 2023 - Third Prize of Prototype Competition in ChinaSoft'23 (软件研究成果原型系统竞赛).
 * 2023 - Outstanding Graduates of Shaanxi Province
 * 2023 - Outstanding Bachelor Thesis of Xidian University (Title: Research and Implementation of Permission Abuse Detection Method for Mobile Mini-programs)
