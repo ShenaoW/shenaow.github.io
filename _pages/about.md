@@ -9,20 +9,36 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-# 😊 About Me
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> I completed my PhD at [Monash University](https://www.monash.edu/) in September 2023. I will be joining [The Ohio State University (OSU)](https://www.osu.edu/) as a Post Doctoral Researcher, working under the supervision of [Prof. Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/). 🍑･ᴗ･🍑 
+# 😀 About Me
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Previously, in 2019, I obtained my Bachelor's degree from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), under the guidance of [Prof. Haoyu Wang](https://howiepku.github.io/). Subsequently, I commenced my doctoral studies at [Monash University](https://www.monash.edu/), where I had the privilege of being supervised by [Prof. John Grundy](https://sites.google.com/site/johncgrundy/) and [Prof. Li Li](http://lilicoding.github.io/). 🥣•ᴥ•🥣
+Hi, there! I’m a master student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology (HUST), co-supervised by Prof. [Haoyu Wang](https://howiepku.github.io/) & [Kailong Wang](https://scholar.google.com/citations?user=WpOnslgAAAAJ&hl=en). Previously, I received my B.S. degree at Xidian University, under supervision of Prof. [Hui Li](https://web.xidian.edu.cn/lihui/index.html) in June 2023. 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> My research interests include software engineering and software security. If you would like to reach me, please send an email to <a href="mailto:carolzhao233@gmail.com">carolzhao233@gmail.com</a>. 🥑•˕•🥑 
+I am interested in improving the security of mobile systems and having an impact in the real world. My current research interests include Mobile Security (Especially Mini-Programs), OSS Security and LLM Security:
 
-(🔴’◡’🔴)ﾉ Here are my close friends' homepages: [Liu Wang](https://liuer-wang.github.io/), [Xiaoyu Sun](https://sunxiaobiu.github.io/), [Pei Liu](https://gspeiliu.github.io/), [Shenao Wang](https://shenaow.github.io/), [Ningke Li](https://ningke-li.github.io/) ... &nbsp; <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="60" /> 
+- Mobile Security: Super/Mini App Security
+- OSS Security: Supply Chain Poisoning
+- LLM Security: Jailbreak、LLM4Security
 
+If you would like to reach me, please send an email to [shenaowang@hust.edu.cn](shenaowang@hust.edu.cn)
 
-# 🔥 News
-- 2023.10: &nbsp;🎉🎉 Our paper titled "Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey" is available on [arXiv](https://arxiv.org/abs/2310.17903).
-- 2023.08: &nbsp;🎉🎉 Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" is available on [arXiv](https://arxiv.org/abs/2308.10620).
+Here are my close friends' homepages: [Xinyi Hou](https://xinhi-hou.github.io/), [Yanjie Zhao](https://yanjiezhao96.github.io/), [Liu Wang](https://liuer-wang.github.io/), [Ningke Li](https://ningke-li.github.io/).
+
+# 🎉 News
+
+- [3 Dec 2023] Our work on privacy analysis of mini-programs win the third prize in Prototype Competition of ChinaSoft 2023.
+
+- [20 Aug 2023] Our work on privacy compliance of mini-programs win the highest prize in CISCN 2023 (with me serving as a co-advisor).
+
+- [15 Aug 2023] Our paper on malicious npm/pypi package detection is accepted by ASE 2023 (Industry Challenge Track, full paper).
+
+- [18 Jul 2023] Our paper on WeChat AppSecret Leaks is accepted by ASE 2023.
+
+- [25 Jun 2023] I receive my B.S. degree at Xidian University. :)
+
+- [16 May 2023] I give a presentation at the first [Cyber Security Innovation Forum in Wuhan](https://epaper.hubeidaily.net/pc/content/202305/17/content_224970.html), with a topic of “Research on Permission Abuse in Android Apps”.
+
+- [28 Sep 2022] I become a member of SECURITY PRIDE Research Group.
 
   
 # 📝 Publications 
@@ -99,47 +115,28 @@ redirect_from:
 
 
 
-# 📖 Educations
+# 🎓 Educations
 
-* 2015.09 - 2019.06, B.Eng., Beĳing University of Posts and Telecommunications, Beijing, China.
-* 2019.07 - 2019.09, Visitor, University of Luxembourg, Luxembourg.
-* 2019.09 - 2023.09, Ph.D., Monash University, Melbourne, Australia.
-* Continuously pursue knowledge and never cease learning...
-
-# 📒 Services
-* PC Member -- The International Symposium on Software Testing and Analysis (ISSTA 2024)
-* Reviewer -- The Web Conference 2024 (WWW 2024)
-* Reviewer -- ACM Transactions on Software Engineering and Methodology (TOSEM)
-* Reviewer -- IEEE Transactions on Software Engineering (TSE)
-* Reviewer -- ACM Computing Surveys (CSUR)
-* Reviewer -- Empirical Software Engineering (EMSE)
-* Junior PC Member -- The Mining Software Repositories conference (MSR 2023)
-* Reviewer -- Journal of Systems and Software (JSS)
-* Reviewer -- IEEE Transactions on Reliability
-* Publicity Chair -- MOBILESoft 2023
-* PC Member -- MOBILESoft 2023, MOBILESoft 2024
- 
+* 2019.09 - 2023.06, B.E., Xidian University, Xi'an, China.
+* 2023.09 - Current, M.S. candidate, Huazhong University of Science and Technology, Wuhan, China.
 
 # 🎖 Honors and Awards
-* 2019 - Monash Graduate Scholarship (MGS). 
-* 2019 - City of Beijing "Triple-A" Outstanding Student. 
-* 2018 - Cyber Security Scholarship of China Internet Development Foundation (one of the 66 award-winning undergraduates nationwide). 
-* 2017 - China National Scholarship. 
-* 2017 - Meritorious Winner of MCM/ICM.
-* 2017 - First Prize in Beĳing Contest District in CUMCM. 
-* 2017 - Second Prize in China National Cryptography Competition. 
-* 2016 - China National Scholarship.
- 
+* 2023 - Third Prize of Prototype Competition in ChinaSoft'23 (软件研究成果原型系统竞赛).
+* 2023 - Outstanding Graduates of Shaanxi Province
+* 2023 - Outstanding Bachelor Thesis of Xidian University (Title: Research and Implementation of Permission Abuse Detection Method for Mobile Mini-programs)
+* 2022 - President Scholarship of Xidian University ([awarded to top 5 students per year](https://news.xidian.edu.cn/info/2106/223413.htm))
+* 2022 - National Scholarship (Top 1%)
+* 2022 - Xiaomi Special Scholarship
+* 2022 - First Prize of National Digital Forensics Competition (美亚杯中国电子数据取证大赛, [19/764](https://www.meiyacup.cn/Mo_index_gci_30.html))
+* 2022 - First Prize/Most Innovative and Entrepreneurial Value Award (最具创新创业价值奖, [top 2 of 728 works](http://117.78.33.202/announcement/view/279)) of National College Student Information Security Contest (全国大学生信息安全竞赛-作品赛, CISCN for short)
+* 2022 - Meritorious Winner of MCM/ICM (Problem A)
+* 2021 - First Prize of the National Cryptographic Competition (全国密码技术竞赛)
 
-# 💻 Skills
-* Reading, writing, and speaking competencies in Mandarin Chinese and English.
-* Academic research, teaching, training, consultation, LATEX typesetting, and publishing.
-* Leisure Interests:
-  * Adobe Photoshop
-  * Adobe Premiere
-  * Adobe After Effects
+# 🌟 Grants
 
-<img align="center" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+* 2022.10-2023.10 Research on Detection Methods of Permission Abuse in Android/iOS Apps, Cyber Security Academy Student Innovation Funding (一流网络安全学院学生创新资助计划, [优秀项目[6/240]](https://www.cybersac.cn/detail/1702256698066042881)), Funded by CSAC and NIO
+
+<div align=center><img src="https://p.ipic.vip/3apyjc.png" alt="Funding-NIO-Excellent-Project" width = "80%" height = "80%" /></div>
 
 <br>
 <br>
