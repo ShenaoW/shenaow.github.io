@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shenao Wang | 王申奥"
+title                    : "Shenao Wang"
 description              : "Master Student @ Huazhong Univerisity of Science and Technology"
 repository               : "shenaow.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shenao Wang | 王申奥"
-  avatar           : "images/profile2.JPG"
+  name             : "Shenao Wang"
+  avatar           : "images/profile.jpg"
   bio              : "✨"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=7GNtSFMAAAAJ"
-  email            : "carolzhao233@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=9uC3jPkAAAAJ&hl=zh-CN"
+  email            : "shenaowang@hust.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,21 +37,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "carol233"
+  github           : "ShenaoW"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yanjie-zhao-881a44234"
+  linkedin         : #"yanjie-zhao-881a44234"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-8793-5367"
+  orcid            : "https://orcid.org/0000-0003-3818-3343"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "YanjieZhao96"
+  twitter          : #"YanjieZhao96"
   vine             :
   weibo            :
   xing             :
