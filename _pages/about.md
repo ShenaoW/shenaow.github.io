@@ -45,53 +45,21 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinhi-hou.github.io/),
 
 **(\* Equal Contribution)**
 
-* **Potential Risks Arising from the Absence of Signature Verification in Miniapp Plugins**
-    <br>**Yanjie Zhao**, Yue Zhang, Haoyu Wang, **Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Superapps** [[Paper](http://YanjieZhao96.github.io/files/zhao2023potential.pdf)]
-
 * **On the Usage-scenario-based Data Minimization in Mini Programs**
-    <br>Shenao Wang, **Yanjie Zhao**, Kailong Wang, Haoyu Wang, **Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Superapps** [[Paper]()]
+    <br>**Shenao Wang**, Yanjie Zhao, Kailong Wang, Haoyu Wang. **Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS'23, co-located with CCS'23)** [[Paper](http://ShenaoW.github.io/files/sats23.pdf)]
 
-* **Detecting Temporal Inconsistency in Biased Datasets for Android Malware Detection**
-    <br>Haonan Hu, Yue Liu, **Yanjie Zhao**, Yonghui Liu, Xiaoyu Sun, Chakkrit Tantithamthavorn, Li Li, **2023 38th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)** [[Paper]()]
+* **MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains**
+    <br>Ningke Li, **Shenao Wang**, Mingxi Feng, Kailong Wang, Meizhen Wang, Haoyu Wang. **2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Challenge Track (full paper)** [[Paper](http://ShenaoW.github.io/files/ase23malwukong.pdf)]
 
-
-* **CiD4HMOS: A Solution to HarmonyOS Compatibility Issues**
-    <br>Tianzhi Ma, **Yanjie Zhao**, Li Li, Liang Liu, **The 38th IEEE/ACM International Conference on Automated Software Engineering, Industry Challenge Track (ASE 2023)** [[Paper](http://YanjieZhao96.github.io/files/ma2023cid4hmos.pdf)]
-
-  
-## <span style="color:grey">Papers Published During PhD Studies</span> 
-
-### <font size="3"><span style="color:rgb(0, 119, 181)">On the Usage-scenario-based Data Minimization in Mini Programs</span></font>  
-<font size="3">  <b>Shenao Wang</b>, Yanjie Zhao, Kailong Wang, Haoyu Wang. <br/>  The 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS'23, co-located with CCS'23) <br/> 
-[<span><a href="" target="_blank"><span style="color:#52adc8;">PDF</span></a></span>]
-[<span><a href="" target="_blank"><span style="color:#52adc8;">Code</span></a></span>]
-</font>
-
-### <font size="3"><span style="color:rgb(0, 119, 181)">MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains</span></font>  
-<font size="3"> Ningke Li, <b>Shenao Wang</b>, Mingxi Feng, Kailong Wang, Meizhen Wang, Haoyu Wang. <br/> The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Challenge Track (full paper), 2023. <br/> 
-[<span><a href="" target="_blank"><span style="color:#52adc8;">PDF</span></a></span>]
-[<span><a href="" target="_blank"><span style="color:#52adc8;">Code</span></a></span>]
-</font>
-
-
-### <font size="3"><span style="color:rgb(0, 119, 181)">WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs</span></font>
-<font size="3"> Shi Meng, Liu Wang, <b>Shenao Wang</b>, Kailong Wang, Xusheng Xiao, Guangdong Bai, Haoyu Wang. <br/> 
-The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2023. <br/>
-[<span><a href="" target="_blank"><span style="color:#52adc8;">PDF</span></a></span>]
-[<span><a href="" target="_blank"><span style="color:#52adc8;">Code</span></a></span>]
-</font>
-* **Automatically Detecting Incompatible Android APIs**
-    <br>Pei Liu, **Yanjie Zhao**, Mattia Fazzini, Haipeng Cai, John Grundy, Li Li, **ACM Transactions on Software Engineering and Methodology (TOSEM), 2023** [[Paper](http://YanjieZhao96.github.io/files/liu2023automatically.pdf)]
-
-<!-- * **Are Mobile Advertisements in Compliance with App’s Age Group?**
-    <br>**Yanjie Zhao**\*, Tianming Liu\*, Haoyu Wang, Yepang Liu, John Grundy, Li Li, **The ACM Web Conference (WWW 2023)** [[Paper](http://YanjieZhao96.github.io/files/zhao2023mobile.pdf)] -->
+* **WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs**
+    <br>Shi Meng, Liu Wang, **Shenao Wang**, Kailong Wang, Xusheng Xiao, Guangdong Bai, Haoyu Wang. **2023 38th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)** [[Paper](http://ShenaoW.github.io/files/ase23wemint.pdf)]
 
 # 🎓 Educations
 
 * 2019.09 - 2023.06, B.E., Xidian University, Xi'an, China.
 * 2023.09 - Current, M.S. candidate, Huazhong University of Science and Technology, Wuhan, China.
 
-# 🎖 Honors and Awards
+# 🏆 Honors & Awards
 * 2023 - Third Prize of Prototype Competition in ChinaSoft'23 (软件研究成果原型系统竞赛).
 * 2023 - Outstanding Graduates of Shaanxi Province
 * 2023 - Outstanding Bachelor Thesis of Xidian University (Title: Research and Implementation of Permission Abuse Detection Method for Mobile Mini-programs)

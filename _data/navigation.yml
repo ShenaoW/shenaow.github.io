@@ -11,12 +11,9 @@ main:
 
   - title: "Educations"
     url: "/#-educations"
-
-  - title: "Services"
-    url: "/#-services"
     
-  - title: "Honors and Awards"
+  - title: "Honors & Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Skills"
-    url: "/#-skills"
+  - title: "Grants"
+    url: "/#-grants"
