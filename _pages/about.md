@@ -46,13 +46,16 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 **(\* Equal Contribution)**
 
 * **On the Usage-scenario-based Data Minimization in Mini Programs**
-    <br>**Shenao Wang**, Yanjie Zhao, Kailong Wang, Haoyu Wang. **Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS'23, co-located with CCS'23)** [[Paper](http://ShenaoW.github.io/files/sats23.pdf)]
+    <br>**Shenao Wang**, Yanjie Zhao, Kailong Wang, Haoyu Wang. 
+    <br>Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS'23, co-located with CCS'23) [[Paper](http://ShenaoW.github.io/files/sats23.pdf)]
 
 * **MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains**
-    <br>Ningke Li, **Shenao Wang**, Mingxi Feng, Kailong Wang, Meizhen Wang, Haoyu Wang. **2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Challenge Track (full paper)** [[Paper](http://ShenaoW.github.io/files/ase23malwukong.pdf)]
+    <br>Ningke Li, **Shenao Wang**, Mingxi Feng, Kailong Wang, Meizhen Wang, Haoyu Wang. 
+    <br>2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Challenge Track (full paper) [[Paper](http://ShenaoW.github.io/files/ase23malwukong.pdf)]
 
 * **WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs**
-    <br>Shi Meng, Liu Wang, **Shenao Wang**, Kailong Wang, Xusheng Xiao, Guangdong Bai, Haoyu Wang. **2023 38th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)** [[Paper](http://ShenaoW.github.io/files/ase23wemint.pdf)]
+    <br>Shi Meng, Liu Wang, **Shenao Wang**, Kailong Wang, Xusheng Xiao, Guangdong Bai, Haoyu Wang. 
+    <br>2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) [[Paper](http://ShenaoW.github.io/files/ase23wemint.pdf)]
 
 # 🎓 Educations
 
