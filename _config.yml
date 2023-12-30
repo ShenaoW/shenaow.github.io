@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yanjie Zhao"
-description              : "PhD @ Monash Univerisity"
-repository               : "yanjiezhao96.github.io"
+title                    : "Shenao Wang | 王申奥"
+description              : "Master Student @ Huazhong Univerisity of Science and Technology"
+repository               : "shenaow.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
