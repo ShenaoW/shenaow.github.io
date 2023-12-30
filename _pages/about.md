@@ -26,7 +26,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 # 🎉 News
 
-- [3 Dec 2023] Our work on privacy analysis of mini-programs win the third prize in Prototype Competition of ChinaSoft 2023.
+- [03 Dec 2023] Our work on privacy analysis of mini-programs win the third prize in Prototype Competition of ChinaSoft 2023.
 
 - [20 Aug 2023] Our work on privacy compliance of mini-programs win the highest prize in CISCN 2023 (with me serving as a co-advisor).
 
