@@ -12,7 +12,7 @@ redirect_from:
 
 # 😀 About Me
 
-Hi, there! I’m a master student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology (HUST), co-supervised by Prof. [Haoyu Wang](https://howiepku.github.io/) & [Kailong Wang](https://scholar.google.com/citations?user=WpOnslgAAAAJ&hl=en). Previously, I received my B.S. degree at Xidian University, under supervision of Prof. [Hui Li](https://web.xidian.edu.cn/lihui/index.html) in June 2023. 
+Hi, there! I’m a master student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology (HUST), co-supervised by Prof. [Haoyu Wang](https://howiepku.github.io/) & [Kailong Wang](https://scholar.google.com/citations?user=WpOnslgAAAAJ&hl=en). Previously, I received my B.Eng. degree at Xidian University, under supervision of Prof. [Hui Li](https://web.xidian.edu.cn/lihui/index.html) in June 2023. 
 
 I am interested in improving the security of mobile systems and having an impact in the real world. My current research interests include Mobile Security (Especially Mini-Programs), OSS Security and LLM Security:
 
@@ -20,9 +20,9 @@ I am interested in improving the security of mobile systems and having an impact
 - OSS Security: Supply Chain Poisoning
 - LLM Security: Jailbreak, LLM4Security
 
-If you would like to reach me, please send an email to [shenaowang@hust.edu.cn](shenaowang@hust.edu.cn)
+If you would like to reach me, please send an email to [shenaowang@hust.edu.cn](shenaowang@hust.edu.cn).
 
-Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/), [Yanjie Zhao](https://yanjiezhao96.github.io/), [Liu Wang](https://liuer-wang.github.io/), [Ningke Li](https://ningke-li.github.io/)
+Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/), [Yanjie Zhao](https://yanjiezhao96.github.io/), [Liu Wang](https://liuer-wang.github.io/), [Ningke Li](https://ningke-li.github.io/).
 
 # 🎉 News
 
