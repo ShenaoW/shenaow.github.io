@@ -45,14 +45,14 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
   
 # 📝 Publications 
 
+**(\* Equal Contribution)**
+
 ## <span style="color:grey">Preprint</span> 
 
 * **MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis**
     <br>**Shenao Wang\***, Yuekang Li\*, Kailong Wang, Yi Liu, Chao Wang, Yanjie Zhao, Gelei Deng, Ling Shi, Hui Li, Yang Liu, Haoyu Wang [[Paper](https://arxiv.org/pdf/2401.03218.pdf)]
 
 ## <span style="color:grey">Peer-Reviewed</span>
-
-**(\* Equal Contribution)**
 
 * **On the Usage-scenario-based Data Minimization in Mini Programs**
     <br>**Shenao Wang**, Yanjie Zhao, Kailong Wang, Haoyu Wang. 
