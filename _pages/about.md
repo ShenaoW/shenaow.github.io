@@ -26,6 +26,8 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 # 🎉 News
 
+- [09 Jan 2024] Our paper titled "MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis" is available on [arXiv](https://arxiv.org/pdf/2401.03218.pdf).
+
 - [03 Dec 2023] Our work on privacy analysis of mini-programs win the third prize in Prototype Competition of ChinaSoft 2023.
 
 - [20 Aug 2023] Our work on privacy compliance of mini-programs win the highest prize in CISCN 2023 (with me serving as a co-advisor).
@@ -42,6 +44,13 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
   
 # 📝 Publications 
+
+## <span style="color:grey">Preprint</span> 
+
+* **MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis**
+    <br>**Shenao Wang\***, Yuekang Li\*, Kailong Wang, Yi Liu, Chao Wang, Yanjie Zhao, Gelei Deng, Ling Shi, Hui Li, Yang Liu, Haoyu Wang [[Paper](https://arxiv.org/pdf/2401.03218.pdf)]
+
+## <span style="color:grey">Peer-Reviewed</span>
 
 **(\* Equal Contribution)**
 
