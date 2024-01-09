@@ -73,7 +73,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 # 🏆 Honors and Awards
 * 2023 - Third Prize of Prototype Competition in ChinaSoft'23 (软件研究成果原型系统竞赛) [[reference](http://ShenaoW.github.io/files/chinasoft.pdf)]
-* 2023 - Outstanding Graduates of Shaanxi Province [[reference](http://www.sxjybk.com/2023/0705/66484.html)]
+* 2023 - Outstanding Graduate of Shaanxi Province [[reference](http://www.sxjybk.com/2023/0705/66484.html)]
 * 2023 - Outstanding Bachelor Thesis of Xidian University (Title: Research and Implementation of Permission Abuse Detection Method for Mobile Mini-programs) [[reference](http://ShenaoW.github.io/files/thesis.pdf)]
 * 2022 - President Scholarship of Xidian University ([awarded to top 5 students each year](https://news.xidian.edu.cn/info/2106/223413.htm)) [[reference](http://ShenaoW.github.io/files/president_scholarship.pdf)]
 * 2022 - National Scholarship (Top 1%) [[reference](http://ShenaoW.github.io/files/national_scholarship.pdf)]
@@ -88,7 +88,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 * 2022.10-2023.10 Research on Detection Methods of Permission Abuse in Android/iOS Apps, Cyber Security Academy Student Innovation Funding (一流网络安全学院学生创新资助计划, [优秀项目[6/240]](https://www.cybersac.cn/detail/1702256698066042881)), Funded by CSAC and NIO
 
-<div align=center><img src="https://p.ipic.vip/3apyjc.png" alt="Funding-NIO-Excellent-Project" width = "80%" height = "80%" /></div>
+<div align=center><img src="http://ShenaoW.github.io/images/nio.jpg" alt="Funding-NIO-Excellent-Project" width = "80%" height = "80%" /></div>
 
 <br>
 <br>
