@@ -71,7 +71,12 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 * 2019.09 - 2023.06, B.Eng., Xidian University, Xi'an, China.
 * 2023.09 until now, M.S., Huazhong University of Science and Technology, Wuhan, China.
 
+# Experience
+
+* 2024.01 until now, Research Intern, Ant Group (MyBank), Hangzhou, China.
+
 # 🏆 Honors and Awards
+* 2023 - Bronze Award of National College Student Innovation Competition（中国国际大学生创新大赛, 铜奖）[[reference](https://cy.ncss.cn/information/2c93f4c68a5f8efa018d4398986f00da)]
 * 2023 - Third Prize of Prototype Competition in ChinaSoft'23 (软件研究成果原型系统竞赛) [[reference](http://ShenaoW.github.io/files/chinasoft.pdf)]
 * 2023 - Outstanding Graduate of Shaanxi Province [[reference](http://www.sxjybk.com/2023/0705/66484.html)]
 * 2023 - Outstanding Bachelor Thesis of Xidian University (Title: Research and Implementation of Permission Abuse Detection Method for Mobile Mini-programs) [[reference](http://ShenaoW.github.io/files/thesis.pdf)]
