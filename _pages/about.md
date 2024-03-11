@@ -12,7 +12,7 @@ redirect_from:
 
 # 😀 About Me
 
-Hi, there! I’m a master student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology (HUST), co-supervised by Prof. [Haoyu Wang](https://howiepku.github.io/) & [Kailong Wang](https://scholar.google.com/citations?user=WpOnslgAAAAJ&hl=en). Previously, I received my B.Eng. degree at Xidian University, under supervision of Prof. [Hui Li](https://web.xidian.edu.cn/lihui/index.html) in June 2023. 
+Hi, there! I’m a master student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology (HUST), supervised by Prof. [Haoyu Wang](https://howiepku.github.io/). Also I have the privilege of working closely with Dr. [Kailong Wang](https://scholar.google.com/citations?user=WpOnslgAAAAJ&hl=en) & Dr. [Yanjie Zhao](https://yanjiezhao96.github.io/), from whom I have learned a great deal. Previously, I received my B.Eng. degree at Xidian University, under supervision of Prof. [Hui Li](https://web.xidian.edu.cn/lihui/index.html) in June 2023. 
 
 I am interested in improving the security of mobile systems and having an impact in the real world. My current research interests include Mobile Security (Especially Mini-Programs), OSS Security and LLM Security:
 
