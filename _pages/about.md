@@ -26,7 +26,9 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 # 🎉 News
 
-- [09 Jan 2024] Our paper titled "MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis" is available on [arXiv](https://arxiv.org/pdf/2401.03218.pdf).
+- [22 Apr 2024] Our paper titled "Large Language Model Supply Chain: A Research Agenda" is available on [arXiv](https://arxiv.org/abs/2404.12736).
+
+- [09 Jan 2024] Our paper titled "MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis" is available on [arXiv](https://arxiv.org/abs/2401.03218).
 
 - [03 Dec 2023] Our work on privacy analysis of mini-programs win the third prize in Prototype Competition of ChinaSoft 2023.
 
@@ -48,6 +50,9 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 **(\* Equal Contribution)**
 
 ## <span style="color:grey">Preprint</span> 
+
+* **Large Language Model Supply Chain: A Research Agenda**
+    <br>**Shenao Wang**, Yanjie Zhao, Xinyi Hou, Haoyu Wang [[Paper](https://arxiv.org/pdf/2404.12736.pdf)]
 
 * **MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis**
     <br>**Shenao Wang**, Yuekang Li, Kailong Wang, Yi Liu, Hui Li, Yang Liu, Haoyu Wang [[Paper](https://arxiv.org/pdf/2401.03218.pdf)]
