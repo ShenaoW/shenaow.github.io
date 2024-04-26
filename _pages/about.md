@@ -57,7 +57,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
     <br>**Shenao Wang**, Yanjie Zhao, Xinyi Hou, Haoyu Wang [[Paper](https://arxiv.org/pdf/2404.12736.pdf)]
 
 * **LLM App Store Analysis: A Vision and Roadmap**
-    <br>Yanjie Zhao, Xinyi Hou, **Shenao Wang**, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/zhao2024llm.pdf)]
+    <br>Yanjie Zhao, Xinyi Hou, **Shenao Wang**, Haoyu Wang [[Paper](https://arxiv.org/pdf/2404.12737.pdf)]
 
 * **MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis**
     <br>**Shenao Wang**, Yuekang Li, Kailong Wang, Yi Liu, Hui Li, Yang Liu, Haoyu Wang [[Paper](https://arxiv.org/pdf/2401.03218.pdf)]
