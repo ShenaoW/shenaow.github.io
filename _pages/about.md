@@ -90,7 +90,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 * 2023 - Third Prize of Prototype Competition in ChinaSoft'23 (软件研究成果原型系统竞赛) [[reference](http://ShenaoW.github.io/files/chinasoft.pdf)]
 * 2023 - Outstanding Graduate of Shaanxi Province [[reference](http://www.sxjybk.com/2023/0705/66484.html)]
 * 2023 - Outstanding Bachelor Thesis of Xidian University (Title: Research and Implementation of Permission Abuse Detection Method for Mobile Mini-programs) [[reference](http://ShenaoW.github.io/files/thesis.pdf)]
-* 2022 - President Scholarship of Xidian University ([5 undergraduates among 5300+](https://news.xidian.edu.cn/info/2106/223413.htm)) [[reference](http://ShenaoW.github.io/files/president_scholarship.pdf)]
+* 2022 - President Scholarship of Xidian University ([5 undergraduates among 5300+](https://news.xidian.edu.cn/info/2106/223413.htm), the highest honor for undergraduate students in Xidian University) [[reference](http://ShenaoW.github.io/files/president_scholarship.pdf)]
 * 2022 - National Scholarship (Top 1%) [[reference](http://ShenaoW.github.io/files/national_scholarship.pdf)]
 * 2022 - Xiaomi Special Scholarship (5 undergraduates among 5300+)
 * 2022 - First Prize of National Digital Forensics Competition (美亚杯中国电子数据取证大赛, [19/764](https://www.meiyacup.cn/Ar_index_gci_87.html)) [[reference](http://ShenaoW.github.io/files/meiyacup.pdf)]
