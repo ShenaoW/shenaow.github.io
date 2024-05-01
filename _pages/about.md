@@ -60,7 +60,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 * **Large Language Model Supply Chain: A Research Agenda**
     <br>**Shenao Wang**, Yanjie Zhao, Xinyi Hou, Haoyu Wang. 
-    <br>The International Workshop on Software Engineering in 2030 (SE 2030, co-located with FSE'24)[[Paper](https://arxiv.org/pdf/2404.12736.pdf)]
+    <br>The International Workshop on Software Engineering in 2030 (SE 2030, co-located with FSE'24) [[Paper](https://arxiv.org/pdf/2404.12736.pdf)]
 
 * **LLM App Store Analysis: A Vision and Roadmap**
     <br>Yanjie Zhao, Xinyi Hou, **Shenao Wang**, Haoyu Wang. 
