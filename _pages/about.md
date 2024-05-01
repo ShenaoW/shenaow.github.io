@@ -26,9 +26,9 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 # 🎉 News
 
-- [22 Apr 2024] Our paper titled "Large Language Model Supply Chain: A Research Agenda" is available on [arXiv](https://arxiv.org/abs/2404.12736).
+- [30 Apr 2024] Our paper titled "Large Language Model Supply Chain: A Research Agenda" is accepted by SE 2030.
 
-- [19 Apr 2024] Our paper titled "LLM App Store Analysis: A Vision and Roadmap" is available on [arXiv](https://arxiv.org/abs/2404.12737).
+- [30 Apr 2024] Our paper titled "LLM App Store Analysis: A Vision and Roadmap" is accepted by SE 2030.
 
 - [09 Jan 2024] Our paper titled "MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis" is available on [arXiv](https://arxiv.org/abs/2401.03218).
 
@@ -53,16 +53,18 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 ## <span style="color:grey">Preprint</span> 
 
-* **Large Language Model Supply Chain: A Research Agenda**
-    <br>**Shenao Wang**, Yanjie Zhao, Xinyi Hou, Haoyu Wang [[Paper](https://arxiv.org/pdf/2404.12736.pdf)]
-
-* **LLM App Store Analysis: A Vision and Roadmap**
-    <br>Yanjie Zhao, Xinyi Hou, **Shenao Wang**, Haoyu Wang [[Paper](https://arxiv.org/pdf/2404.12737.pdf)]
-
 * **MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis**
     <br>**Shenao Wang**, Yuekang Li, Kailong Wang, Yi Liu, Hui Li, Yang Liu, Haoyu Wang [[Paper](https://arxiv.org/pdf/2401.03218.pdf)]
 
 ## <span style="color:grey">Peer-Reviewed</span>
+
+* **Large Language Model Supply Chain: A Research Agenda**
+    <br>**Shenao Wang**, Yanjie Zhao, Xinyi Hou, Haoyu Wang. 
+    <br>International Workshop on Software Engineering in 2030 (SE 2030, co-located with FSE'24)[[Paper](https://arxiv.org/pdf/2404.12736.pdf)]
+
+* **LLM App Store Analysis: A Vision and Roadmap**
+    <br>Yanjie Zhao, Xinyi Hou, **Shenao Wang**, Haoyu Wang. 
+    <br>International Workshop on Software Engineering in 2030 (SE 2030, co-located with FSE'24) [[Paper](https://arxiv.org/pdf/2404.12737.pdf)]
 
 * **On the Usage-scenario-based Data Minimization in Mini Programs**
     <br>**Shenao Wang**, Yanjie Zhao, Kailong Wang, Haoyu Wang. 
