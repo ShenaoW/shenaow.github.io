@@ -60,23 +60,23 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 * **Large Language Model Supply Chain: A Research Agenda**
     <br>**Shenao Wang**, Yanjie Zhao, Xinyi Hou, Haoyu Wang. 
-    <br>International Workshop on Software Engineering in 2030 (SE 2030, co-located with FSE'24)[[Paper](https://arxiv.org/pdf/2404.12736.pdf)]
+    <br>The International Workshop on Software Engineering in 2030 (SE 2030, co-located with FSE'24)[[Paper](https://arxiv.org/pdf/2404.12736.pdf)]
 
 * **LLM App Store Analysis: A Vision and Roadmap**
     <br>Yanjie Zhao, Xinyi Hou, **Shenao Wang**, Haoyu Wang. 
-    <br>International Workshop on Software Engineering in 2030 (SE 2030, co-located with FSE'24) [[Paper](https://arxiv.org/pdf/2404.12737.pdf)]
+    <br>The International Workshop on Software Engineering in 2030 (SE 2030, co-located with FSE'24) [[Paper](https://arxiv.org/pdf/2404.12737.pdf)]
 
 * **On the Usage-scenario-based Data Minimization in Mini Programs**
     <br>**Shenao Wang**, Yanjie Zhao, Kailong Wang, Haoyu Wang. 
-    <br>Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS'23, co-located with CCS'23) [[Paper](http://ShenaoW.github.io/files/sats23.pdf)]
+    <br>The 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS'23, co-located with CCS'23) [[Paper](http://ShenaoW.github.io/files/sats23.pdf)]
 
 * **MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains**
     <br>Ningke Li, **Shenao Wang**, Mingxi Feng, Kailong Wang, Meizhen Wang, Haoyu Wang. 
-    <br>2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Challenge Track (full paper) [[Paper](http://ShenaoW.github.io/files/ase23malwukong.pdf)]
+    <br>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE'23), Industry Challenge Track (full paper) [[Paper](http://ShenaoW.github.io/files/ase23malwukong.pdf)]
 
 * **WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs**
     <br>Shi Meng, Liu Wang, **Shenao Wang**, Kailong Wang, Xusheng Xiao, Guangdong Bai, Haoyu Wang. 
-    <br>2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) [[Paper](http://ShenaoW.github.io/files/ase23wemint.pdf)]
+    <br>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE'23) [[Paper](http://ShenaoW.github.io/files/ase23wemint.pdf)]
 
 # 🎓 Educations
 
