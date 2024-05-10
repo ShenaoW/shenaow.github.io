@@ -26,6 +26,8 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 # 🎉 News
 
+- [08 May 2024] Our paper title "Large Language Models for Cyber Security: A Systematic Literature Review" is available on [arXiv](https://arxiv.org/abs/2405.04760)
+
 - [30 Apr 2024] Our paper titled "Large Language Model Supply Chain: A Research Agenda" is accepted by SE 2030.
 
 - [30 Apr 2024] Our paper titled "LLM App Store Analysis: A Vision and Roadmap" is accepted by SE 2030.
@@ -55,6 +57,9 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 * **MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis**
     <br>**Shenao Wang**, Yuekang Li, Kailong Wang, Yi Liu, Hui Li, Yang Liu, Haoyu Wang [[Paper](https://arxiv.org/pdf/2401.03218.pdf)]
+
+* **Large Language Models for Cyber Security: A Systematic Literature Review**
+    <br>**Hanxiang Xu, Shenao Wang**, Ningke Li, Kailong Wang, Yanjie Zhao, Kai Chen, Ting Yu, Yang Liu, Haoyu Wang [[Paper](https://arxiv.org/pdf/2405.04760.pdf)]
 
 ## <span style="color:grey">Peer-Reviewed</span>
 
