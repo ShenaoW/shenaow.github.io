@@ -26,6 +26,8 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 # 🎉 News
 
+- [20 May 2024] Our paper titled "Seeing is (Not) Believing: Practical Phishing Attacks Targeting Social Media Sharing Cards" is available on [arXiv](https://arxiv.org/abs/2405.10758).
+
 - [17 May 2024] Our paper titled "GPT Store Mining and Analysis" is available on [arXiv](https://arxiv.org/abs/2405.10210).
 
 - [08 May 2024] Our paper titled "Large Language Models for Cyber Security: A Systematic Literature Review" is available on [arXiv](https://arxiv.org/abs/2405.04760).
@@ -65,6 +67,9 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 * **GPT Store Mining and Analysis**
     <br>Dongxun Su, Yanjie Zhao, Xinyi Hou, **Shenao Wang**, Haoyu Wang [[Paper](https://arxiv.org/pdf/2405.10210)] 
+
+* **Seeing is (Not) Believing: Practical Phishing Attacks Targeting Social Media Sharing Cards**
+    <br>Wangchenlu Huang, Shenao Wang, Yanjie Zhao, Guosheng Xu, Haoyu Wang [[Paper](https://arxiv.org/pdf/2405.10758)] 
 
 ## <span style="color:grey">Peer-Reviewed</span>
 
