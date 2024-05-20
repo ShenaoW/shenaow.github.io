@@ -69,7 +69,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
     <br>Dongxun Su, Yanjie Zhao, Xinyi Hou, **Shenao Wang**, Haoyu Wang [[Paper](https://arxiv.org/pdf/2405.10210)] 
 
 * **Seeing is (Not) Believing: Practical Phishing Attacks Targeting Social Media Sharing Cards**
-    <br>Wangchenlu Huang, Shenao Wang, Yanjie Zhao, Guosheng Xu, Haoyu Wang [[Paper](https://arxiv.org/pdf/2405.10758)] 
+    <br>Wangchenlu Huang, **Shenao Wang**, Yanjie Zhao, Guosheng Xu, Haoyu Wang [[Paper](https://arxiv.org/pdf/2405.10758)] 
 
 ## <span style="color:grey">Peer-Reviewed</span>
 
