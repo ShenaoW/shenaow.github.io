@@ -26,6 +26,8 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 # 🎉 News
 
+- [24 May 2024] Our paper titled "GPTZoo: A Large-scale Dataset of GPTs for the Research Community" is available on [arXiv](https://arxiv.org/abs/2405.15630).
+
 - [20 May 2024] Our paper titled "Seeing is (Not) Believing: Practical Phishing Attacks Targeting Social Media Sharing Cards" is available on [arXiv](https://arxiv.org/abs/2405.10758).
 
 - [17 May 2024] Our paper titled "GPT Store Mining and Analysis" is available on [arXiv](https://arxiv.org/abs/2405.10210).
@@ -70,6 +72,9 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 * **Seeing is (Not) Believing: Practical Phishing Attacks Targeting Social Media Sharing Cards**
     <br>Wangchenlu Huang, **Shenao Wang**, Yanjie Zhao, Guosheng Xu, Haoyu Wang [[Paper](https://arxiv.org/pdf/2405.10758)] 
+
+* **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
+    <br>Xinyi Hou, Yanjie Zhao, **Shenao Wang**, Haoyu Wang [[Paper](https://arxiv.org/pdf/2405.15630)]
 
 ## <span style="color:grey">Peer-Reviewed</span>
 
