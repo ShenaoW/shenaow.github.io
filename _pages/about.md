@@ -14,11 +14,11 @@ redirect_from:
 
 Hi, there! I’m a master student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology (HUST), supervised by Prof. [Haoyu Wang](https://howiepku.github.io/). Previously, I received my B.Eng. degree at Xidian University, under supervision of Prof. [Hui Li](https://web.xidian.edu.cn/lihui/index.html) in June 2023. 
 
-I am interested in improving the security of mobile systems and having an impact in the real world. My current research interests include Mobile Security (Especially Mini-Programs), OSS Security and LLM Security:
+I am interested in improving the security of mobile systems and having an impact in the real world. My current research interests include Mobile/Web Security, OSS Security and LLM Security:
 
-- Mobile Security: Super/Mini App Security
-- OSS Security: Supply Chain Poisoning
-- LLM Security: Jailbreak, LLM4Security
+- Mobile/Web Security: WebView-based Apps
+- OSS Security: NodeJS/PyPI Code Poisoning
+- LLM Security: LLM4Security
 
 If you would like to reach me, please send an email to [shenaowang@hust.edu.cn](shenaowang@hust.edu.cn).
 
