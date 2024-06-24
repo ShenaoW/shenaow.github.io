@@ -20,7 +20,7 @@ I am interested in improving the security of mobile systems and having an impact
 - OSS Security: NodeJS/PyPI Code Poisoning
 - LLM Security: LLM4Security
 
-If you would like to reach me, please send an email to [shenaowang[AT]hust.edu.cn](mailto:shenaowang@hust.edu.cn).
+If you would like to reach me, please send an email to [shenaowang [AT] hust.edu.cn](mailto:shenaowang@hust.edu.cn).
 
 Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/), [Yanjie Zhao](https://yanjiezhao96.github.io/), [Liu Wang](https://liuer-wang.github.io/), [Ningke Li](https://ningke-li.github.io/).
 
