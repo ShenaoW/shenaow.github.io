@@ -81,8 +81,8 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 ## <span style="color:grey">Peer-Reviewed</span>
 
 * **CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments**
-    <br>**Shenao Wang***, Feng Dong*, Hangfeng Yang, Jingheng Xu, and Haoyu Wang.
-    <br>ACM CCS 2024
+    <br>**Shenao Wang\***, Feng Dong\*, Hangfeng Yang, Jingheng Xu, and Haoyu Wang.
+    <br>To appear in The ACM Conference on Computer and Communications Security (CCS), 2024
 
 * **Large Language Model Supply Chain: A Research Agenda**
     <br>**Shenao Wang**, Yanjie Zhao, Xinyi Hou, Haoyu Wang. 
