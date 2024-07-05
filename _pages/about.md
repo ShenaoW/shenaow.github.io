@@ -26,6 +26,8 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 # 🎉 News
 
+- [05 Jul 2024] Our work on ransomware detection in industrial environments is accepted by CCS 2024.
+
 - [24 May 2024] Our paper titled "GPTZoo: A Large-scale Dataset of GPTs for the Research Community" is available on [arXiv](https://arxiv.org/abs/2405.15630).
 
 - [20 May 2024] Our paper titled "Seeing is (Not) Believing: Practical Phishing Attacks Targeting Social Media Sharing Cards" is available on [arXiv](https://arxiv.org/abs/2405.10758).
@@ -77,6 +79,10 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
     <br>Xinyi Hou, Yanjie Zhao, **Shenao Wang**, Haoyu Wang [[Paper](https://arxiv.org/pdf/2405.15630)]
 
 ## <span style="color:grey">Peer-Reviewed</span>
+
+* **CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments**
+    <br>**Shenao Wang***, Feng Dong*, Hangfeng Yang, Jingheng Xu, and Haoyu Wang.
+    <br>ACM CCS 2024
 
 * **Large Language Model Supply Chain: A Research Agenda**
     <br>**Shenao Wang**, Yanjie Zhao, Xinyi Hou, Haoyu Wang. 
