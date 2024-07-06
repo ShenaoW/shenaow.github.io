@@ -26,7 +26,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 # 🎉 News
 
-- [05 Jul 2024] Our work on ransomware detection in industrial environments is accepted by CCS 2024.
+- [05 Jul 2024] Our work on ransomware detection in industrial environments is accepted by CCS 2024. See you in Salt Lake City.
 
 - [24 May 2024] Our paper titled "GPTZoo: A Large-scale Dataset of GPTs for the Research Community" is available on [arXiv](https://arxiv.org/abs/2405.15630).
 
