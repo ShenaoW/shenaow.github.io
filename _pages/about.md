@@ -28,23 +28,11 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 - [05 Jul 2024] Our work on ransomware detection in industrial environments is accepted by CCS 2024. See you in Salt Lake City.
 
-- [24 May 2024] Our paper titled "GPTZoo: A Large-scale Dataset of GPTs for the Research Community" is available on [arXiv](https://arxiv.org/abs/2405.15630).
-
-- [20 May 2024] Our paper titled "Seeing is (Not) Believing: Practical Phishing Attacks Targeting Social Media Sharing Cards" is available on [arXiv](https://arxiv.org/abs/2405.10758).
-
-- [17 May 2024] Our paper titled "GPT Store Mining and Analysis" is available on [arXiv](https://arxiv.org/abs/2405.10210).
-
-- [08 May 2024] Our paper titled "Large Language Models for Cyber Security: A Systematic Literature Review" is available on [arXiv](https://arxiv.org/abs/2405.04760).
-
 - [30 Apr 2024] Our paper titled "Large Language Model Supply Chain: A Research Agenda" is accepted by SE 2030.
 
 - [30 Apr 2024] Our paper titled "LLM App Store Analysis: A Vision and Roadmap" is accepted by SE 2030.
 
-- [09 Jan 2024] Our paper titled "MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis" is available on [arXiv](https://arxiv.org/abs/2401.03218).
-
-- [03 Dec 2023] Our work on privacy analysis of mini-programs win the third prize in Prototype Competition of ChinaSoft 2023.
-
-- [20 Aug 2023] Our work on privacy compliance of mini-programs win the highest prize in CISCN 2023 (with me serving as a co-advisor).
+- [03 Dec 2023] We win the third prize in Software Research Prototype System Competition of ChinaSoft 2023.
 
 - [15 Aug 2023] Our paper on malicious npm/pypi package detection is accepted by ASE 2023 (Industry Challenge Track, full paper).
 
