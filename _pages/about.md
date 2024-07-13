@@ -18,7 +18,7 @@ I am interested in improving the security of mobile systems and having an impact
 
 - Mobile/Web Security: WebView-based Apps
 - OSS Security: NodeJS/PyPI Code Poisoning
-- LLM Security: LLM4Security
+- LLM Security: Pre-trained Model Supply Chain Security, LLM4Security
 
 If you would like to reach me, please send an email to [shenaowang [AT] hust.edu.cn](mailto:shenaowang@hust.edu.cn).
 
