@@ -117,7 +117,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 # 🌟 Grants
 
-* 2022.7-2023.11, Detection of Permission Abuse in Android/iOS Apps, Cyber Security Academy Student Innovation Funding (一流网络安全学院学生创新资助计划, [一期优秀项目 [6/240]](https://www.cybersac.cn/detail/1702256698066042881)), Funded by CSAC and NIO
+* 2022.7-2023.11, Detection of Permission Abuse in Android/iOS Apps, Cyber Security Academy Student Innovation Funding (一流网络安全学院学生创新资助计划, [入选优秀项目成果展 [6/240]](https://www.cybersac.cn/detail/1702256698066042881)), Funded by CSAC and NIO
 
 * 2024.7 until now, Unified Multilingual Program Analysis, Cyber Security Academy Student Innovation Funding (一流网络安全学院学生创新资助计划), Funded by CSAC and AntGroup
 
