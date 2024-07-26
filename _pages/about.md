@@ -40,7 +40,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 - [25 Jun 2023] I receive my B.Eng. degree at Xidian University. :)
 
-- [16 May 2023] I give a presentation at the first [Cyber Security Innovation Forum in Wuhan](https://epaper.hubeidaily.net/pc/content/202305/17/content_224970.html), with a topic of “Research on Permission Abuse in Android Apps”.
+- [16 May 2023] I give a presentation at the first [Cyber Security Innovation Forum in Wuhan](https://epaper.hubeidaily.net/pc/content/202305/17/content_224970.html).
 
 - [28 Sep 2022] I become a member of SECURITY PRIDE Research Group.
 
