@@ -81,7 +81,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
     <br>Yanjie Zhao, Xinyi Hou, **Shenao Wang**, Haoyu Wang. 
     <br>The International Workshop on Software Engineering in 2030 (SE 2030), co-located with FSE [[Paper](https://arxiv.org/pdf/2404.12737)]
 
-* **\[SATS'23\] On the Usage-scenario-based Data Minimization in Mini Programs**
+* **\[SaTS'23\] On the Usage-scenario-based Data Minimization in Mini Programs**
     <br>**Shenao Wang**, Yanjie Zhao, Kailong Wang, Haoyu Wang. 
     <br>The 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS), co-located with CCS [[Paper](http://ShenaoW.github.io/files/sats23.pdf)]
 
