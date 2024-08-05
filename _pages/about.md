@@ -71,7 +71,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 * **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
     <br>Xinyi Hou, Yanjie Zhao, **Shenao Wang**, Haoyu Wang 
-    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), The New Ideas and Emerging Results (NIER) Track[[Paper](https://arxiv.org/pdf/2405.15630)]
+    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), The New Ideas and Emerging Results (NIER) Track [[Paper](https://arxiv.org/pdf/2405.15630)]
 
 * **Large Language Model Supply Chain: A Research Agenda**
     <br>**Shenao Wang**, Yanjie Zhao, Xinyi Hou, Haoyu Wang. 
