@@ -65,33 +65,33 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 ## <span style="color:grey">Peer-Reviewed</span>
 
-* **CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments**
+* **\[CCS'24\] CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments**
     <br>**Shenao Wang\***, Feng Dong\*, Hangfeng Yang, Jingheng Xu, and Haoyu Wang.
     <br>To appear in The ACM Conference on Computer and Communications Security (CCS), 2024
 
-* **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
+* **\[ASE'24\] GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
     <br>Xinyi Hou, Yanjie Zhao, **Shenao Wang**, Haoyu Wang 
-    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), The New Ideas and Emerging Results (NIER) Track [[Paper](https://arxiv.org/pdf/2405.15630)]
+    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), The New Ideas and Emerging Results (NIER) Track, 2024 [[Paper](https://arxiv.org/pdf/2405.15630)]
 
-* **Large Language Model Supply Chain: A Research Agenda**
+* **\[SE 2030\] Large Language Model Supply Chain: A Research Agenda**
     <br>**Shenao Wang**, Yanjie Zhao, Xinyi Hou, Haoyu Wang. 
-    <br>The International Workshop on Software Engineering in 2030 (SE 2030, co-located with FSE'24) [[Paper](https://arxiv.org/pdf/2404.12736)]
+    <br>The International Workshop on Software Engineering in 2030 (SE 2030, co-located with FSE) [[Paper](https://arxiv.org/pdf/2404.12736)]
 
-* **LLM App Store Analysis: A Vision and Roadmap**
+* **\[SE 2030\] LLM App Store Analysis: A Vision and Roadmap**
     <br>Yanjie Zhao, Xinyi Hou, **Shenao Wang**, Haoyu Wang. 
-    <br>The International Workshop on Software Engineering in 2030 (SE 2030, co-located with FSE'24) [[Paper](https://arxiv.org/pdf/2404.12737)]
+    <br>The International Workshop on Software Engineering in 2030 (SE 2030, co-located with FSE) [[Paper](https://arxiv.org/pdf/2404.12737)]
 
-* **On the Usage-scenario-based Data Minimization in Mini Programs**
+* **\[SATS'23\] On the Usage-scenario-based Data Minimization in Mini Programs**
     <br>**Shenao Wang**, Yanjie Zhao, Kailong Wang, Haoyu Wang. 
-    <br>The 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS'23, co-located with CCS'23) [[Paper](http://ShenaoW.github.io/files/sats23.pdf)]
+    <br>The 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS, co-located with CCS) [[Paper](http://ShenaoW.github.io/files/sats23.pdf)]
 
-* **MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains**
+* **\[ASE'23\] MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains**
     <br>Ningke Li, **Shenao Wang**, Mingxi Feng, Kailong Wang, Meizhen Wang, Haoyu Wang. 
-    <br>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE'23), Industry Challenge Track (full paper) [[Paper](http://ShenaoW.github.io/files/ase23malwukong.pdf)]
+    <br>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Challenge Track (full paper) [[Paper](http://ShenaoW.github.io/files/ase23malwukong.pdf)]
 
-* **WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs**
+* **\[ASE'23\] WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs**
     <br>Shi Meng, Liu Wang, **Shenao Wang**, Kailong Wang, Xusheng Xiao, Guangdong Bai, Haoyu Wang. 
-    <br>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE'23) [[Paper](http://ShenaoW.github.io/files/ase23wemint.pdf)]
+    <br>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) [[Paper](http://ShenaoW.github.io/files/ase23wemint.pdf)]
 
 # 🎓 Educations
 
