@@ -63,14 +63,15 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 * **Seeing is (Not) Believing: Practical Phishing Attacks Targeting Social Media Sharing Cards**
     <br>Wangchenlu Huang, **Shenao Wang**, Yanjie Zhao, Guosheng Xu, Haoyu Wang [[Paper](https://arxiv.org/pdf/2405.10758)] 
 
-* **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
-    <br>Xinyi Hou, Yanjie Zhao, **Shenao Wang**, Haoyu Wang [[Paper](https://arxiv.org/pdf/2405.15630)]
-
 ## <span style="color:grey">Peer-Reviewed</span>
 
 * **CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments**
     <br>**Shenao Wang\***, Feng Dong\*, Hangfeng Yang, Jingheng Xu, and Haoyu Wang.
     <br>To appear in The ACM Conference on Computer and Communications Security (CCS), 2024
+
+* **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
+    <br>Xinyi Hou, Yanjie Zhao, **Shenao Wang**, Haoyu Wang 
+    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), The New Ideas and Emerging Results (NIER) Track[[Paper](https://arxiv.org/pdf/2405.15630)]
 
 * **Large Language Model Supply Chain: A Research Agenda**
     <br>**Shenao Wang**, Yanjie Zhao, Xinyi Hou, Haoyu Wang. 
