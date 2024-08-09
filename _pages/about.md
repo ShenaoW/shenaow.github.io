@@ -69,7 +69,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
     <br>**Shenao Wang\***, Feng Dong\*, Hangfeng Yang, Jingheng Xu, and Haoyu Wang.
     <br>To appear in The ACM Conference on Computer and Communications Security (CCS), 2024
 
-* **\[ASE-NIER'24\] GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
+* **\[ASE'24\] GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
     <br>Xinyi Hou, Yanjie Zhao, **Shenao Wang**, Haoyu Wang 
     <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), The New Ideas and Emerging Results (NIER) Track, 2024 [[Paper](https://arxiv.org/pdf/2405.15630)]
 
@@ -85,7 +85,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
     <br>**Shenao Wang**, Yanjie Zhao, Kailong Wang, Haoyu Wang. 
     <br>The 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS), co-located with CCS [[Paper](http://ShenaoW.github.io/files/sats23.pdf)]
 
-* **\[ASE-Inch'23\] MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains**
+* **\[ASE'23\] MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains**
     <br>Ningke Li, **Shenao Wang**, Mingxi Feng, Kailong Wang, Meizhen Wang, Haoyu Wang. 
     <br>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Challenge Track (full paper) [[Paper](http://ShenaoW.github.io/files/ase23malwukong.pdf)]
 
