@@ -26,11 +26,11 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 # 🎉 News
 
-- [05 Jul 2024] Our work on ransomware detection in industrial environments is accepted by CCS 2024. See you in Salt Lake City.
+- [24 Aug 2024] Two papers on OSS/LLM supply chain security are accepted by ASE 2024!
 
-- [30 Apr 2024] Our paper titled "Large Language Model Supply Chain: A Research Agenda" is accepted by SE 2030.
+- [05 Jul 2024] Our work on ransomware detection in industrial environments is accepted by CCS 2024. See you in Salt Lake City!
 
-- [30 Apr 2024] Our paper titled "LLM App Store Analysis: A Vision and Roadmap" is accepted by SE 2030.
+- [30 Apr 2024] Two papers are accepted by SE 2030!
 
 - [03 Dec 2023] We win the third prize in Software Research Prototype System Competition of ChinaSoft 2023.
 
@@ -68,6 +68,14 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 * **\[CCS'24\] CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments**
     <br>**Shenao Wang\***, Feng Dong\*, Hangfeng Yang, Jingheng Xu, and Haoyu Wang.
     <br>To appear in The ACM Conference on Computer and Communications Security (CCS), 2024
+
+* **\[ASE'24\] Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
+    <br>Jian Zhao\*, **Shenao Wang\***, Yanjie Zhao, Xinyi Hou, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
+    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, 2024 [[Paper]()]
+
+* **\[ASE'24\] Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments**
+    <br>Xinyi Zheng, Chen Wei, **Shenao Wang**, Yanjie Zhao, Peiming Gao, Yuanchao Zhang, Kailong Wang, Haoyu Wang
+    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, 2024 [[Paper]()]
 
 * **\[ASE'24\] GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
     <br>Xinyi Hou, Yanjie Zhao, **Shenao Wang**, Haoyu Wang 
