@@ -69,17 +69,17 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
     <br>**Shenao Wang\***, Feng Dong\*, Hangfeng Yang, Jingheng Xu, and Haoyu Wang.
     <br>To appear in The ACM Conference on Computer and Communications Security (CCS), 2024
 
-* **\[ASE'24\] Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
+* **\[ASE-Industry'24\] Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
     <br>Jian Zhao\*, **Shenao Wang\***, Yanjie Zhao, Xinyi Hou, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
     <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, 2024 [[Paper]()]
 
-* **\[ASE'24\] Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments**
+* **\[ASE-Industry'24\] Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments**
     <br>Xinyi Zheng, Chen Wei, **Shenao Wang**, Yanjie Zhao, Peiming Gao, Yuanchao Zhang, Kailong Wang, Haoyu Wang
     <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, 2024 [[Paper]()]
 
-* **\[ASE'24\] GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
+* **\[ASE-NIER'24\] GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
     <br>Xinyi Hou, Yanjie Zhao, **Shenao Wang**, Haoyu Wang 
-    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), The New Ideas and Emerging Results (NIER) Track, 2024 [[Paper](https://arxiv.org/pdf/2405.15630)]
+    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), NIER Track, 2024 [[Paper](https://arxiv.org/pdf/2405.15630)]
 
 * **\[SE 2030\] Large Language Model Supply Chain: A Research Agenda**
     <br>**Shenao Wang**, Yanjie Zhao, Xinyi Hou, Haoyu Wang. 
