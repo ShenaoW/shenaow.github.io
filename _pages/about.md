@@ -26,7 +26,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 # 🎉 News
 
-- [24 Aug 2024] Two papers on OSS/LLM supply chain security are accepted by ASE 2024!
+- [24 Aug 2024] Two papers on OSS/LLM supply chain security are accepted by ASE 2024 (Industry Showcase)!
 
 - [05 Jul 2024] Our work on ransomware detection in industrial environments is accepted by CCS 2024. See you in Salt Lake City!
 
