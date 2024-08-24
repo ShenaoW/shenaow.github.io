@@ -69,11 +69,11 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
     <br>**Shenao Wang\***, Feng Dong\*, Hangfeng Yang, Jingheng Xu, and Haoyu Wang.
     <br>To appear in The ACM Conference on Computer and Communications Security (CCS), 2024
 
-* **\[ASE-Indu'24\] Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
+* **\[ASE-Industry'24\] Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
     <br>Jian Zhao\*, **Shenao Wang\***, Yanjie Zhao, Xinyi Hou, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
     <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase (Full Paper), 2024
 
-* **\[ASE-Indu'24\] Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments**
+* **\[ASE-Industry'24\] Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments**
     <br>Xinyi Zheng, Chen Wei, **Shenao Wang**, Yanjie Zhao, Peiming Gao, Yuanchao Zhang, Kailong Wang, Haoyu Wang
     <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase (Full Paper), 2024
 
@@ -93,7 +93,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
     <br>**Shenao Wang**, Yanjie Zhao, Kailong Wang, Haoyu Wang. 
     <br>The 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS), co-located with CCS [[Paper](http://ShenaoW.github.io/files/sats23.pdf)]
 
-* **\[ASE-Inch'23\] MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains**
+* **\[ASE-Industry'23\] MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains**
     <br>Ningke Li, **Shenao Wang**, Mingxi Feng, Kailong Wang, Meizhen Wang, Haoyu Wang. 
     <br>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Challenge Track (Full Paper) [[Paper](http://ShenaoW.github.io/files/ase23malwukong.pdf)]
 
