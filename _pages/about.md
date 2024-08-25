@@ -34,7 +34,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 - [03 Dec 2023] We won the third prize in Software Research Prototype System Competition of ChinaSoft 2023.
 
-- [15 Aug 2023] Our paper on malicious npm/pypi package detection was accepted by ASE 2023 (Industry Challenge Track, full paper).
+- [15 Aug 2023] Our paper on malicious npm/pypi package detection was accepted by ASE 2023 (Industry Challenge Track).
 
 - [18 Jul 2023] Our paper on WeChat AppSecret Leaks was accepted by ASE 2023.
 
