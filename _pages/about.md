@@ -26,23 +26,23 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 # 🎉 News
 
-- [24 Aug 2024] Two papers on OSS/LLM supply chain security are accepted by ASE 2024 (Industry Showcase)!
+- [24 Aug 2024] Two papers working on OSS/LLM supply chain security were accepted by ASE 2024 (Industry Showcase)!
 
-- [05 Jul 2024] Our work on ransomware detection in industrial environments is accepted by CCS 2024. See you in Salt Lake City!
+- [05 Jul 2024] Our paper on ransomware detection in industrial environments was accepted by CCS 2024. See you in Salt Lake City!
 
-- [30 Apr 2024] Two papers are accepted by SE 2030!
+- [30 Apr 2024] Two papers working on LLM Apps and Supply Chain were accepted by SE 2030!
 
-- [03 Dec 2023] We win the third prize in Software Research Prototype System Competition of ChinaSoft 2023.
+- [03 Dec 2023] We won the third prize in Software Research Prototype System Competition of ChinaSoft 2023.
 
-- [15 Aug 2023] Our paper on malicious npm/pypi package detection is accepted by ASE 2023 (Industry Challenge Track, full paper).
+- [15 Aug 2023] Our paper on malicious npm/pypi package detection was accepted by ASE 2023 (Industry Challenge Track, full paper).
 
-- [18 Jul 2023] Our paper on WeChat AppSecret Leaks is accepted by ASE 2023.
+- [18 Jul 2023] Our paper on WeChat AppSecret Leaks was accepted by ASE 2023.
 
-- [25 Jun 2023] I receive my B.Eng. degree at Xidian University. :)
+- [25 Jun 2023] I received my B.Eng. degree at Xidian University. :)
 
-- [16 May 2023] I give a presentation at the first [Cyber Security Innovation Forum in Wuhan](https://epaper.hubeidaily.net/pc/content/202305/17/content_224970.html).
+- [16 May 2023] I was invited to give a presentation at the first [Cyber Security Innovation Forum in Wuhan](https://epaper.hubeidaily.net/pc/content/202305/17/content_224970.html).
 
-- [28 Sep 2022] I become a member of SECURITY PRIDE Research Group.
+- [28 Sep 2022] I became a member of SECURITY PRIDE Research Group.
 
   
 # 📝 Publications 
