@@ -14,11 +14,11 @@ redirect_from:
 
 Hi, there! I’m a master student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology (HUST), supervised by Prof. [Haoyu Wang](https://howiepku.github.io/). Previously, I received my B.Eng. degree at Xidian University, under supervision of Prof. [Hui Li](https://web.xidian.edu.cn/lihui/index.html) in June 2023. 
 
-I am interested in improving the security of mobile systems and having an impact in the real world. My current research interests include Mobile/Web Security, OSS Security and LLM Security:
+I am interested in the intersection of security, program analysis, and AI systems. To understand and mitigate evolving system security & privacy threats, I work to design and develop practical tools with program analysis techniques to detect and defend against a wide range of vulnerabilities in various systems, e.g. OSS supply chain, universal endpoint, LLM infrastructure and other AI systems. 
 
-- Mobile/Web Security: WebView-based Apps
-- OSS Security: NodeJS/PyPI Code Poisoning
-- LLM Security: Pre-trained Model Supply Chain Security, LLM4Security
+- OSS Supply Chain: NodeJS/PyPI Code Poisoning (ASE'23, ASE'24)
+- Universal Endpoint: ransomware (CCS'24), miniapp security (ASE'23) & privacy (SE 2030)
+- LLM Infra: Pre-trained Model Supply Chain (ASE'24, SE 2030)
 
 If you would like to reach me, please send an email to [shenaowang [AT] hust.edu.cn](mailto:shenaowang@hust.edu.cn).
 
