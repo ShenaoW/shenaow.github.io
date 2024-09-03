@@ -63,7 +63,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 * **<span style="color:#09a778">\[arXiv\]</span> Seeing is (Not) Believing: Practical Phishing Attacks Targeting Social Media Sharing Cards**
     <br>Wangchenlu Huang, **Shenao Wang**, Yanjie Zhao, Guosheng Xu, Haoyu Wang [[Paper](https://arxiv.org/pdf/2405.10758)] 
 
-## <span style="color:grey">Peer-Reviewed</span>
+## <span style="color:grey">Conference</span>
 
 * **<span style="color:#09a778">\[CCS'24\]</span> CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments**
     <br>**Shenao Wang\***, Feng Dong\*, Hangfeng Yang, Jingheng Xu, and Haoyu Wang.
@@ -81,6 +81,16 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
     <br>Xinyi Hou, Yanjie Zhao, **Shenao Wang**, Haoyu Wang 
     <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), NIER Track, 2024 [[Paper](https://arxiv.org/pdf/2405.15630)]
 
+* **<span style="color:#09a778">\[ASE-Industry'23\]</span> MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains**
+    <br>Ningke Li, **Shenao Wang**, Mingxi Feng, Kailong Wang, Meizhen Wang, Haoyu Wang. 
+    <br>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Challenge Track (Full Paper) [[Paper](http://ShenaoW.github.io/files/ase23malwukong.pdf)]
+
+* **<span style="color:#09a778">\[ASE'23\]</span> WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs**
+    <br>Shi Meng, Liu Wang, **Shenao Wang**, Kailong Wang, Xusheng Xiao, Guangdong Bai, Haoyu Wang. 
+    <br>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) [[Paper](http://ShenaoW.github.io/files/ase23wemint.pdf)]
+
+## <span style="color:grey">Workshop</span>
+
 * **<span style="color:#09a778">\[SE 2030\]</span> Large Language Model Supply Chain: A Research Agenda**
     <br>**Shenao Wang**, Yanjie Zhao, Xinyi Hou, Haoyu Wang. 
     <br>The International Workshop on Software Engineering in 2030 (SE 2030), co-located with FSE [[Paper](https://arxiv.org/pdf/2404.12736)]
@@ -92,14 +102,6 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 * **<span style="color:#09a778">\[SaTS'23\]</span> On the Usage-scenario-based Data Minimization in Mini Programs**
     <br>**Shenao Wang**, Yanjie Zhao, Kailong Wang, Haoyu Wang. 
     <br>The 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS), co-located with CCS [[Paper](http://ShenaoW.github.io/files/sats23.pdf)]
-
-* **<span style="color:#09a778">\[ASE-Industry'23\]</span> MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains**
-    <br>Ningke Li, **Shenao Wang**, Mingxi Feng, Kailong Wang, Meizhen Wang, Haoyu Wang. 
-    <br>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Challenge Track (Full Paper) [[Paper](http://ShenaoW.github.io/files/ase23malwukong.pdf)]
-
-* **<span style="color:#09a778">\[ASE'23\]</span> WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs**
-    <br>Shi Meng, Liu Wang, **Shenao Wang**, Kailong Wang, Xusheng Xiao, Guangdong Bai, Haoyu Wang. 
-    <br>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) [[Paper](http://ShenaoW.github.io/files/ase23wemint.pdf)]
 
 # 🎓 Educations
 
