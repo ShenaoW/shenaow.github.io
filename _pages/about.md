@@ -71,11 +71,11 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 * **<span style="color:#09a778">\[ASE-Industry'24\]</span> Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
     <br>Jian Zhao\*, **Shenao Wang\***, Yanjie Zhao, Xinyi Hou, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
-    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase (Full Paper), 2024
+    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase (Full Paper), 2024 [[Paper](https://arxiv.org/pdf/2409.09368)]
 
 * **<span style="color:#09a778">\[ASE-Industry'24\]</span> Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments**
     <br>Xinyi Zheng, Chen Wei, **Shenao Wang**, Yanjie Zhao, Peiming Gao, Yuanchao Zhang, Kailong Wang, Haoyu Wang
-    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase (Full Paper), 2024
+    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase (Full Paper), 2024 [[Paper](https://arxiv.org/pdf/2409.09356)]
 
 * **<span style="color:#09a778">\[ASE-NIER'24\]</span> GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
     <br>Xinyi Hou, Yanjie Zhao, **Shenao Wang**, Haoyu Wang 
