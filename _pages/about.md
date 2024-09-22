@@ -66,7 +66,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 ## <span style="color:grey">Conference</span>
 
 * **<span style="color:#09a778">\[CCS'24\]</span> CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments**
-    <br><u>**Shenao Wang</u>\***, Feng Dong\*, Hangfeng Yang, Jingheng Xu, and Haoyu Wang.
+    <br>**<u>Shenao Wang</u>\***, Feng Dong\*, Hangfeng Yang, Jingheng Xu, and Haoyu Wang.
     <br>The 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS), 2024 [[Paper](https://arxiv.org/pdf/2408.16515)]
 
 * **<span style="color:#09a778">\[ASE-Industry'24\]</span> Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
