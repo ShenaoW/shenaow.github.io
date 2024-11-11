@@ -16,9 +16,9 @@ Hi, there! I’m a master student in the School of Cyber Science and Engineering
 
 I am interested in the intersection of security, program analysis, and AI systems. To understand and mitigate evolving system security & privacy threats, I work to design and develop practical tools by leveraging advanced program analysis techniques. My research vision is to develop impactful real-world solutions for detecting and defending against a wide range of vulnerabilities in various systems, including OSS supply chain, universal endpoint, LLM infrastructure, and other AI systems. 
 
-- OSS Supply Chain: NPM/PyPI Code Poisoning (ASE'23, ASE'24)
-- Universal Endpoint: ransomware (CCS'24), miniapp security (ASE'23) & privacy (SE 2030)
-- LLM Infra: pre-trained model supply chain (ASE'24, SE 2030)
+- OSS Security: NPM/PyPI Code Poisoning (ASE'23, ASE'24)
+- Endpoint Security: ransomware (CCS'24), miniapp security (ASE'23) & privacy (SE 2030)
+- LLM Infra Security: pre-trained model supply chain (ASE'24, SE 2030)
 
 If you would like to reach me, please send an email to [shenaowang [AT] hust.edu.cn](mailto:shenaowang@hust.edu.cn).
 
