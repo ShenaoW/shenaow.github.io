@@ -25,6 +25,7 @@ If you would like to reach me, please send an email to [shenaowang [AT] hust.edu
 Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/), [Yanjie Zhao](https://yanjiezhao96.github.io/), [Liu Wang](https://liuer-wang.github.io/), [Ningke Li](https://ningke-li.github.io/).
 
 # 🎉 News
+- [17 Nov 2024] We won the third prize in Software Research Prototype System Competition of ChinaSoft 2024.
 
 - [24 Aug 2024] Two papers working on OSS/LLM supply chain security were accepted by ASE 2024 (Industry Showcase)!
 
@@ -113,7 +114,8 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 * 2024.01 - 2024.02, Research Intern, Ant Group (MYbank), Hangzhou, China.
 
 # 🏆 Honors and Awards
-* 2023 - Bronze Award, National Innovation Competition（中国国际大学生创新大赛）[[reference](https://cy.ncss.cn/information/2c93f4c68a5f8efa018ef54ba77e00fd)]
+* 2023 - Third Prize, Prototype Competition in ChinaSoft'24 (软件研究成果原型系统竞赛) [[reference]()]
+* 2023 - Bronze Award, National Innovation Competition (中国国际大学生创新大赛) [[reference](https://cy.ncss.cn/information/2c93f4c68a5f8efa018ef54ba77e00fd)]
 * 2023 - Third Prize, Prototype Competition in ChinaSoft'23 (软件研究成果原型系统竞赛) [[reference](http://ShenaoW.github.io/files/chinasoft.pdf)]
 * 2023 - Outstanding Graduate of Shaanxi Province [[reference](http://www.sxjybk.com/2023/0705/66484.html)]
 * 2023 - Outstanding Bachelor Thesis of Xidian University [[reference](http://ShenaoW.github.io/files/thesis.pdf)]
