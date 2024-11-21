@@ -90,15 +90,17 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
     <br>Shi Meng, Liu Wang, **<u>Shenao Wang</u>**, Kailong Wang, Xusheng Xiao, Guangdong Bai, Haoyu Wang. 
     <br>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) [[Paper](http://ShenaoW.github.io/files/ase23wemint.pdf)]
 
-## <span style="color:grey">Workshop</span>
+## <span style="color:grey">Journal</span>
 
-* **<span style="color:#09a778">\[SE 2030\]</span> Large Language Model Supply Chain: A Research Agenda**
+* **<span style="color:#09a778">\[TOSEM 2030 SE Roadmap\]</span> Large Language Model Supply Chain: A Research Agenda**
     <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Xinyi Hou, Haoyu Wang. 
-    <br>The International Workshop on Software Engineering in 2030 (SE 2030), co-located with FSE [[Paper](https://arxiv.org/pdf/2404.12736)]
+    <br>ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap [[Paper](https://arxiv.org/pdf/2404.12736)]
 
-* **<span style="color:#09a778">\[SE 2030\]</span> LLM App Store Analysis: A Vision and Roadmap**
+* **<span style="color:#09a778">\[TOSEM 2030 SE Roadmap\]</span> LLM App Store Analysis: A Vision and Roadmap**
     <br>Yanjie Zhao, Xinyi Hou, **<u>Shenao Wang</u>**, Haoyu Wang. 
-    <br>The International Workshop on Software Engineering in 2030 (SE 2030), co-located with FSE [[Paper](https://arxiv.org/pdf/2404.12737)]
+    <br>ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap [[Paper](https://arxiv.org/pdf/2404.12737)]
+
+## <span style="color:grey">Workshop</span>
 
 * **<span style="color:#09a778">\[SaTS'23\]</span> On the Usage-scenario-based Data Minimization in Mini Programs**
     <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Kailong Wang, Haoyu Wang. 
