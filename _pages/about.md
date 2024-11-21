@@ -17,7 +17,7 @@ Hi, there! I’m a master student in the School of Cyber Science and Engineering
 I am interested in the intersection of security, program analysis, and AI systems. To understand and mitigate evolving system security & privacy threats, I work to design and develop practical tools by leveraging advanced program analysis techniques. My research vision is to develop impactful real-world solutions for detecting and defending against a wide range of vulnerabilities in various systems, including OSS supply chain, universal endpoint, LLM infrastructure, and other AI systems. 
 
 - OSS Security: NPM/PyPI Code Poisoning (ASE'23, ASE'24)
-- Endpoint Security: ransomware (CCS'24), miniapp security (ASE'23) & privacy (SE 2030)
+- Endpoint Security: ransomware (CCS'24), miniapp security (ASE'23) & privacy (SaTS'23)
 - LLM Infra Security: pre-trained model supply chain (TOSEM, ASE'24)
 
 If you would like to reach me, please send an email to [shenaowang [AT] hust.edu.cn](mailto:shenaowang@hust.edu.cn).
@@ -25,13 +25,13 @@ If you would like to reach me, please send an email to [shenaowang [AT] hust.edu
 Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/), [Yanjie Zhao](https://yanjiezhao96.github.io/), [Liu Wang](https://liuer-wang.github.io/), [Ningke Li](https://ningke-li.github.io/).
 
 # 🎉 News
+- [21 Nov 2024] Two papers working on LLM Apps and Supply Chain were accepted by TOSEM 2030 SE Roadmap!
+
 - [17 Nov 2024] We won the third prize in Software Research Prototype System Competition of ChinaSoft 2024.
 
 - [24 Aug 2024] Two papers working on OSS/LLM supply chain security were accepted by ASE 2024 (Industry Showcase)!
 
 - [05 Jul 2024] Our paper on ransomware detection in industrial environments was accepted by CCS 2024. See you in Salt Lake City!
-
-- [30 Apr 2024] Two papers working on LLM Apps and Supply Chain were accepted by SE 2030!
 
 - [03 Dec 2023] We won the third prize in Software Research Prototype System Competition of ChinaSoft 2023.
 
