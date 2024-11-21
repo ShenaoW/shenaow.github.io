@@ -18,7 +18,7 @@ I am interested in the intersection of security, program analysis, and AI system
 
 - OSS Security: NPM/PyPI Code Poisoning (ASE'23, ASE'24)
 - Endpoint Security: ransomware (CCS'24), miniapp security (ASE'23) & privacy (SE 2030)
-- LLM Infra Security: pre-trained model supply chain (ASE'24, SE 2030)
+- LLM Infra Security: pre-trained model supply chain (TOSEM, ASE'24)
 
 If you would like to reach me, please send an email to [shenaowang [AT] hust.edu.cn](mailto:shenaowang@hust.edu.cn).
 
