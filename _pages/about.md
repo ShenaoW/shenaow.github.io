@@ -109,7 +109,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 # Services
 
 ## <span style="color:grey">Sub Reviewer</span>
-* 2025: Oakland, FSE, ISSTA, NSDI, AsiaCCS, Internetware, MSR
+* 2025: S&P, FSE, ISSTA, NSDI, AsiaCCS, Internetware, MSR
 * 2024: CCS, FSE, ISSTA, WWW, IMC, Internetware, MSR, EASE, MobileSoft, SaTS, MobiLLM, LCTES
 
 # 🎓 Educations
