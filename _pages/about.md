@@ -106,7 +106,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
     <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Kailong Wang, Haoyu Wang. 
     <br>The 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS), co-located with CCS [[Paper](http://ShenaoW.github.io/files/sats23.pdf)]
 
-# Services
+# 🔗 Services
 
 ## <span style="color:grey">Sub Reviewer</span>
 * 2025: S&P, FSE, ISSTA, NSDI, AsiaCCS, Internetware, MSR
