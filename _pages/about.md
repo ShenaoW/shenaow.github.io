@@ -92,11 +92,11 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 ## <span style="color:grey">Journal</span>
 
-* **<span style="color:#09a778">\[TOSEM 2030 SE Roadmap\]</span> Large Language Model Supply Chain: A Research Agenda**
+* **<span style="color:#09a778">\[TOSEM\]</span> Large Language Model Supply Chain: A Research Agenda**
     <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Xinyi Hou, Haoyu Wang. 
     <br>ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap [[Paper](https://arxiv.org/pdf/2404.12736)]
 
-* **<span style="color:#09a778">\[TOSEM 2030 SE Roadmap\]</span> LLM App Store Analysis: A Vision and Roadmap**
+* **<span style="color:#09a778">\[TOSEM\]</span> LLM App Store Analysis: A Vision and Roadmap**
     <br>Yanjie Zhao, Xinyi Hou, **<u>Shenao Wang</u>**, Haoyu Wang. 
     <br>ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap [[Paper](https://arxiv.org/pdf/2404.12737)]
 
