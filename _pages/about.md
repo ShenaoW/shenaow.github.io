@@ -91,13 +91,13 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 ## <span style="color:grey">Journal</span>
 
-* **<span style="color:#09a778">\[TOSEM\]</span> Large Language Model Supply Chain: A Research Agenda**
-    <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Xinyi Hou, Haoyu Wang. 
-    <br>ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap [[Paper]](https://arxiv.org/pdf/2404.12736)
-
 * **<span style="color:#09a778">\[TOSEM\]</span> MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis**
     <br>**<u>Shenao Wang</u>**, Yuekang Li, Kailong Wang, Yi Liu, Hui Li, Yang Liu, Haoyu Wang.
     <br>ACM Transactions on Software Engineering and Methodology (TOSEM) [[Paper]](https://arxiv.org/pdf/2401.03218) [[Repo]](https://github.com/security-pride/MiniScope)
+
+* **<span style="color:#09a778">\[TOSEM\]</span> Large Language Model Supply Chain: A Research Agenda**
+    <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Xinyi Hou, Haoyu Wang. 
+    <br>ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap [[Paper]](https://arxiv.org/pdf/2404.12736)
 
 * **<span style="color:#09a778">\[TOSEM\]</span> LLM App Store Analysis: A Vision and Roadmap**
     <br>Yanjie Zhao, Xinyi Hou, **<u>Shenao Wang</u>**, Haoyu Wang. 
