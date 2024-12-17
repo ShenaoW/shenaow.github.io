@@ -14,7 +14,11 @@ redirect_from:
 
 Hi, there! I’m a master student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology (HUST), supervised by Prof. [Haoyu Wang](https://howiepku.github.io/). Previously, I received my B.Eng. degree at Xidian University, under supervision of Prof. [Hui Li](https://web.xidian.edu.cn/lihui/index.html) in June 2023. 
 
-I am interested in the intersection of security, program analysis, and AI systems. To understand and mitigate evolving system security & privacy threats, I work to design and develop practical tools by leveraging advanced program analysis techniques. My research vision is to develop impactful real-world solutions for detecting and defending against a wide range of vulnerabilities in various systems, including OSS supply chain, universal endpoint, LLM infrastructure, and other AI systems. 
+I am interested in the intersection of security, program analysis, and AI systems. 
+My research aims to address evolving security and privacy threats by designing and building practical tools that leverage advanced program analysis techniques.
+Specifically, I focus on developing impactful, real-world solutions for detecting and defending against vulnerabilities in a wide range of systems, including Open-Source Software Supply Chains, Cross-Platform Endpoints, and LLM Infrastructures.
+To achieve this vision, I am equally committed to surveying the landscape of emerging threats and conducting rigorous measurements to better understand and quantify system vulnerabilities.
+By combining theoretical insights with empirical evaluations, my work strives to bridge the gap between academic research and real-world applications.
 
 - OSS Security: NPM/PyPI code poisoning (ASE'23, ASE'24)
 - Endpoint Security: ransomware (CCS'24), miniapp security (ASE'23) & privacy (TOSEM, SaTS'23)
