@@ -134,7 +134,7 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 * 2023 - Bronze Award, National Innovation Competition (中国国际大学生创新大赛) [[reference]](http://ShenaoW.github.io/files/hulianwang+.pdf)
 * 2023 - Third Prize, Prototype Competition in ChinaSoft'23 (软件研究成果原型系统竞赛) [[reference]](http://ShenaoW.github.io/files/chinasoft.pdf)
 * 2022 - First Prize, National Digital Forensics Competition (美亚杯中国电子数据取证大赛, [19/764](https://www.meiyacup.cn/Ar_index_gci_87.html)) [[reference]](http://ShenaoW.github.io/files/meiyacup.pdf)
-* 2022 - First Prize / Most Innovative Award, National College Student Information Security Context (全国大学生信息安全竞赛, [2/728](http://117.78.33.202/upload/file/20220905/1662368728900393.pdf)) [[reference]](http://ShenaoW.github.io/files/ciscn.pdf)
+* 2022 - First Prize & Most Valuable Award, National College Student Information Security Contest (全国大学生信息安全竞赛, [2/728](http://117.78.33.202/upload/file/20220905/1662368728900393.pdf)) [[reference]](http://ShenaoW.github.io/files/ciscn.pdf)
 * 2022 - Meritorious Winner, MCM/ICM (Problem A) [[reference]](http://ShenaoW.github.io/files/icm.pdf)
 * 2021 - First Prize, National Cryptographic Competition (全国密码技术竞赛) [[reference]](http://ShenaoW.github.io/files/crypto.pdf)
 * 2021 - First Prize, CUMCM in Shannxi Province [[reference]](http://ShenaoW.github.io/files/cumcm.pdf)
