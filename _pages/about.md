@@ -22,7 +22,7 @@ To achieve this vision, I am equally committed to surveying the landscape of eme
 - Endpoint Security: ransomware (CCS'24), miniapp security (ASE'23) & privacy (TOSEM, SaTS'23)
 - LLM Infra Security: pre-trained model supply chain (TOSEM, ASE'24)
 
-If you would like to reach me, please send an email to [shenaowang [AT] hust.edu.cn](mailto:shenaowang@hust.edu.cn).
+If you would like to reach me, please send an email to [shenaowang AT hust.edu.cn](mailto:shenaowang@hust.edu.cn).
 
 Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/), [Yanjie Zhao](https://yanjiezhao96.github.io/), [Liu Wang](https://liuer-wang.github.io/), [Ningke Li](https://ningke-li.github.io/).
 
