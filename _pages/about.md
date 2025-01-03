@@ -24,8 +24,6 @@ To achieve this vision, I am equally committed to surveying the landscape of eme
 
 If you would like to reach me, please send an email to [shenaowang AT hust.edu.cn](mailto:shenaowang@hust.edu.cn).
 
-Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/), [Yanjie Zhao](https://yanjiezhao96.github.io/), [Liu Wang](https://liuer-wang.github.io/), [Ningke Li](https://ningke-li.github.io/).
-
 # 🎉 News
 - [11 Dec 2024] Our paper working on MiniApp privacy was accepted by TOSEM!
 
