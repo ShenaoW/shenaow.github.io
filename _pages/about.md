@@ -71,21 +71,21 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
     <br>**<u>Shenao Wang</u>\***, Feng Dong\*, Hangfeng Yang, Jingheng Xu, and Haoyu Wang.
     <br>The 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS), 2024 [[Paper]](https://arxiv.org/pdf/2408.16515)
 
-* **<span style="color:#09a778">\[ASE-Industry'24\]</span> Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
+* **<span style="color:#09a778">\[ASE'24\]</span> Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
     <br>Jian Zhao\*, **<u>Shenao Wang</u>\***, Yanjie Zhao, Xinyi Hou, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
-    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase (Full Paper), 2024 [[Paper]](https://arxiv.org/pdf/2409.09368) [[Repo]](https://github.com/security-pride/MalHug)
+    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, 2024 [[Paper]](https://arxiv.org/pdf/2409.09368) [[Repo]](https://github.com/security-pride/MalHug)
 
-* **<span style="color:#09a778">\[ASE-Industry'24\]</span> Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments**
-    <br>Xinyi Zheng, Chen Wei, **<u>Shenao Wang</u>**, Yanjie Zhao, Peiming Gao, Yuanchao Zhang, Kailong Wang, Haoyu Wang
-    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase (Full Paper), 2024 [[Paper]](https://arxiv.org/pdf/2409.09356) [[Repo]](https://github.com/security-pride/OSCAR)
+* **<span style="color:#09a778">\[ASE'24\]</span> Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments**
+    <br>Xinyi Zheng\*, Chen Wei\*, **<u>Shenao Wang</u>**, Yanjie Zhao, Peiming Gao, Yuanchao Zhang, Kailong Wang, Haoyu Wang
+    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, 2024 [[Paper]](https://arxiv.org/pdf/2409.09356) [[Repo]](https://github.com/security-pride/OSCAR)
 
-* **<span style="color:#09a778">\[ASE-NIER'24\]</span> GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
+* **<span style="color:#09a778">\[ASE'24\]</span> GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
     <br>Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Haoyu Wang 
     <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), NIER Track, 2024 [[Paper]](https://arxiv.org/pdf/2405.15630) [[Repo]](https://github.com/security-pride/GPTZoo)
 
-* **<span style="color:#09a778">\[ASE-Industry'23\]</span> MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains**
+* **<span style="color:#09a778">\[ASE'23\]</span> MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains**
     <br>Ningke Li, **<u>Shenao Wang</u>**, Mingxi Feng, Kailong Wang, Meizhen Wang, Haoyu Wang. 
-    <br>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Challenge Track (Full Paper) [[Paper]](http://ShenaoW.github.io/files/ase23malwukong.pdf) [[Repo]](https://github.com/security-pride/malwukong-samples)
+    <br>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Challenge Track[[Paper]](http://ShenaoW.github.io/files/ase23malwukong.pdf) [[Repo]](https://github.com/security-pride/malwukong-samples)
 
 * **<span style="color:#09a778">\[ASE'23\]</span> WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs**
     <br>Shi Meng, Liu Wang, **<u>Shenao Wang</u>**, Kailong Wang, Xusheng Xiao, Guangdong Bai, Haoyu Wang. 
@@ -130,23 +130,23 @@ Here are my close friends' homepages: [Xinyi Hou](https://xinyi-hou.github.io/),
 
 ## <span style="color:grey">Awards</span>
 
-* 2024 - Third Prize, Prototype Competition in ChinaSoft'24 (软件研究成果原型系统竞赛) [[reference]](http://ShenaoW.github.io/files/chinasoft24.pdf)
-* 2023 - Bronze Award, National Innovation Competition (中国国际大学生创新大赛) [[reference]](http://ShenaoW.github.io/files/hulianwang+.pdf)
-* 2023 - Third Prize, Prototype Competition in ChinaSoft'23 (软件研究成果原型系统竞赛) [[reference]](http://ShenaoW.github.io/files/chinasoft.pdf)
-* 2022 - First Prize, National Digital Forensics Competition (美亚杯中国电子数据取证大赛, [19/764](https://www.meiyacup.cn/Ar_index_gci_87.html)) [[reference]](http://ShenaoW.github.io/files/meiyacup.pdf)
-* 2022 - First Prize & Most Valuable Award, National College Student Information Security Contest (全国大学生信息安全竞赛, [2/728](http://117.78.33.202/upload/file/20220905/1662368728900393.pdf)) [[reference]](http://ShenaoW.github.io/files/ciscn.pdf)
-* 2022 - Meritorious Winner, MCM/ICM (Problem A) [[reference]](http://ShenaoW.github.io/files/icm.pdf)
-* 2021 - First Prize, National Cryptographic Competition (全国密码技术竞赛) [[reference]](http://ShenaoW.github.io/files/crypto.pdf)
-* 2021 - First Prize, CUMCM in Shannxi Province [[reference]](http://ShenaoW.github.io/files/cumcm.pdf)
+* 2024 - Third Prize, Prototype Competition in ChinaSoft'24 (软件研究成果原型系统竞赛) [[Reference]](http://ShenaoW.github.io/files/chinasoft24.pdf)
+* 2023 - Bronze Award, National Innovation Competition (中国国际大学生创新大赛) [[Reference]](http://ShenaoW.github.io/files/hulianwang+.pdf)
+* 2023 - Third Prize, Prototype Competition in ChinaSoft'23 (软件研究成果原型系统竞赛) [[Reference]](http://ShenaoW.github.io/files/chinasoft.pdf)
+* 2022 - First Prize, National Digital Forensics Competition (美亚杯中国电子数据取证大赛, [19/764](https://www.meiyacup.cn/Ar_index_gci_87.html)) [[Reference]](http://ShenaoW.github.io/files/meiyacup.pdf)
+* 2022 - First Prize & Most Valuable Award, National College Student Information Security Contest (全国大学生信息安全竞赛, [2/728](http://117.78.33.202/upload/file/20220905/1662368728900393.pdf)) [[Reference]](http://ShenaoW.github.io/files/ciscn.pdf)
+* 2022 - Meritorious Winner, MCM/ICM (Problem A) [[Reference]](http://ShenaoW.github.io/files/icm.pdf)
+* 2021 - First Prize, National Cryptographic Competition (全国密码技术竞赛) [[Reference]](http://ShenaoW.github.io/files/crypto.pdf)
+* 2021 - First Prize, CUMCM in Shannxi Province [[Reference]](http://ShenaoW.github.io/files/cumcm.pdf)
 
 ## <span style="color:grey">Scholarship & Honors</span>
 
-* 2024 - National Scholarship, Ministry of Education of P.R. China [[reference]](http://ShenaoW.github.io/files/national_scholarship.pdf)
-* 2024 - Merit Student, Huazhong University of Science and Technology [[reference]](http://ShenaoW.github.io/files/merit.pdf)
-* 2023 - Outstanding Graduate of Shaanxi Province [[reference]](http://www.sxjybk.com/2023/0705/66484.html)
-* 2023 - Outstanding Bachelor Thesis, Xidian University [[reference]](http://ShenaoW.github.io/files/thesis.pdf)
-* 2022 - President Scholarship, Xidian University ([5 undergraduates among 5300+](https://news.xidian.edu.cn/info/2106/223413.htm), the highest student honor in Xidian University) [[reference]](http://ShenaoW.github.io/files/president_scholarship.pdf)
-* 2022 - National Scholarship, Ministry of Education of P.R. China (Top 1%) [[reference]](http://ShenaoW.github.io/files/national_scholarship.pdf)
+* 2024 - National Scholarship, Ministry of Education of P.R. China [[Reference]](http://ShenaoW.github.io/files/national_scholarship.pdf)
+* 2024 - Merit Student, Huazhong University of Science and Technology [[Reference]](http://ShenaoW.github.io/files/merit.pdf)
+* 2023 - Outstanding Graduate of Shaanxi Province [[Reference]](http://www.sxjybk.com/2023/0705/66484.html)
+* 2023 - Outstanding Bachelor Thesis, Xidian University [[Reference]](http://ShenaoW.github.io/files/thesis.pdf)
+* 2022 - President Scholarship, Xidian University ([5 undergraduates among 5300+](https://news.xidian.edu.cn/info/2106/223413.htm), the highest student honor in Xidian University) [[Reference]](http://ShenaoW.github.io/files/president_scholarship.pdf)
+* 2022 - National Scholarship, Ministry of Education of P.R. China (Top 1%) [[Reference]](http://ShenaoW.github.io/files/national_scholarship.pdf)
 * 2022 - Xiaomi Special Scholarship (5 undergraduates among 5300+)
 * 2021 - Excellent Student Cadre, Xidian University
 * 2021 - National Encouragement Scholarship, Ministry of Education of P.R. China
