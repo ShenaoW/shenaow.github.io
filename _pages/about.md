@@ -22,7 +22,7 @@ To achieve this vision, I am equally committed to surveying the landscape of eme
 - Endpoint Security: ransomware (CCS'24), miniapp security (ASE'23) & privacy (TOSEM, SaTS'23)
 - LLM Infra Security: pre-trained model supply chain (TOSEM, ASE'24)
 
-If you would like to reach me, please send an email to [shenaowang AT hust.edu.cn](mailto:shenaowang@hust.edu.cn).
+If you would like to reach me, please send an email to [shenaowang AT hust.edu.cn](mailto:shenaowang@hust.edu.cn)
 
 # 🎉 News
 - [11 Dec 2024] Our paper working on MiniApp privacy was accepted by TOSEM!
@@ -57,57 +57,57 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 * **<span style="color:#09a778">\[arXiv\]</span> Large Language Models for Cyber Security: A Systematic Literature Review**
     <br>Hanxiang Xu, **<u>Shenao Wang</u>**, Ningke Li, Kailong Wang, Yanjie Zhao, Kai Chen, Ting Yu, Yang Liu, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2405.04760)
 
-* **<span style="color:#09a778">\[arXiv\]</span> GPT Store Mining and Analysis**
-    <br>Dongxun Su, Yanjie Zhao, Xinyi Hou, **<u>Shenao Wang</u>**, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2405.10210)
-
 * **<span style="color:#09a778">\[arXiv\]</span> Seeing is (Not) Believing: Practical Phishing Attacks Targeting Social Media Sharing Cards**
     <br>Wangchenlu Huang, **<u>Shenao Wang</u>**, Yanjie Zhao, Guosheng Xu, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2405.10758)
+
+* **<span style="color:#09a778">\[arXiv\]</span> GPT Store Mining and Analysis**
+    <br>Dongxun Su, Yanjie Zhao, Xinyi Hou, **<u>Shenao Wang</u>**, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2405.10210)
 
 ## <span style="color:grey">Conference</span>
 
 * **<span style="color:#09a778">\[CCS'24\]</span> CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments**
     <br>**<u>Shenao Wang</u>\***, Feng Dong\*, Hangfeng Yang, Jingheng Xu, and Haoyu Wang.
-    <br>The 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS), 2024 [[Paper]](https://arxiv.org/pdf/2408.16515)
+    <br>*The 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS'24)* [[Paper]](https://arxiv.org/pdf/2408.16515)
 
 * **<span style="color:#09a778">\[ASE'24\]</span> Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
     <br>Jian Zhao\*, **<u>Shenao Wang</u>\***, Yanjie Zhao, Xinyi Hou, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
-    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, 2024 [[Paper]](https://arxiv.org/pdf/2409.09368) [[Repo]](https://github.com/security-pride/MalHug)
+    <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), Industry Showcase* [[Paper]](https://arxiv.org/pdf/2409.09368) [[Repo]](https://github.com/security-pride/MalHug)
 
 * **<span style="color:#09a778">\[ASE'24\]</span> Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments**
     <br>Xinyi Zheng\*, Chen Wei\*, **<u>Shenao Wang</u>**, Yanjie Zhao, Peiming Gao, Yuanchao Zhang, Kailong Wang, Haoyu Wang
-    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, 2024 [[Paper]](https://arxiv.org/pdf/2409.09356) [[Repo]](https://github.com/security-pride/OSCAR)
+    <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), Industry Showcase* [[Paper]](https://arxiv.org/pdf/2409.09356) [[Repo]](https://github.com/security-pride/OSCAR)
 
 * **<span style="color:#09a778">\[ASE'24\]</span> GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
     <br>Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Haoyu Wang 
-    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), NIER Track, 2024 [[Paper]](https://arxiv.org/pdf/2405.15630) [[Repo]](https://github.com/security-pride/GPTZoo)
+    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), NIER Track* [[Paper]](https://arxiv.org/pdf/2405.15630) [[Repo]](https://github.com/security-pride/GPTZoo)
 
 * **<span style="color:#09a778">\[ASE'23\]</span> MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains**
     <br>Ningke Li, **<u>Shenao Wang</u>**, Mingxi Feng, Kailong Wang, Meizhen Wang, Haoyu Wang. 
-    <br>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Challenge Track[[Paper]](http://ShenaoW.github.io/files/ase23malwukong.pdf) [[Repo]](https://github.com/security-pride/malwukong-samples)
+    <br>*The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE'23), Industry Challenge Track* [[Paper]](http://ShenaoW.github.io/files/ase23malwukong.pdf) [[Repo]](https://github.com/security-pride/malwukong-samples)
 
 * **<span style="color:#09a778">\[ASE'23\]</span> WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs**
     <br>Shi Meng, Liu Wang, **<u>Shenao Wang</u>**, Kailong Wang, Xusheng Xiao, Guangdong Bai, Haoyu Wang. 
-    <br>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) [[Paper]](http://ShenaoW.github.io/files/ase23wemint.pdf) [[Repo]](https://github.com/EEEEEEcho/wemint)
+    <br>*The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE'23)* [[Paper]](http://ShenaoW.github.io/files/ase23wemint.pdf) [[Repo]](https://github.com/EEEEEEcho/wemint)
 
 ## <span style="color:grey">Journal</span>
 
 * **<span style="color:#09a778">\[TOSEM\]</span> MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis**
     <br>**<u>Shenao Wang</u>**, Yuekang Li, Kailong Wang, Yi Liu, Hui Li, Yang Liu, Haoyu Wang.
-    <br>ACM Transactions on Software Engineering and Methodology (TOSEM) [[Paper]](https://arxiv.org/pdf/2401.03218) [[Repo]](https://github.com/security-pride/MiniScope)
+    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper]](https://arxiv.org/pdf/2401.03218) [[Repo]](https://github.com/security-pride/MiniScope)
 
 * **<span style="color:#09a778">\[TOSEM\]</span> Large Language Model Supply Chain: A Research Agenda**
     <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Xinyi Hou, Haoyu Wang. 
-    <br>ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap [[Paper]](https://arxiv.org/pdf/2404.12736) [[Repo]](https://github.com/ShenaoW/awesome-llm-supply-chain-security)
+    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap* [[Paper]](https://arxiv.org/pdf/2404.12736) [[Repo]](https://github.com/ShenaoW/awesome-llm-supply-chain-security)
 
 * **<span style="color:#09a778">\[TOSEM\]</span> LLM App Store Analysis: A Vision and Roadmap**
     <br>Yanjie Zhao, Xinyi Hou, **<u>Shenao Wang</u>**, Haoyu Wang. 
-    <br>ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap [[Paper]](https://arxiv.org/pdf/2404.12737)
+    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap* [[Paper]](https://arxiv.org/pdf/2404.12737)
 
 ## <span style="color:grey">Workshop</span>
 
 * **<span style="color:#09a778">\[SaTS'23\]</span> On the Usage-scenario-based Data Minimization in Mini Programs**
     <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Kailong Wang, Haoyu Wang. 
-    <br>The 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS), co-located with CCS [[Paper]](http://ShenaoW.github.io/files/sats23.pdf)
+    <br>*The 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS), co-located with CCS* [[Paper]](http://ShenaoW.github.io/files/sats23.pdf)
 
 # 🔗 Services
 
@@ -124,26 +124,28 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 * 2024.01 - 2024.02, Research Intern, Ant Group (MYbank), Hangzhou, China.
 
-# 🏆 Honors and Awards
+<span class='anchor' id='honors'></span>
+
+# 🏆 Honors & Awards
 
 ## <span style="color:grey">Awards</span>
 
-* 2024 - Third Prize, Prototype Competition in ChinaSoft'24 (软件研究成果原型系统竞赛) [[Reference]](http://ShenaoW.github.io/files/chinasoft24.pdf)
-* 2023 - Bronze Award, National Innovation Competition (中国国际大学生创新大赛) [[Reference]](http://ShenaoW.github.io/files/hulianwang+.pdf)
-* 2023 - Third Prize, Prototype Competition in ChinaSoft'23 (软件研究成果原型系统竞赛) [[Reference]](http://ShenaoW.github.io/files/chinasoft.pdf)
-* 2022 - First Prize, National Digital Forensics Competition (美亚杯中国电子数据取证大赛, [19/764](https://www.meiyacup.cn/Ar_index_gci_87.html)) [[Reference]](http://ShenaoW.github.io/files/meiyacup.pdf)
-* 2022 - First Prize & Most Valuable Award, National College Student Information Security Contest (全国大学生信息安全竞赛, [2/728](http://117.78.33.202/upload/file/20220905/1662368728900393.pdf)) [[Reference]](http://ShenaoW.github.io/files/ciscn.pdf)
+* 2024 - Third Prize, Prototype Competition in ChinaSoft'24 [[Reference]](http://ShenaoW.github.io/files/chinasoft24.pdf)
+* 2023 - Bronze Award, National Innovation Competition [[Reference]](http://ShenaoW.github.io/files/hulianwang+.pdf)
+* 2023 - Third Prize, Prototype Competition in ChinaSoft'23 [[Reference]](http://ShenaoW.github.io/files/chinasoft.pdf)
+* 2022 - First Prize, National Digital Forensics Competition ([19/764](https://www.meiyacup.cn/Ne_d_gci_16_id_62.html)) [[Reference]](http://ShenaoW.github.io/files/meiyacup.pdf)
+* 2022 - First Prize & Most Valuable Award, National College Student Information Security Contest ([2/728](http://117.78.33.202/upload/file/20220905/1662368728900393.pdf)) [[Reference]](http://ShenaoW.github.io/files/ciscn.pdf)
 * 2022 - Meritorious Winner, MCM/ICM (Problem A) [[Reference]](http://ShenaoW.github.io/files/icm.pdf)
-* 2021 - First Prize, National Cryptographic Competition (全国密码技术竞赛) [[Reference]](http://ShenaoW.github.io/files/crypto.pdf)
+* 2021 - First Prize, National Cryptographic Competition (16/121) [[Reference]](http://ShenaoW.github.io/files/crypto.pdf)
 * 2021 - First Prize, CUMCM in Shannxi Province [[Reference]](http://ShenaoW.github.io/files/cumcm.pdf)
 
-## <span style="color:grey">Scholarship & Honors</span>
+## <span style="color:grey">Honors</span>
 
 * 2024 - National Scholarship, Ministry of Education of P.R. China [[Reference]](http://ShenaoW.github.io/files/national_scholarship.pdf)
 * 2024 - Merit Student, Huazhong University of Science and Technology [[Reference]](http://ShenaoW.github.io/files/merit.pdf)
 * 2023 - Outstanding Graduate of Shaanxi Province [[Reference]](http://www.sxjybk.com/2023/0705/66484.html)
 * 2023 - Outstanding Bachelor Thesis, Xidian University [[Reference]](http://ShenaoW.github.io/files/thesis.pdf)
-* 2022 - President Scholarship, Xidian University ([5 undergraduates among 5300+](https://news.xidian.edu.cn/info/2106/223413.htm), the highest student honor in Xidian University) [[Reference]](http://ShenaoW.github.io/files/president_scholarship.pdf)
+* 2022 - President Scholarship, Xidian University ([5 undergraduates among 5300+](https://news.xidian.edu.cn/info/2106/223413.htm)) [[Reference]](http://ShenaoW.github.io/files/president_scholarship.pdf)
 * 2022 - National Scholarship, Ministry of Education of P.R. China (Top 1%) [[Reference]](http://ShenaoW.github.io/files/national_scholarship.pdf)
 * 2022 - Xiaomi Special Scholarship (5 undergraduates among 5300+)
 * 2021 - Excellent Student Cadre, Xidian University
@@ -153,12 +155,16 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 # 🌟 Grants
 
-* 2022.7-2023.11, Detection of Permission Abuse in Android/iOS Apps, Cybersecurity College Student Innovation Funding Program (一流网络安全学院学生创新资助计划, [入选优秀项目成果展 [6/240]](https://www.cybersac.cn/detail/1702256698066042881)), Funded by CSAC and NIO
+* **Permission Abuse Detection in Android/iOS Apps**
+  <br>*Cybersecurity College Student Innovation Funding Program* ([Excellent Project [6/240]](https://www.cybersac.cn/detail/1702256698066042881))
+  <br>*Funded by CSAC and NIO*, 2022.7-2023.11
 
-* 2024.7 until now, Unified Multilingual Program Analysis, Cybersecurity College Student Innovation Funding Program (一流网络安全学院学生创新资助计划), Funded by CSAC and AntGroup
+* **Multilingual Program Analysis**
+  <br>*Cybersecurity College Student Innovation Funding Program*
+  <br>*Funded by CSAC and AntGroup*, 2024.7 until now
 
 <div align=center><img src="http://ShenaoW.github.io/images/nio.jpg" alt="Funding-NIO-Excellent-Project" width = "80%" height = "80%" /></div>
 
-<br>
-<br>
-<br>
+---
+
+<span style="color:#808080;word-break: break-all;">Webpage Last Updated: Jan 3, 2025</span>  
