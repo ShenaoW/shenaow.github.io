@@ -16,7 +16,6 @@ Hi, there! I’m a master student in the School of Cyber Science and Engineering
 
 I am interested in the intersection of security, program analysis, and AI systems. 
 Specifically, I focus on developing impactful, real-world solutions for detecting and defending against vulnerabilities in a wide range of systems, including Open-Source Software Supply Chains, Cross-Platform Endpoints, and LLM Infrastructures.
-To achieve this vision, I am equally committed to surveying the landscape of emerging threats and conducting rigorous measurements to better understand and quantify system vulnerabilities.
 
 - OSS Security: NPM/PyPI code poisoning (ASE'23, ASE'24)
 - Endpoint Security: ransomware (CCS'24), miniapp security (ASE'23) & privacy (TOSEM, SaTS'23)
