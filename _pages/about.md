@@ -12,39 +12,39 @@ redirect_from:
 
 # 😀 About Me
 
-Hi, there! I’m a master student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology (HUST), supervised by Prof. [Haoyu Wang](https://howiepku.github.io/). Previously, I received my B.Eng. degree at Xidian University, under supervision of Prof. [Hui Li](https://web.xidian.edu.cn/lihui/index.html) in June 2023. 
+Hi, there! I’m a master student at Huazhong University of Science and Technology (HUST), supervised by Prof. [Haoyu Wang](https://howiepku.github.io/), working with folks at Security PRIDE Research Group. Previously, I received my B.Eng. degree at Xidian University, under supervision of Prof. [Hui Li](https://web.xidian.edu.cn/lihui/index.html) in June 2023. 
 
 I am interested in the intersection of security, program analysis, and AI systems. 
 Specifically, I focus on developing impactful, real-world solutions for detecting and defending against vulnerabilities in a wide range of systems, including Open-Source Software Supply Chains, Cross-Platform Endpoints, and LLM Infrastructures.
 
-- OSS Security: NPM/PyPI code poisoning (ASE'23, ASE'24)
-- Endpoint Security: ransomware (CCS'24), miniapp security (ASE'23) & privacy (TOSEM, SaTS'23)
-- LLM Infra Security: pre-trained model supply chain (TOSEM, ASE'24)
+- **OSS Security**: NPM/PyPI code poisoning (ASE'23, ASE'24)
+- **Endpoint Security**: ransomware (CCS'24), miniapp security (ASE'23) & privacy (TOSEM, SaTS'23)
+- **LLM Infra Security**: pre-trained model supply chain (TOSEM, ASE'24)
 
 If you would like to reach me, please send an email to [shenaowang AT hust.edu.cn](mailto:shenaowang@hust.edu.cn)
 
 # 🎉 News
-- [11 Dec 2024] Our paper working on MiniApp privacy was accepted by TOSEM!
+- 12/2024: Our paper working on MiniApp privacy was accepted by TOSEM!
 
-- [21 Nov 2024] Two papers working on LLM Apps and Supply Chain were accepted by TOSEM 2030 SE Roadmap!
+- 11/2024: Two papers working on LLM Apps and Supply Chain were accepted by TOSEM 2030 SE Roadmap!
 
-- [17 Nov 2024] We won the third prize in Software Research Prototype System Competition of ChinaSoft 2024.
+- 11/2024: We won the third prize in Software Research Prototype System Competition of ChinaSoft 2024.
 
-- [24 Aug 2024] Two papers working on OSS/LLM supply chain security were accepted by ASE 2024 (Industry Showcase)!
+- 08/2024: Two papers working on OSS/LLM supply chain security were accepted by ASE 2024 (Industry Showcase)!
 
-- [05 Jul 2024] Our paper on ransomware detection in industrial environments was accepted by CCS 2024. See you in Salt Lake City!
+- 07/2024: Our paper on ransomware detection in industrial environments was accepted by CCS 2024. See you in Salt Lake City!
 
-- [03 Dec 2023] We won the third prize in Software Research Prototype System Competition of ChinaSoft 2023.
+- 12/2023: We won the third prize in Software Research Prototype System Competition of ChinaSoft 2023.
 
-- [15 Aug 2023] Our paper on malicious npm/pypi package detection was accepted by ASE 2023 (Industry Challenge Track).
+- 08/2023: Our paper on malicious npm/pypi package detection was accepted by ASE 2023 (Industry Challenge Track).
 
-- [18 Jul 2023] Our paper on WeChat AppSecret Leaks was accepted by ASE 2023.
+- 07/2023: Our paper on WeChat AppSecret Leaks was accepted by ASE 2023.
 
-- [25 Jun 2023] I received my B.Eng. degree at Xidian University. :)
+- 06/2023: I received my B.Eng. degree at Xidian University. :)
 
-- [16 May 2023] I was invited to give a presentation at the first [Cyber Security Innovation Forum in Wuhan](https://epaper.hubeidaily.net/pc/content/202305/17/content_224970.html).
+- 05/2023: I was invited to give a presentation at the first [Cyber Security Innovation Forum in Wuhan](https://epaper.hubeidaily.net/pc/content/202305/17/content_224970.html).
 
-- [28 Sep 2022] I became a member of SECURITY PRIDE Research Group.
+- 09/2022: I became a member of SECURITY PRIDE Research Group.
 
   
 # 📝 Publications 
@@ -78,7 +78,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 * **<span style="color:#09a778">\[ASE'24\]</span> GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
     <br>Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Haoyu Wang 
-    <br>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), NIER Track* [[Paper]](https://arxiv.org/pdf/2405.15630) [[Repo]](https://github.com/security-pride/GPTZoo)
+    <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), NIER Track* [[Paper]](https://arxiv.org/pdf/2405.15630) [[Repo]](https://github.com/security-pride/GPTZoo)
 
 * **<span style="color:#09a778">\[ASE'23\]</span> MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains**
     <br>Ningke Li, **<u>Shenao Wang</u>**, Mingxi Feng, Kailong Wang, Meizhen Wang, Haoyu Wang. 
@@ -108,20 +108,23 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
     <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Kailong Wang, Haoyu Wang. 
     <br>*The 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS), co-located with CCS* [[Paper]](http://ShenaoW.github.io/files/sats23.pdf)
 
-# 🔗 Services
+# 🔗 Service
 
 ## <span style="color:grey">Sub Reviewer</span>
 * 2025: S&P, FSE, ISSTA, NSDI, AsiaCCS
 * 2024: CCS, FSE, ISSTA, WWW, IMC, Internetware, MSR, EASE, MobileSoft, SaTS, MobiLLM, LCTES
 
-# 🎓 Educations
+# 👾 Experience
 
-* 2019.09 - 2023.06, B.Eng., Xidian University, Xi'an, China.
-* 2023.09 until now, M.S., Huazhong University of Science and Technology, Wuhan, China.
+## <span style="color:grey">Education</span>
 
-# 👾 Experiences
+* 09/2019 - 06/2023, B.Eng., Xidian University, Xi'an, China.
+* 09/2023 - until now, M.S., Huazhong University of Science and Technology, Wuhan, China.
 
-* 2024.01 - 2024.02, Research Intern, Ant Group (MYbank), Hangzhou, China.
+## <span style="color:grey">Intern</span>
+
+* 01/2024 - 02/2024, Research Intern, Ant Group (MYbank), Hangzhou, China.
+* 09/2024 - until now, Research Intern, Jinyinhu Lab, Wuhan, China.
 
 <span class='anchor' id='honors'></span>
 
@@ -166,4 +169,4 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 ---
 
-<span style="color:#808080;word-break: break-all;">Webpage Last Updated: Jan 3, 2025</span>  
+<p style="text-align: center; color: #808080; word-break: break-all;">© Copyright 2025 Shenao Wang. Last Updated: 4 Jan, 2025</p>

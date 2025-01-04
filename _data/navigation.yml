@@ -9,14 +9,11 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Services"
-    url: "/#-services"
+  - title: "Service"
+    url: "/#-service"
 
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Experiences"
-    url: "/#-experiences"
+  - title: "Experience"
+    url: "/#-experience"
     
   - title: "Honors & Awards"
     url: "/#honors"
