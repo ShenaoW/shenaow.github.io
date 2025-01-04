@@ -157,13 +157,13 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 # 🌟 Grants
 
-* **Permission Abuse Detection in Android/iOS Apps**
-  <br>*Cybersecurity College Student Innovation Funding Program* ([Excellent Project [6/240]](https://www.cybersac.cn/detail/1702256698066042881))
-  <br>*Funded by CSAC and NIO*, 2022.7-2023.11
-
 * **Multilingual Program Analysis**
   <br>*Cybersecurity College Student Innovation Funding Program*
   <br>*Funded by CSAC and AntGroup*, 2024.7 until now
+
+* **Permission Abuse Detection in Android/iOS Apps**
+  <br>*Cybersecurity College Student Innovation Funding Program* ([Excellent Project [6/240]](https://www.cybersac.cn/detail/1702256698066042881))
+  <br>*Funded by CSAC and NIO*, 2022.7-2023.11
 
 <!-- <div align=center><img src="http://ShenaoW.github.io/images/nio.jpg" alt="Funding-NIO-Excellent-Project" width = "80%" height = "80%" /></div> -->
 
