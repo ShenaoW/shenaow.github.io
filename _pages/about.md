@@ -165,7 +165,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
   <br>*Cybersecurity College Student Innovation Funding Program*
   <br>*Funded by CSAC and AntGroup*, 2024.7 until now
 
-<div align=center><img src="http://ShenaoW.github.io/images/nio.jpg" alt="Funding-NIO-Excellent-Project" width = "80%" height = "80%" /></div>
+<!-- <div align=center><img src="http://ShenaoW.github.io/images/nio.jpg" alt="Funding-NIO-Excellent-Project" width = "80%" height = "80%" /></div> -->
 
 ---
 
