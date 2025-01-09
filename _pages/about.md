@@ -24,6 +24,8 @@ Specifically, I focus on developing impactful, real-world solutions for detectin
 If you would like to reach me, please send an email to [shenaowang AT hust.edu.cn](mailto:shenaowang@hust.edu.cn)
 
 # 🎉 News
+- 12/2024: We are actively maintaining the [Awesome-LLM-Supply-Chain-Sec](https://github.com/ShenaoW/awesome-llm-supply-chain-security). Welcome to star, fork, and contribute.
+
 - 12/2024: Our paper working on MiniApp privacy was accepted by TOSEM!
 
 - 11/2024: Two papers working on LLM Apps and Supply Chain were accepted by TOSEM 2030 SE Roadmap!
