@@ -24,7 +24,9 @@ Specifically, I focus on developing impactful, real-world solutions for detectin
 If you would like to reach me, please send an email to [shenaowang AT hust.edu.cn](mailto:shenaowang@hust.edu.cn)
 
 # 🎉 News
-- 12/2024: We are actively maintaining the [Awesome-LLM-Supply-Chain-Sec](https://github.com/ShenaoW/awesome-llm-supply-chain-security). Welcome to star, fork, and contribute.
+- 🔝 **02/2025: Excited to announce the 1st workshop on [LLMSC](https://llmsc.github.io/), co-located with [ISSTA'25](https://conf.researchr.org/home/issta-2025)! Join us in Trondheim, Norway!**
+
+- 🔝 **12/2024: We are actively maintaining the [Awesome-LLM-Supply-Chain-Security](https://github.com/ShenaoW/awesome-llm-supply-chain-security). Welcome to star, fork, and contribute!**
 
 - 12/2024: Our paper working on MiniApp privacy was accepted by TOSEM!
 
