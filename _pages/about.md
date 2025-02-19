@@ -57,6 +57,9 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 ## <span style="color:grey">Preprint</span> 
 
+* **<span style="color:#09a778">\[arXiv\]</span> SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain**
+    <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Zhao Liu, Quanchen Zou, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2502.12497)
+
 * **<span style="color:#09a778">\[arXiv\]</span> Large Language Models for Cyber Security: A Systematic Literature Review**
     <br>Hanxiang Xu, **<u>Shenao Wang</u>**, Ningke Li, Kailong Wang, Yanjie Zhao, Kai Chen, Ting Yu, Yang Liu, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2405.04760)
 
