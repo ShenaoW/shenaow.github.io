@@ -121,6 +121,9 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 * 2025: S&P, FSE, ISSTA, NSDI, AsiaCCS
 * 2024: CCS, FSE, ISSTA, WWW, IMC, Internetware, MSR, EASE, MobileSoft, SaTS, MobiLLM, LCTES
 
+## <span style="color:grey">Publicity & Web Chair</span>
+* LLMSC Workshop @ISSTA 2025
+
 # 👾 Experience
 
 ## <span style="color:grey">Education</span>
