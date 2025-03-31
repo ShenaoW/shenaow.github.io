@@ -69,9 +69,6 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 * **<span style="color:#09a778">\[arXiv\]</span> Seeing is (Not) Believing: Practical Phishing Attacks Targeting Social Media Sharing Cards**
     <br>Wangchenlu Huang, **<u>Shenao Wang</u>**, Yanjie Zhao, Guosheng Xu, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2405.10758)
 
-* **<span style="color:#09a778">\[arXiv\]</span> GPT Store Mining and Analysis**
-    <br>Dongxun Su, Yanjie Zhao, Xinyi Hou, **<u>Shenao Wang</u>**, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2405.10210)
-
 ## <span style="color:grey">Conference</span>
 
 * **<span style="color:#09a778">\[CCS'24\]</span> CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments**
@@ -81,6 +78,10 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 * **<span style="color:#09a778">\[ASE'24\]</span> Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
     <br>Jian Zhao\*, **<u>Shenao Wang</u>\***, Yanjie Zhao, Xinyi Hou, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
     <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), Industry Showcase* [[Paper]](https://arxiv.org/pdf/2409.09368) [[Repo]](https://github.com/security-pride/MalHug)
+
+* **<span style="color:#09a778">\[Internetware'25\]</span> GPT Store Mining and Analysis**
+    <br>Dongxun Su, Yanjie Zhao, Xinyi Hou, **<u>Shenao Wang</u>**, Haoyu Wang
+    <br>*Proceedings of the 15th Asia-Pacific Symposium on Internetware* [[Paper]](https://arxiv.org/pdf/2405.10210)
 
 * **<span style="color:#09a778">\[ASE'24\]</span> Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments**
     <br>Xinyi Zheng\*, Chen Wei\*, **<u>Shenao Wang</u>**, Yanjie Zhao, Peiming Gao, Yuanchao Zhang, Kailong Wang, Haoyu Wang
