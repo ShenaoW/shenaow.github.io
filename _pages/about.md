@@ -60,9 +60,6 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 * **<span style="color:#09a778">\[arXiv\]</span> SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain**
     <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Zhao Liu, Quanchen Zou, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2502.12497)
 
-* **<span style="color:#09a778">\[arXiv\]</span> Towards Reliable Vector Database Management Systems: A Software Testing Roadmap for 2030**
-    <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Yinglin Xie, Zhao Liu, Xinyi Hou, Quanchen Zou, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2502.20812)
-
 * **<span style="color:#09a778">\[arXiv\]</span> Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions**
     <br>Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Haoyu Wang[[Paper]](https://arxiv.org/pdf/2503.23278)
 
@@ -117,6 +114,9 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
     <br>*ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap* [[Paper]](https://arxiv.org/pdf/2404.12737)
 
 ## <span style="color:grey">Workshop</span>
+
+* **<span style="color:#09a778">\[SE 2030\]</span> Towards Reliable Vector Database Management Systems: A Software Testing Roadmap for 2030**
+    <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Yinglin Xie, Zhao Liu, Xinyi Hou, Quanchen Zou, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2502.20812)
 
 * **<span style="color:#09a778">\[SaTS'23\]</span> On the Usage-scenario-based Data Minimization in Mini Programs**
     <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Kailong Wang, Haoyu Wang. 
