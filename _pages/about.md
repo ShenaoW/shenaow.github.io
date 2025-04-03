@@ -104,6 +104,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 * **<span style="color:#09a778">\[TOSEM\]</span> MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis**
     <br>**<u>Shenao Wang</u>**, Yuekang Li, Kailong Wang, Yi Liu, Hui Li, Yang Liu, Haoyu Wang.
     <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper]](https://arxiv.org/pdf/2401.03218) [[Repo]](https://github.com/security-pride/MiniScope)
+    <br>*Also accepted by FSE 2025 Journal First Track*
 
 * **<span style="color:#09a778">\[TOSEM\]</span> Large Language Model Supply Chain: A Research Agenda**
     <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Xinyi Hou, Haoyu Wang. 
