@@ -77,7 +77,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
     <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), Industry Showcase* [[Paper]](https://arxiv.org/pdf/2409.09368) [[Repo]](https://github.com/security-pride/MalHug)
 
 * **<span style="color:#09a778">\[Internetware'25\]</span> Seeing is (Not) Believing: The Mirage Card Attack Targeting Online Social Networks**
-    <br>Wangchenlu Huang, **<u>Shenao Wang</u>**, Yanjie Zhao, Guosheng Xu, Haoyu Wang
+    <br>Wangchenlu Huang\*, **<u>Shenao Wang</u>\***, Yanjie Zhao, Guosheng Xu, Haoyu Wang
     <br>*Proceedings of the 15th Asia-Pacific Symposium on Internetware* [[Paper]](https://arxiv.org/pdf/2405.10758)
 
 * **<span style="color:#09a778">\[Internetware'25\]</span> Exploring Typo Squatting Threats in the Hugging Face Ecosystem**
