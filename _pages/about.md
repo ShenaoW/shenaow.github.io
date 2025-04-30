@@ -185,7 +185,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 * **Multilingual Program Analysis**
   <br>*Cybersecurity College Student Innovation Funding Program*
-  <br>*Funded by CSAC and AntGroup*, 2024.7 until now
+  <br>*Funded by CSAC and AntGroup*, 2024.7-2025.4
 
 * **Permission Abuse Detection in Android/iOS Apps**
   <br>*Cybersecurity College Student Innovation Funding Program* ([Excellent Project [6/240]](https://www.cybersac.cn/detail/1702256698066042881))
