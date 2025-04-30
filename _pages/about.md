@@ -60,6 +60,9 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 * **<span style="color:#09a778">\[arXiv\]</span> SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain**
     <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Zhao Liu, Quanchen Zou, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2502.12497)
 
+* **<span style="color:#09a778">\[arXiv\]</span> Understanding Large Language Model Supply Chain: Structure, Domain, and Vulnerabilities**
+    <br>Yanzhe Hu\*, **<u>Shenao Wang</u>\***, Tianyuan Nie, Yanjie Zhao, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2504.20763)
+
 * **<span style="color:#09a778">\[arXiv\]</span> Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions**
     <br>Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Haoyu Wang[[Paper]](https://arxiv.org/pdf/2503.23278)
 
