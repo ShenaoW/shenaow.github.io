@@ -12,7 +12,7 @@ redirect_from:
 
 # 😀 About Me
 
-Hi, there! I’m a master student at Huazhong University of Science and Technology (HUST), supervised by Prof. [Haoyu Wang](https://howiepku.github.io/), working with folks at Security PRIDE Research Group. Previously, I received my B.Eng. degree at Xidian University, under supervision of Prof. [Hui Li](https://web.xidian.edu.cn/lihui/index.html) in June 2023. 
+Hi, there! I’m a master student at Huazhong University of Science and Technology (HUST), supervised by Prof. [Haoyu Wang](https://howiepku.github.io/), working with folks at **Security PRIDE** Research Group (**Security**, **Pri**vacy, and **De**pendability in Emerging Software Systems). Previously, I received my B.Eng. degree at Xidian University, under supervision of Prof. [Hui Li](https://web.xidian.edu.cn/lihui/index.html) in June 2023. 
 
 I am interested in the intersection of security, program analysis, and AI systems. 
 Specifically, I focus on developing impactful, real-world solutions for detecting and defending against vulnerabilities in a wide range of systems, including Open-Source Software Supply Chains, Cross-Platform Endpoints, and LLM Infrastructures.
