@@ -137,7 +137,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 # 🔗 Service
 
 ## <span style="color:grey">Sub Reviewer</span>
-* 2025: S&P, FSE, ISSTA, NSDI, AsiaCCS, PoPETs, IWQoS
+* 2025: S&P, FSE, ISSTA, ASE, NSDI, AsiaCCS, PoPETs, IWQoS
 * 2024: CCS, FSE, ISSTA, WWW, IMC, Internetware, MSR, EASE, MobileSoft, SaTS, MobiLLM, LCTES
 
 ## <span style="color:grey">Publicity & Web Chair</span>
@@ -172,6 +172,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 ## <span style="color:grey">Honors</span>
 
+* 2025 - SIGSOFT CAPS AWARD FSE/ISSTA 2025
 * 2024 - National Scholarship, Ministry of Education of P.R. China [[Reference]](http://ShenaoW.github.io/files/national_scholarship.pdf)
 * 2024 - Merit Student, Huazhong University of Science and Technology [[Reference]](http://ShenaoW.github.io/files/merit.pdf)
 * 2023 - Outstanding Graduate of Shaanxi Province [[Reference]](http://www.sxjybk.com/2023/0705/66484.html)
