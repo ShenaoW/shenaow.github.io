@@ -136,6 +136,9 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 # 🔗 Service
 
+## <span style="color:grey">Reviewer</span>
+* 2025: EMSE
+
 ## <span style="color:grey">Sub Reviewer</span>
 * 2025: S&P, FSE, ISSTA, ASE, NSDI, AsiaCCS, PoPETs, IWQoS
 * 2024: CCS, FSE, ISSTA, WWW, IMC, Internetware, MSR, EASE, MobileSoft, SaTS, MobiLLM, LCTES
@@ -155,6 +158,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 * 01/2024 - 02/2024, Research Intern, Ant Group (MYbank), Hangzhou, China.
 * 09/2024 - until now, Research Intern, Jinyinhu Lab, Wuhan, China.
+* 08/2025 - until now, Research Intern, Ant Group, Chengdu, China.
 
 <span class='anchor' id='honors'></span>
 
@@ -188,6 +192,10 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 # 🌟 Grants
 
+* **Detection of Supply Chain Poisoning**
+  <br>*Cybersecurity College Student Innovation Funding Program*
+  <br>*Funded by CSAC and DiDi*, 2025.8-until now
+
 * **Multilingual Program Analysis**
   <br>*Cybersecurity College Student Innovation Funding Program*
   <br>*Funded by CSAC and AntGroup*, 2024.7-2025.4
@@ -200,4 +208,4 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 ---
 
-<p style="text-align: center; color: #808080; word-break: break-all;">© Copyright 2025 Shenao Wang. Last Updated: 4 Jan, 2025</p>
+<p style="text-align: center; color: #808080; word-break: break-all;">© Copyright 2025 Shenao Wang. Last Updated: 7th Aug. 2025</p>
