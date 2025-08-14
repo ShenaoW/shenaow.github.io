@@ -74,13 +74,9 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 ## <span style="color:grey">Conference</span>
 
-* **<span style="color:#09a778">\[CCS'24\]</span> CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments**
-    <br>**<u>Shenao Wang</u>\***, Feng Dong\*, Hangfeng Yang, Jingheng Xu, and Haoyu Wang.
-    <br>*The 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS'24)* [[Paper]](https://arxiv.org/pdf/2408.16515)
-
-* **<span style="color:#09a778">\[ASE'24\]</span> Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
-    <br>Jian Zhao\*, **<u>Shenao Wang</u>\***, Yanjie Zhao, Xinyi Hou, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
-    <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), Industry Showcase* [[Paper]](https://arxiv.org/pdf/2409.09368) [[Repo]](https://github.com/security-pride/MalHug)
+* **<span style="color:#09a778">\[ASE'25\]</span> Demystifying Cookie Sharing Risks in WebView-based Mobile App-in-app Ecosystems**
+    <br>Miao Zhang\*, **<u>Shenao Wang</u>\***, Guilin Zheng, Yanjie Zhao, and Haoyu Wang.
+    <br>*The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE'25)*
 
 * **<span style="color:#09a778">\[Internetware'25\]</span> Seeing is (Not) Believing: The Mirage Card Attack Targeting Online Social Networks**
     <br>Wangchenlu Huang\*, **<u>Shenao Wang</u>\***, Yanjie Zhao, Guosheng Xu, Haoyu Wang
@@ -94,15 +90,23 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
     <br>Dongxun Su, Yanjie Zhao, Xinyi Hou, **<u>Shenao Wang</u>**, Haoyu Wang
     <br>*Proceedings of the 15th Asia-Pacific Symposium on Internetware* [[Paper]](https://arxiv.org/pdf/2405.10210)
 
-* **<span style="color:#09a778">\[ASE'24\]</span> Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments**
+* **<span style="color:#09a778">\[CCS'24\]</span> CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments**
+    <br>**<u>Shenao Wang</u>\***, Feng Dong\*, Hangfeng Yang, Jingheng Xu, and Haoyu Wang.
+    <br>*The 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS'24)* [[Paper]](https://arxiv.org/pdf/2408.16515)
+
+* **<span style="color:#09a778">\[ASE'24-Ind\]</span> Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
+    <br>Jian Zhao\*, **<u>Shenao Wang</u>\***, Yanjie Zhao, Xinyi Hou, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
+    <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), Industry Showcase* [[Paper]](https://arxiv.org/pdf/2409.09368) [[Repo]](https://github.com/security-pride/MalHug)
+
+* **<span style="color:#09a778">\[ASE'24-Ind\]</span> Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments**
     <br>Xinyi Zheng\*, Chen Wei\*, **<u>Shenao Wang</u>**, Yanjie Zhao, Peiming Gao, Yuanchao Zhang, Kailong Wang, Haoyu Wang
     <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), Industry Showcase* [[Paper]](https://arxiv.org/pdf/2409.09356) [[Repo]](https://github.com/security-pride/OSCAR)
 
-* **<span style="color:#09a778">\[ASE'24\]</span> GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
+* **<span style="color:#09a778">\[ASE'24-NIER\]</span> GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
     <br>Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Haoyu Wang 
     <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), NIER Track* [[Paper]](https://arxiv.org/pdf/2405.15630) [[Repo]](https://github.com/security-pride/GPTZoo)
 
-* **<span style="color:#09a778">\[ASE'23\]</span> MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains**
+* **<span style="color:#09a778">\[ASE'23-Ind\]</span> MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains**
     <br>Ningke Li, **<u>Shenao Wang</u>**, Mingxi Feng, Kailong Wang, Meizhen Wang, Haoyu Wang. 
     <br>*The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE'23), Industry Challenge Track* [[Paper]](http://ShenaoW.github.io/files/ase23malwukong.pdf) [[Repo]](https://github.com/security-pride/malwukong-samples)
 
