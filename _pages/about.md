@@ -18,7 +18,7 @@ I am interested in the intersection of security, program analysis, and AI system
 Specifically, I focus on developing impactful, real-world solutions for detecting and defending against vulnerabilities in a wide range of systems, including Open-Source Software Supply Chains, Cross-Platform Endpoints, and LLM Infrastructures.
 
 - **OSS Security**: NPM/PyPI code poisoning (ASE'23, ASE'24)
-- **Endpoint Security**: ransomware (CCS'24), miniapp security (ASE'23) & privacy (TOSEM, SaTS'23)
+- **Endpoint Security**: ransomware (CCS'24), miniapp security (ASE'23, ASE'25) & privacy (TOSEM, SaTS'23)
 - **LLM Infra Security**: pre-trained model supply chain (TOSEM, ASE'24)
 
 If you would like to reach me, please send an email to [shenaowang AT hust.edu.cn](mailto:shenaowang@hust.edu.cn)
