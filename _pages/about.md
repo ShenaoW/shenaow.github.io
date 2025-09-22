@@ -71,9 +71,6 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 * **<span style="color:#09a778">\[arXiv\]</span> Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions**
     <br>Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Haoyu Wang[[Paper]](https://arxiv.org/pdf/2503.23278)
 
-* **<span style="color:#09a778">\[arXiv\]</span> Large Language Models for Cyber Security: A Systematic Literature Review**
-    <br>Hanxiang Xu, **<u>Shenao Wang</u>**, Ningke Li, Kailong Wang, Yanjie Zhao, Kai Chen, Ting Yu, Yang Liu, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2405.04760)
-
 ## <span style="color:grey">Conference</span>
 
 * **<span style="color:#09a778">\[ASE'25\]</span> Demystifying Cookie Sharing Risks in WebView-based Mobile App-in-app Ecosystems**
@@ -130,6 +127,10 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 * **<span style="color:#09a778">\[TOSEM\]</span> Large Language Model Supply Chain: A Research Agenda**
     <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Xinyi Hou, Haoyu Wang. 
     <br>*ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap* [[Paper]](https://arxiv.org/pdf/2404.12736) [[Repo]](https://github.com/ShenaoW/awesome-llm-supply-chain-security)
+
+* **<span style="color:#09a778">\[TOSEM\]</span> Large Language Models for Cyber Security: A Systematic Literature Review**
+    <br>Hanxiang Xu, **<u>Shenao Wang</u>**, Ningke Li, Kailong Wang, Yanjie Zhao, Kai Chen, Ting Yu, Yang Liu, Haoyu Wang.
+    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper]](https://arxiv.org/abs/2405.04760) 
 
 * **<span style="color:#09a778">\[TOSEM\]</span> LLM App Store Analysis: A Vision and Roadmap**
     <br>Yanjie Zhao, Xinyi Hou, **<u>Shenao Wang</u>**, Haoyu Wang. 
