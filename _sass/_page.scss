@@ -116,6 +116,25 @@
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
+
+  details {
+    margin-left: 1em; /* 整个 <details> 块前移空格 */
+  }
+
+  details summary {
+    text-indent: 1em; /* 控制 "More" 文字的缩进 */
+    cursor: pointer; /* 鼠标样式为手型 */
+    font-weight: bold; /* 可选：让 "More" 更醒目 */
+    color: #09a778; /* 设置 "More" 文本的颜色为 $link-color-hover */
+  }
+
+  details[open] summary {
+    color: $link-color-hover; /* 可选：展开状态下改变文字颜色 */
+  }
+
+  details summary:hover {
+    text-decoration: underline; /* 鼠标悬停时下划线 */
+  }
 }
 
 .page__hero {
@@ -409,23 +428,4 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
-}
-
-details {
-  margin-left: 1em; /* 整个 <details> 块前移空格 */
-}
-
-details summary {
-  text-indent: 1em; /* 控制 "More" 文字的缩进 */
-  cursor: pointer; /* 鼠标样式为手型 */
-  font-weight: bold; /* 可选：让 "More" 更醒目 */
-  color: #09a778; /* 设置 "More" 文本的颜色为 $link-color-hover */
-}
-
-details[open] summary {
-  color: $link-color-hover; /* 可选：展开状态下改变文字颜色 */
-}
-
-details summary:hover {
-  text-decoration: underline; /* 鼠标悬停时下划线 */
 }
