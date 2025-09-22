@@ -53,7 +53,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 - 09/2022: I became a member of SECURITY PRIDE Research Group.
 
   
-# 📝 Publications 
+# 📝 Selected Publications 
 
 **(\* Equal Contribution)**
 
@@ -66,84 +66,147 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
     <br>Yanzhe Hu\*, **<u>Shenao Wang</u>\***, Tianyuan Nie, Yanjie Zhao, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2504.20763)
 
 * **<span style="color:#09a778">\[arXiv\]</span> Toward Understanding Bugs in Vector Database Management Systems**
-    <br>Yinlin Xie\*, Xinyi Hou\*, Yanjie Zhao, **<u>Shenao Wang</u>**, Kai Chen, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2506.02617)
+    <br>Yinlin Xie, Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Kai Chen, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2506.02617)
 
 * **<span style="color:#09a778">\[arXiv\]</span> Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions**
-    <br>Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Haoyu Wang[[Paper]](https://arxiv.org/pdf/2503.23278)
+    <br>Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2503.23278)
 
 ## <span style="color:grey">Conference</span>
 
-* **<span style="color:#09a778">\[ASE'25\]</span> Demystifying Cookie Sharing Risks in WebView-based Mobile App-in-app Ecosystems**
-    <br>Miao Zhang\*, **<u>Shenao Wang</u>\***, Guilin Zheng, Yanjie Zhao, and Haoyu Wang.
-    <br>*The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE'25)*
+<ul class="pubs">
+    <li>
+        <strong><span style="color:#09a778">[ASE'25]</span> Demystifying Cookie Sharing Risks in WebView-based Mobile App-in-app Ecosystems</strong>
+        <br>Miao Zhang*, <strong><u>Shenao Wang*</u></strong>, Guilin Zheng, Yanjie Zhao, Haoyu Wang.
+        <br><em>The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE'25)</em>
+        <a href="https://arxiv.org/pdf/2502.12497" target="_blank">[Paper]</a>
+    </li>
+    <li>
+        <strong><span style="color:#09a778">[Internetware'25]</span> Seeing is (Not) Believing: The Mirage Card Attack Targeting Online Social Networks</strong>
+        <br>Wangchenlu Huang*, <strong><u>Shenao Wang*</u></strong>, Yanjie Zhao, Guosheng Xu, Haoyu Wang.
+        <br><em>Proceedings of the 15th Asia-Pacific Symposium on Internetware</em>
+        <a href="https://arxiv.org/pdf/2405.10758" target="_blank">[Paper]</a>
+    </li>
+    <li>
+        <strong><span style="color:#09a778">[CCS'24]</span> CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments </strong>
+        <br><strong><u>Shenao Wang*</u></strong>, Feng Dong*, Hangfeng Yang, Jingheng Xu, and Haoyu Wang.
+        <br><em>The 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS'24)</em>
+        <a href="https://arxiv.org/pdf/2408.16515" target="_blank">[Paper]</a>
+    </li>
+    <li>
+        <strong><span style="color:#09a778">[ASE'24-Ind]</span> Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs </strong>
+        <br>Jian Zhao*, <strong><u>Shenao Wang*</u></strong>, Yanjie Zhao, Xinyi Hou, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang.
+        <br><em>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), Industry Showcase</em>
+        <a href="https://arxiv.org/pdf/2409.09368" target="_blank">[Paper]</a>
+        <a href="https://github.com/security-pride/MalHug" target="_blank">[Repo]</a>
+    </li>
+</ul>
 
-* **<span style="color:#09a778">\[ASE-Ind'25\]</span> A Characterization Study of Bugs in LLM Agent Workflow Orchestration Frameworks**
-    <br>Zilou Xue, Yanjie Zhao, **<u>Shenao Wang</u>**, Kai Chen, and Haoyu Wang.
-    <br>*The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE'25), Industry Showcase*
-
-* **<span style="color:#09a778">\[Internetware'25\]</span> Seeing is (Not) Believing: The Mirage Card Attack Targeting Online Social Networks**
-    <br>Wangchenlu Huang\*, **<u>Shenao Wang</u>\***, Yanjie Zhao, Guosheng Xu, Haoyu Wang
-    <br>*Proceedings of the 15th Asia-Pacific Symposium on Internetware* [[Paper]](https://arxiv.org/pdf/2405.10758)
-
-* **<span style="color:#09a778">\[Internetware'25\]</span> Exploring Typo Squatting Threats in the Hugging Face Ecosystem**
-    <br>Ningyuan Li, Yanjie Zhao, **<u>Shenao Wang</u>**, Zehao Wu, Haoyu Wang
-    <br>*Proceedings of the 15th Asia-Pacific Symposium on Internetware* [[Paper]]()
-
-* **<span style="color:#09a778">\[Internetware'25\]</span> GPT Store Mining and Analysis**
-    <br>Dongxun Su, Yanjie Zhao, Xinyi Hou, **<u>Shenao Wang</u>**, Haoyu Wang
-    <br>*Proceedings of the 15th Asia-Pacific Symposium on Internetware* [[Paper]](https://arxiv.org/pdf/2405.10210)
-
-* **<span style="color:#09a778">\[CCS'24\]</span> CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments**
-    <br>**<u>Shenao Wang</u>\***, Feng Dong\*, Hangfeng Yang, Jingheng Xu, and Haoyu Wang.
-    <br>*The 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS'24)* [[Paper]](https://arxiv.org/pdf/2408.16515)
-
-* **<span style="color:#09a778">\[ASE'24-Ind\]</span> Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
-    <br>Jian Zhao\*, **<u>Shenao Wang</u>\***, Yanjie Zhao, Xinyi Hou, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
-    <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), Industry Showcase* [[Paper]](https://arxiv.org/pdf/2409.09368) [[Repo]](https://github.com/security-pride/MalHug)
-
-* **<span style="color:#09a778">\[ASE'24-Ind\]</span> Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments**
-    <br>Xinyi Zheng\*, Chen Wei\*, **<u>Shenao Wang</u>**, Yanjie Zhao, Peiming Gao, Yuanchao Zhang, Kailong Wang, Haoyu Wang
-    <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), Industry Showcase* [[Paper]](https://arxiv.org/pdf/2409.09356) [[Repo]](https://github.com/security-pride/OSCAR)
-
-* **<span style="color:#09a778">\[ASE'24-NIER\]</span> GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
-    <br>Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Haoyu Wang 
-    <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), NIER Track* [[Paper]](https://arxiv.org/pdf/2405.15630) [[Repo]](https://github.com/security-pride/GPTZoo)
-
-* **<span style="color:#09a778">\[ASE'23-Ind\]</span> MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains**
-    <br>Ningke Li, **<u>Shenao Wang</u>**, Mingxi Feng, Kailong Wang, Meizhen Wang, Haoyu Wang. 
-    <br>*The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE'23), Industry Challenge Track* [[Paper]](http://ShenaoW.github.io/files/ase23malwukong.pdf) [[Repo]](https://github.com/security-pride/malwukong-samples)
-
-* **<span style="color:#09a778">\[ASE'23\]</span> WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs**
-    <br>Shi Meng, Liu Wang, **<u>Shenao Wang</u>**, Kailong Wang, Xusheng Xiao, Guangdong Bai, Haoyu Wang. 
-    <br>*The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE'23)* [[Paper]](http://ShenaoW.github.io/files/ase23wemint.pdf) [[Repo]](https://github.com/EEEEEEcho/wemint)
+<details>
+    <summary><strong>More</strong></summary>
+    <ul class="pubs">
+        <li>
+            <strong><span style="color:#09a778">[ASE'25-Ind]</span> A Characterization Study of Bugs in LLM Agent Workflow Orchestration Frameworks </strong>
+            <br>Zilou Xue, Yanjie Zhao, <strong><u>Shenao Wang</u></strong>, Kai Chen, Haoyu Wang.
+            <br><em>The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE'25), Industry Showcase</em>
+            <a href="" target="_blank">[Paper]</a>
+        </li>
+        <li>
+            <strong><span style="color:#09a778">[Internetware'25]</span> Exploring Typo Squatting Threats in the Hugging Face Ecosystem </strong>
+            <br>Ningyuan Li, Yanjie Zhao, <strong><u>Shenao Wang</u></strong>, Zehao Wu, Haoyu Wang.
+            <br><em>Proceedings of the 15th Asia-Pacific Symposium on Internetware</em>
+            <a href="" target="_blank">[Paper]</a>
+        </li>
+        <li>
+            <strong><span style="color:#09a778">[Internetware'25]</span> GPT Store Mining and Analysis </strong>
+            <br>Dongxun Su, Yanjie Zhao, Xinyi Hou, <strong><u>Shenao Wang</u></strong>, Haoyu Wang.
+            <br><em>Proceedings of the 15th Asia-Pacific Symposium on Internetware</em>
+            <a href="https://arxiv.org/pdf/2405.10210" target="_blank">[Paper]</a>
+        </li>
+        <li>
+            <strong><span style="color:#09a778">[ASE'24-Ind]</span> Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments </strong>
+            <br>Xinyi Zheng, Chen Wei, <strong><u>Shenao Wang</u></strong>, Yanjie Zhao, Peiming Gao, Yuanchao Zhang, Kailong Wang, Haoyu Wang.
+            <br><em>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), Industry Showcase</em>
+            <a href="https://arxiv.org/pdf/2409.09356" target="_blank">[Paper]</a>
+            <a href="https://github.com/security-pride/OSCAR" target="_blank">[Repo]</a>
+        </li>
+        <li>
+            <strong><span style="color:#09a778">[ASE'24-NIER]</span> GPTZoo: A Large-scale Dataset of GPTs for the Research Community </strong>
+            <br>Xinyi Hou, Yanjie Zhao, <strong><u>Shenao Wang</u></strong>, Haoyu Wang.
+            <br><em>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), NIER Track</em>
+            <a href="https://arxiv.org/pdf/2405.15630" target="_blank">[Paper]</a>
+            <a href="https://github.com/security-pride/GPTZoo" target="_blank">[Repo]</a>
+        </li>
+        <li>
+            <strong><span style="color:#09a778">[ASE'23-Ind]</span> MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains </strong>
+            <br>Ningke Li, <strong><u>Shenao Wang</u></strong>, Mingxi Feng, Kailong Wang, Meizhen Wang, Haoyu Wang.
+            <br><em>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE'23), Industry Challenge Track</em>
+            <a href="http://ShenaoW.github.io/files/ase23malwukong.pdf" target="_blank">[Paper]</a>
+            <a href="https://github.com/security-pride/malwukong-samples" target="_blank">[Repo]</a>
+        </li>
+        <li>
+            <strong><span style="color:#09a778">[ASE'23]</span> WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs </strong>
+            <br>Shi Meng, Liu Wang, <strong><u>Shenao Wang</u></strong>, Kailong Wang, Xusheng Xiao, Guangdong Bai, Haoyu Wang.
+            <br><em>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE'23)</em>
+            <a href="http://ShenaoW.github.io/files/ase23wemint.pdf" target="_blank">[Paper]</a>
+            <a href="https://github.com/EEEEEEcho/wemint" target="_blank">[Repo]</a>
+        </li>
+    </ul>
+</details>
 
 ## <span style="color:grey">Journal</span>
 
-* **<span style="color:#09a778">\[TOSEM\]</span> MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis**
-    <br>**<u>Shenao Wang</u>**, Yuekang Li, Kailong Wang, Yi Liu, Hui Li, Yang Liu, Haoyu Wang.
-    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper]](https://arxiv.org/pdf/2401.03218) [[Repo]](https://github.com/security-pride/MiniScope)
-    <br>*Also accepted by FSE 2025 Journal First Track*
+<ul class="pubs">
+    <li>
+        <strong><span style="color:#09a778">[TOSEM]</span> MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis </strong>
+        <br><strong><u>Shenao Wang</u></strong>, Yuekang Li, Kailong Wang, Yi Liu, Hui Li, Yang Liu, Haoyu Wang.
+        <br><em>ACM Transactions on Software Engineering and Methodology (TOSEM)</em>
+        <a href="https://arxiv.org/pdf/2401.03218" target="_blank">[Paper]</a>
+        <a href="https://github.com/security-pride/MiniScope" target="_blank">[Repo]</a>
+        <br><em>Also accepted by FSE 2025 Journal First Track</em>
+    </li>
+    <li>
+        <strong><span style="color:#09a778">[TOSEM]</span> Large Language Model Supply Chain: A Research Agenda </strong>
+        <br><strong><u>Shenao Wang</u></strong>, Yanjie Zhao, Xinyi Hou, Haoyu Wang.
+        <br><em>ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap</em>
+        <a href="https://arxiv.org/pdf/2404.12736" target="_blank">[Paper]</a>
+        <a href="https://github.com/ShenaoW/awesome-llm-supply-chain-security" target="_blank">[Repo]</a>
+    </li>
+</ul>
 
-* **<span style="color:#09a778">\[TOSEM\]</span> Large Language Model Supply Chain: A Research Agenda**
-    <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Xinyi Hou, Haoyu Wang. 
-    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap* [[Paper]](https://arxiv.org/pdf/2404.12736) [[Repo]](https://github.com/ShenaoW/awesome-llm-supply-chain-security)
-
-* **<span style="color:#09a778">\[TOSEM\]</span> Large Language Models for Cyber Security: A Systematic Literature Review**
-    <br>Hanxiang Xu, **<u>Shenao Wang</u>**, Ningke Li, Kailong Wang, Yanjie Zhao, Kai Chen, Ting Yu, Yang Liu, Haoyu Wang.
-    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper]](https://arxiv.org/abs/2405.04760) 
-
-* **<span style="color:#09a778">\[TOSEM\]</span> LLM App Store Analysis: A Vision and Roadmap**
-    <br>Yanjie Zhao, Xinyi Hou, **<u>Shenao Wang</u>**, Haoyu Wang. 
-    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap* [[Paper]](https://arxiv.org/pdf/2404.12737)
+<details>
+    <summary><strong>More</strong></summary>
+    <ul class="pubs">
+        <li>
+            <strong><span style="color:#09a778">[TOSEM]</span> Large Language Models for Cyber Security: A Systematic Literature Review </strong>
+            <br>Hanxiang Xu, <strong><u>Shenao Wang</u></strong>, Ningke Li, Kailong Wang, Yanjie Zhao, Kai Chen, Ting Yu, Yang Liu, Haoyu Wang.
+            <br><em>ACM Transactions on Software Engineering and Methodology (TOSEM)</em>
+            <a href="https://arxiv.org/pdf/2405.04760" target="_blank">[Paper]</a>
+        </li>
+        <li>
+            <strong><span style="color:#09a778">[TOSEM]</span> LLM App Store Analysis: A Vision and Roadmap </strong>
+            <br>Yanjie Zhao, Xinyi Hou, <strong><u>Shenao Wang</u></strong>, Haoyu Wang.
+            <br><em>ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap</em>
+            <a href="https://arxiv.org/pdf/2404.12737" target="_blank">[Paper]</a>
+        </li>
+    </ul>
+</details>
 
 ## <span style="color:grey">Workshop</span>
 
-* **<span style="color:#09a778">\[SE 2030\]</span> Towards Reliable Vector Database Management Systems: A Software Testing Roadmap for 2030**
-    <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Yinglin Xie, Zhao Liu, Xinyi Hou, Quanchen Zou, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2502.20812)
-
-* **<span style="color:#09a778">\[SaTS'23\]</span> On the Usage-scenario-based Data Minimization in Mini Programs**
-    <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Kailong Wang, Haoyu Wang. 
-    <br>*The 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS), co-located with CCS* [[Paper]](http://ShenaoW.github.io/files/sats23.pdf)
+<ul class="pubs">
+    <li>
+        <strong><span style="color:#09a778">[SE 2030]</span> Towards Reliable Vector Database Management Systems: A Software Testing Roadmap for 2030 </strong>
+        <br><strong><u>Shenao Wang</u></strong>, Yanjie Zhao, Yinglin Xie, Zhao Liu, Xinyi Hou, Quanchen Zou, Haoyu Wang.
+        <br><em>ACM 2030 Roadmap for Software Engineering, co-located with FSE</em>
+        <a href="https://arxiv.org/pdf/2502.20812" target="_blank">[Paper]</a>
+    </li>
+    <li>
+        <strong><span style="color:#09a778">[SaTS'23]</span> On the Usage-scenario-based Data Minimization in Mini Programs </strong>
+        <br><strong><u>Shenao Wang</u></strong>, Yanjie Zhao, Kailong Wang, Haoyu Wang. 
+        <br><em>The 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS), co-located with CCS</em>
+        <a href="http://ShenaoW.github.io/files/sats23.pdf" target="_blank">[Paper]</a>
+    </li>
+</ul>
 
 # 🔗 Service
 
