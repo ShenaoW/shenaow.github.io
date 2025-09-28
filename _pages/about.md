@@ -233,7 +233,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 * 01/2024 - 02/2024, Research Intern, Ant Group (MYbank), Hangzhou, China.
 * 09/2024 - 09/2025, Research Intern, Jinyinhu Lab, Wuhan, China.
-* 08/2025 - until now, Research Intern, Ant Group, Chengdu, China.
+* 08/2025 - until now, Research Intern (Static Analysis, working on [YASA](https://github.com/antgroup/YASA-Engine) and [xAST](https://github.com/alipay/ant-application-security-testing-benchmark)), Ant Group, Chengdu, China.
 
 <span class='anchor' id='honors'></span>
 
