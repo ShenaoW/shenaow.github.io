@@ -82,7 +82,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
     </li>
     <li>
         <strong><span style="color:#09a778">[ICSE'26]</span> TaintP2X: Detecting Taint-Style Prompt-to-Anything Injection Vulnerabilities in LLM-Integrated Applications </strong>
-        <br>Junjie He*,<strong><u>Shenao Wang*</u></strong>, Yanjie Zhao, Xinyi Hou, Zhao Liu, Quanchen Zou, Haoyu Wang.
+        <br>Junjie He*, <strong><u>Shenao Wang*</u></strong>, Yanjie Zhao, Xinyi Hou, Zhao Liu, Quanchen Zou, Haoyu Wang.
         <br><em>The 48th IEEE/ACM International Conference on Software Engineering (ICSE'26)</em>
         <a href="" target="_blank">[Paper]</a>
     </li>
