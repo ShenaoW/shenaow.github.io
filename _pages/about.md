@@ -75,6 +75,18 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 <ul class="pubs">
     <li>
+        <strong><span style="color:#09a778">[ASE'25]</span> VDBFuzz: Understanding and Detecting Crash Bugs in Vector Database Management Systems </strong>
+        <br><strong><u>Shenao Wang*</u></strong>, Zhao Liu*, Yanjie Zhao, Quanchen Zou, Haoyu Wang.
+        <br><em>The 48th IEEE/ACM International Conference on Software Engineering (ICSE'26)</em>
+        <a href="" target="_blank">[Paper]</a>
+    </li>
+    <li>
+        <strong><span style="color:#09a778">[ASE'25]</span> TaintP2X: Detecting Taint-Style Prompt-to-Anything Injection Vulnerabilities in LLM-Integrated Applications </strong>
+        <br>Junjie He*,<strong><u>Shenao Wang*</u></strong>, Yanjie Zhao, Xinyi Hou, Zhao Liu, Quanchen Zou, Haoyu Wang.
+        <br><em>The 48th IEEE/ACM International Conference on Software Engineering (ICSE'26)</em>
+        <a href="" target="_blank">[Paper]</a>
+    </li>
+    <li>
         <strong><span style="color:#09a778">[ASE'25]</span> Demystifying Cookie Sharing Risks in WebView-based Mobile App-in-app Ecosystems</strong>
         <br>Miao Zhang*, <strong><u>Shenao Wang*</u></strong>, Guilin Zheng, Yanjie Zhao, Haoyu Wang.
         <br><em>The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE'25)</em>
@@ -211,7 +223,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 # 🔗 Service
 
 ## <span style="color:grey">Reviewer</span>
-* 2025: TOSEM, EMSE
+* 2025: TOSEM, TOPS, EMSE
 
 ## <span style="color:grey">Sub Reviewer</span>
 * 2026: USENIX Security
