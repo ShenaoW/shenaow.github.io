@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -12,9 +12,9 @@ redirect_from:
 
 # 😀 About Me
 
-Hi, there! I am Shenao Wang (王申奥). I am currently pursuing my Ph.D. at Huazhong University of Science and Technology (HUST), supervised by Prof. [Haoyu Wang](https://howiepku.github.io/), working with folks at **Security PRIDE** Research Group (**Security**, **Pri**vacy, and **De**pendability in Emerging Software Systems). Previously, I received my B.Eng. degree at Xidian University, under supervision of Prof. [Hui Li](https://web.xidian.edu.cn/lihui/index.html) in June 2023. 
+Hi, there! I am Shenao Wang (王申奥). I am currently pursuing my Ph.D. at Huazhong University of Science and Technology (HUST), supervised by Prof. [Haoyu Wang](https://howiepku.github.io/), working with folks at **Security PRIDE** Research Group (**Security**, **Pri**vacy, and **De**pendability in Emerging Software Systems). Previously, I received my B.Eng. degree at Xidian University, under supervision of Prof. [Hui Li](https://web.xidian.edu.cn/lihui/index.html) in June 2023.
 
-I am interested in the intersection of security, program analysis, and AI systems. 
+I am interested in the intersection of security, program analysis, and AI systems.
 Specifically, I focus on developing impactful, real-world solutions for detecting and defending against vulnerabilities in a wide range of systems, including Open-Source Software Supply Chains, Cross-Platform Endpoints, and LLM Infrastructures.
 
 - **OSS Security**: NPM/PyPI code poisoning (ASE'23, ASE'24)
@@ -24,6 +24,7 @@ Specifically, I focus on developing impactful, real-world solutions for detectin
 If you would like to reach me, please send an email to [shenaowang AT hust.edu.cn](mailto:shenaowang@hust.edu.cn)
 
 # 🎉 News
+
 <!-- - 🔝 **02/2025: Excited to announce the 1st workshop on [LLMSC](https://llmsc.github.io/), co-located with [ISSTA'25](https://conf.researchr.org/home/issta-2025)! Join us in Trondheim, Norway!**
 
 - 🔝 **12/2024: We are actively maintaining the [Awesome-LLM-Supply-Chain-Security](https://github.com/ShenaoW/awesome-llm-supply-chain-security). Welcome to star, fork, and contribute!** -->
@@ -52,24 +53,23 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 - 09/2022: I became a member of SECURITY PRIDE Research Group.
 
-  
-# 📝 Selected Publications 
+# 📝 Selected Publications
 
 **(\* Equal Contribution)**
 
-## <span style="color:grey">Preprint</span> 
+## <span style="color:grey">Preprint</span>
 
-* **<span style="color:#09a778">\[arXiv\]</span> SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain**
-    <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Zhao Liu, Quanchen Zou, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2502.12497)
+- **<span style="color:#09a778">\[arXiv\]</span> SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain**
+  <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Zhao Liu, Quanchen Zou, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2502.12497)
 
-* **<span style="color:#09a778">\[arXiv\]</span> Understanding Large Language Model Supply Chain: Structure, Domain, and Vulnerabilities**
-    <br>Yanzhe Hu\*, **<u>Shenao Wang</u>\***, Tianyuan Nie, Yanjie Zhao, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2504.20763)
+- **<span style="color:#09a778">\[arXiv\]</span> Understanding Large Language Model Supply Chain: Structure, Domain, and Vulnerabilities**
+  <br>Yanzhe Hu\*, **<u>Shenao Wang</u>\***, Tianyuan Nie, Yanjie Zhao, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2504.20763)
 
-* **<span style="color:#09a778">\[arXiv\]</span> Toward Understanding Bugs in Vector Database Management Systems**
-    <br>Yinlin Xie, Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Kai Chen, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2506.02617)
+- **<span style="color:#09a778">\[arXiv\]</span> Toward Understanding Bugs in Vector Database Management Systems**
+  <br>Yinlin Xie, Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Kai Chen, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2506.02617)
 
-* **<span style="color:#09a778">\[arXiv\]</span> Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions**
-    <br>Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2503.23278)
+- **<span style="color:#09a778">\[arXiv\]</span> Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions**
+  <br>Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2503.23278)
 
 ## <span style="color:grey">Conference</span>
 
@@ -223,29 +223,36 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 # 🔗 Service
 
 ## <span style="color:grey">Reviewer</span>
-* 2025: TDSC, TOSEM, TOPS, EMSE
+
+(Submitted 5 Review Comments)
+
+- 2025: TDSC, TOSEM, TOPS, EMSE
 
 ## <span style="color:grey">Sub Reviewer</span>
-* 2026: USENIX Security
-* 2025: S&P, FSE, ISSTA, ASE, NSDI, AsiaCCS, PoPETs, IWQoS
-* 2024: CCS, FSE, ISSTA, WWW, IMC, Internetware, MSR, EASE, MobileSoft, SaTS, MobiLLM, LCTES
+
+(Submitted 31 Review Comments)
+
+- 2026: USENIX Security, WWW
+- 2025: S&P, FSE, ISSTA, ASE, NSDI, AsiaCCS, PoPETs, IWQoS
+- 2024: CCS, FSE, ISSTA, WWW, IMC, Internetware, MSR, EASE, MobileSoft, SaTS, MobiLLM, LCTES
 
 ## <span style="color:grey">Publicity & Web Chair</span>
-* LLMSC Workshop @ISSTA 2025
+
+- LLMSC Workshop @ISSTA 2025
 
 # 👾 Experience
 
 ## <span style="color:grey">Education</span>
 
-* 09/2019 - 06/2023, B.Eng., Xidian University, Xi'an, China.
-* 09/2023 - 06/2025, M.S. Candidate, Huazhong University of Science and Technology, Wuhan, China.
-* 09/2025 - until now, Ph.D Candidate, Huazhong University of Science and Technology, Wuhan, China.
+- 09/2019 - 06/2023, B.Eng., Xidian University, Xi'an, China.
+- 09/2023 - 06/2025, M.S. Candidate, Huazhong University of Science and Technology, Wuhan, China.
+- 09/2025 - until now, Ph.D Candidate, Huazhong University of Science and Technology, Wuhan, China.
 
 ## <span style="color:grey">Intern</span>
 
-* 01/2024 - 02/2024, Research Intern, Ant Group (MYbank), Hangzhou, China.
-* 09/2024 - 09/2025, Research Intern, Jinyinhu Lab, Wuhan, China.
-* 08/2025 - until now, Research Intern (Static Analysis, working on [YASA](https://github.com/antgroup/YASA-Engine) and [xAST](https://github.com/alipay/ant-application-security-testing-benchmark)), Ant Group, Chengdu, China.
+- 01/2024 - 02/2024, Research Intern, Ant Group (MYbank), Hangzhou, China.
+- 09/2024 - 09/2025, Research Intern, Jinyinhu Lab, Wuhan, China.
+- 08/2025 - until now, Research Intern (Static Analysis, working on [YASA](https://github.com/antgroup/YASA-Engine) and [xAST](https://github.com/alipay/ant-application-security-testing-benchmark)), Ant Group, Chengdu, China.
 
 <span class='anchor' id='honors'></span>
 
@@ -253,43 +260,43 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 ## <span style="color:grey">Awards</span>
 
-* 2024 - Third Prize, Prototype Competition in ChinaSoft'24 [[Reference]](http://ShenaoW.github.io/files/chinasoft24.pdf)
-* 2023 - Bronze Award, National Innovation Competition [[Reference]](http://ShenaoW.github.io/files/hulianwang+.pdf)
-* 2023 - Third Prize, Prototype Competition in ChinaSoft'23 [[Reference]](http://ShenaoW.github.io/files/chinasoft.pdf)
-* 2022 - First Prize, National Digital Forensics Competition ([19/764](https://www.meiyacup.cn/Ne_d_gci_16_id_62.html)) [[Reference]](http://ShenaoW.github.io/files/meiyacup.pdf)
-* 2022 - First Prize & Most Valuable Award, National College Student Information Security Contest ([2/728](http://117.78.33.202/upload/file/20220905/1662368728900393.pdf)) [[Reference]](http://ShenaoW.github.io/files/ciscn.pdf)
-* 2022 - Meritorious Winner, MCM/ICM (Problem A) [[Reference]](http://ShenaoW.github.io/files/icm.pdf)
-* 2021 - First Prize, National Cryptographic Competition (16/121) [[Reference]](http://ShenaoW.github.io/files/crypto.pdf)
-* 2021 - First Prize, CUMCM in Shannxi Province [[Reference]](http://ShenaoW.github.io/files/cumcm.pdf)
+- 2024 - Third Prize, Prototype Competition in ChinaSoft'24 [[Reference]](http://ShenaoW.github.io/files/chinasoft24.pdf)
+- 2023 - Bronze Award, National Innovation Competition [[Reference]](http://ShenaoW.github.io/files/hulianwang+.pdf)
+- 2023 - Third Prize, Prototype Competition in ChinaSoft'23 [[Reference]](http://ShenaoW.github.io/files/chinasoft.pdf)
+- 2022 - First Prize, National Digital Forensics Competition ([19/764](https://www.meiyacup.cn/Ne_d_gci_16_id_62.html)) [[Reference]](http://ShenaoW.github.io/files/meiyacup.pdf)
+- 2022 - First Prize & Most Valuable Award, National College Student Information Security Contest ([2/728](http://117.78.33.202/upload/file/20220905/1662368728900393.pdf)) [[Reference]](http://ShenaoW.github.io/files/ciscn.pdf)
+- 2022 - Meritorious Winner, MCM/ICM (Problem A) [[Reference]](http://ShenaoW.github.io/files/icm.pdf)
+- 2021 - First Prize, National Cryptographic Competition (16/121) [[Reference]](http://ShenaoW.github.io/files/crypto.pdf)
+- 2021 - First Prize, CUMCM in Shannxi Province [[Reference]](http://ShenaoW.github.io/files/cumcm.pdf)
 
 ## <span style="color:grey">Honors</span>
 
-* 2025 - SIGSOFT CAPS AWARD FSE/ISSTA 2025
-* 2024 - National Scholarship, Ministry of Education of P.R. China [[Reference]](http://ShenaoW.github.io/files/national_scholarship.pdf)
-* 2024 - Merit Student, Huazhong University of Science and Technology [[Reference]](http://ShenaoW.github.io/files/merit.pdf)
-* 2023 - Outstanding Graduate of Shaanxi Province [[Reference]](http://www.sxjybk.com/2023/0705/66484.html)
-* 2023 - Outstanding Bachelor Thesis, Xidian University [[Reference]](http://ShenaoW.github.io/files/thesis.pdf)
-* 2022 - President Scholarship, Xidian University ([5 undergraduates among 5300+](https://news.xidian.edu.cn/info/2106/223413.htm)) [[Reference]](http://ShenaoW.github.io/files/president_scholarship.pdf)
-* 2022 - National Scholarship, Ministry of Education of P.R. China (Top 1%) [[Reference]](http://ShenaoW.github.io/files/national_scholarship.pdf)
-* 2022 - Xiaomi Special Scholarship (5 undergraduates among 5300+)
-* 2021 - Excellent Student Cadre, Xidian University
-* 2021 - National Encouragement Scholarship, Ministry of Education of P.R. China
-* 2020 - Pacemaker to Merit Student, Xidian University
-* 2020 - Special Scholarship, Xidian University (Top 1%)
+- 2025 - SIGSOFT CAPS AWARD FSE/ISSTA 2025
+- 2024 - National Scholarship, Ministry of Education of P.R. China [[Reference]](http://ShenaoW.github.io/files/national_scholarship.pdf)
+- 2024 - Merit Student, Huazhong University of Science and Technology [[Reference]](http://ShenaoW.github.io/files/merit.pdf)
+- 2023 - Outstanding Graduate of Shaanxi Province [[Reference]](http://www.sxjybk.com/2023/0705/66484.html)
+- 2023 - Outstanding Bachelor Thesis, Xidian University [[Reference]](http://ShenaoW.github.io/files/thesis.pdf)
+- 2022 - President Scholarship, Xidian University ([5 undergraduates among 5300+](https://news.xidian.edu.cn/info/2106/223413.htm)) [[Reference]](http://ShenaoW.github.io/files/president_scholarship.pdf)
+- 2022 - National Scholarship, Ministry of Education of P.R. China (Top 1%) [[Reference]](http://ShenaoW.github.io/files/national_scholarship.pdf)
+- 2022 - Xiaomi Special Scholarship (5 undergraduates among 5300+)
+- 2021 - Excellent Student Cadre, Xidian University
+- 2021 - National Encouragement Scholarship, Ministry of Education of P.R. China
+- 2020 - Pacemaker to Merit Student, Xidian University
+- 2020 - Special Scholarship, Xidian University (Top 1%)
 
 # 🌟 Grants
 
-* **Detection of Supply Chain Poisoning**
-  <br>*Cybersecurity College Student Innovation Funding Program*
-  <br>*Funded by CSAC and DiDi*, 2025.8-until now
+- **Detection of Supply Chain Poisoning**
+  <br>_Cybersecurity College Student Innovation Funding Program_
+  <br>_Funded by CSAC and DiDi_, 2025.8-until now
 
-* **Multilingual Program Analysis**
-  <br>*Cybersecurity College Student Innovation Funding Program*
-  <br>*Funded by CSAC and AntGroup*, 2024.7-2025.4
+- **Multilingual Program Analysis**
+  <br>_Cybersecurity College Student Innovation Funding Program_
+  <br>_Funded by CSAC and AntGroup_, 2024.7-2025.4
 
-* **Permission Abuse Detection in Android/iOS Apps**
-  <br>*Cybersecurity College Student Innovation Funding Program* ([Excellent Project [6/240]](https://www.cybersac.cn/detail/1702256698066042881))
-  <br>*Funded by CSAC and NIO*, 2022.7-2023.11
+- **Permission Abuse Detection in Android/iOS Apps**
+  <br>_Cybersecurity College Student Innovation Funding Program_ ([Excellent Project [6/240]](https://www.cybersac.cn/detail/1702256698066042881))
+  <br>_Funded by CSAC and NIO_, 2022.7-2023.11
 
 <!-- <div align=center><img src="http://ShenaoW.github.io/images/nio.jpg" alt="Funding-NIO-Excellent-Project" width = "80%" height = "80%" /></div> -->
 
