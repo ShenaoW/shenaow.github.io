@@ -90,7 +90,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
         <strong><span style="color:#09a778">[ASE'25]</span> Demystifying Cookie Sharing Risks in WebView-based Mobile App-in-app Ecosystems</strong>
         <br>Miao Zhang*, <strong><u>Shenao Wang*</u></strong>, Guilin Zheng, Yanjie Zhao, Haoyu Wang.
         <br><em>The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE'25)</em>
-        <a href="" target="_blank">[Paper]</a>
+        <a href="https://arxiv.org/pdf/2510.24141" target="_blank">[Paper]</a>
     </li>
     <li>
         <strong><span style="color:#09a778">[Internetware'25]</span> Seeing is (Not) Believing: The Mirage Card Attack Targeting Online Social Networks</strong>
