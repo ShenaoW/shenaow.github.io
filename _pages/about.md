@@ -18,8 +18,8 @@ I am interested in the intersection of security, program analysis, and AI system
 Specifically, I focus on developing impactful, real-world solutions for detecting and defending against vulnerabilities in a wide range of systems, including Open-Source Software Supply Chains, Cross-Platform Endpoints, and LLM Infrastructures.
 
 - **OSS Security**: NPM/PyPI code poisoning (ASE'23, ASE'24)
-- **Endpoint Security**: ransomware (CCS'24), miniapp security (ASE'23, ASE'25) & privacy (TOSEM, SaTS'23)
-- **LLM Infra Security**: pre-trained model supply chain (TOSEM, ASE'24)
+- **Endpoint Security**: ransomware (CCS'24), miniapp security (ASE'23, ASE'25) & privacy (SaTS'23, TOSEM'25)
+- **LLM Infra Security**: pre-trained model supply chain (ASE'24, TOSEM'25, ICSE'26)
 
 If you would like to reach me, please send an email to [shenaowang AT hust.edu.cn](mailto:shenaowang@hust.edu.cn)
 
@@ -171,7 +171,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 <ul class="pubs">
     <li>
-        <strong><span style="color:#09a778">[TOSEM]</span> MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis </strong>
+        <strong><span style="color:#09a778">[TOSEM'25]</span> MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis </strong>
         <br><strong><u>Shenao Wang</u></strong>, Yuekang Li, Kailong Wang, Yi Liu, Hui Li, Yang Liu, Haoyu Wang.
         <br><em>ACM Transactions on Software Engineering and Methodology (TOSEM)</em>
         <a href="https://arxiv.org/pdf/2401.03218" target="_blank">[Paper]</a>
@@ -179,7 +179,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
         <br><em>Also accepted by FSE 2025 Journal First Track</em>
     </li>
     <li>
-        <strong><span style="color:#09a778">[TOSEM]</span> Large Language Model Supply Chain: A Research Agenda </strong>
+        <strong><span style="color:#09a778">[TOSEM'25]</span> Large Language Model Supply Chain: A Research Agenda </strong>
         <br><strong><u>Shenao Wang</u></strong>, Yanjie Zhao, Xinyi Hou, Haoyu Wang.
         <br><em>ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap</em>
         <a href="https://arxiv.org/pdf/2404.12736" target="_blank">[Paper]</a>
@@ -191,13 +191,13 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
     <summary><strong>More</strong></summary>
     <ul class="pubs">
         <li>
-            <strong><span style="color:#09a778">[TOSEM]</span> Large Language Models for Cyber Security: A Systematic Literature Review </strong>
+            <strong><span style="color:#09a778">[TOSEM'25]</span> Large Language Models for Cyber Security: A Systematic Literature Review </strong>
             <br>Hanxiang Xu, <strong><u>Shenao Wang</u></strong>, Ningke Li, Kailong Wang, Yanjie Zhao, Kai Chen, Ting Yu, Yang Liu, Haoyu Wang.
             <br><em>ACM Transactions on Software Engineering and Methodology (TOSEM)</em>
             <a href="https://arxiv.org/pdf/2405.04760" target="_blank">[Paper]</a>
         </li>
         <li>
-            <strong><span style="color:#09a778">[TOSEM]</span> LLM App Store Analysis: A Vision and Roadmap </strong>
+            <strong><span style="color:#09a778">[TOSEM'25]</span> LLM App Store Analysis: A Vision and Roadmap </strong>
             <br>Yanjie Zhao, Xinyi Hou, <strong><u>Shenao Wang</u></strong>, Haoyu Wang.
             <br><em>ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap</em>
             <a href="https://arxiv.org/pdf/2404.12737" target="_blank">[Paper]</a>
