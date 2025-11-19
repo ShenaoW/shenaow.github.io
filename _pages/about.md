@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: ''
+excerpt: ''
 author_profile: true
 redirect_from:
   - /about/
@@ -273,6 +273,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 ## <span style="color:grey">Honors</span>
 
+- 2025 - National Scholarship, Ministry of Education of P.R. China
 - 2025 - SIGSOFT CAPS AWARD FSE/ISSTA 2025
 - 2024 - National Scholarship, Ministry of Education of P.R. China [[Reference]](http://ShenaoW.github.io/files/national_scholarship.pdf)
 - 2024 - Merit Student, Huazhong University of Science and Technology [[Reference]](http://ShenaoW.github.io/files/merit.pdf)
