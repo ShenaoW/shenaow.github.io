@@ -61,57 +61,60 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 ## <span style="color:grey">Preprint</span>
 
-- **<span style="color:#09a778">\[arXiv\]</span> SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain**
-  <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Zhao Liu, Quanchen Zou, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2502.12497)
+- **<span style="color:#09a778">\[arXiv\]</span> SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2502.12497)
+  <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Zhao Liu, Quanchen Zou, Haoyu Wang
 
-- **<span style="color:#09a778">\[arXiv\]</span> Understanding Large Language Model Supply Chain: Structure, Domain, and Vulnerabilities**
-  <br>Yanzhe Hu\*, **<u>Shenao Wang</u>\***, Tianyuan Nie, Yanjie Zhao, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2504.20763)
+- **<span style="color:#09a778">\[arXiv\]</span> Understanding Large Language Model Supply Chain: Structure, Domain, and Vulnerabilities** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2504.20763)
+  <br>Yanzhe Hu\*, **<u>Shenao Wang</u>\***, Tianyuan Nie, Yanjie Zhao, Haoyu Wang
 
-- **<span style="color:#09a778">\[arXiv\]</span> Toward Understanding Bugs in Vector Database Management Systems**
-  <br>Yinlin Xie, Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Kai Chen, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2506.02617)
+- **<span style="color:#09a778">\[arXiv\]</span> Toward Understanding Bugs in Vector Database Management Systems** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2506.02617)
+  <br>Yinlin Xie, Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Kai Chen, Haoyu Wang
 
-- **<span style="color:#09a778">\[arXiv\]</span> Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions**
-  <br>Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Haoyu Wang [[Paper]](https://arxiv.org/pdf/2503.23278)
+- **<span style="color:#09a778">\[arXiv\]</span> Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2503.23278)
+  <br>Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Haoyu Wang
 
 ## <span style="color:grey">Conference</span>
 
 <ul class="pubs">
     <li>
         <strong><span style="color:#09a778">[ICSE'26]</span> VDBFuzz: Understanding and Detecting Crash Bugs in Vector Database Management Systems </strong>
+        <a href="" target="_blank"><span class="pdf">PDF</span></a>
+        <a href="" target="_blank"><span class="repo">Repo</span></a>
         <br><strong><u>Shenao Wang*</u></strong>, Zhao Liu*, Yanjie Zhao, Quanchen Zou, Haoyu Wang.
         <br><em>The 48th IEEE/ACM International Conference on Software Engineering (ICSE'26)</em>
-        <a href="" target="_blank">[Paper]</a>
     </li>
     <li>
         <strong><span style="color:#09a778">[ICSE'26]</span> TaintP2X: Detecting Taint-Style Prompt-to-Anything Injection Vulnerabilities in LLM-Integrated Applications </strong>
+        <a href="" target="_blank"><span class="pdf">PDF</span></a>
+        <a href="" target="_blank"><span class="repo">Repo</span></a>
         <br>Junjie He*, <strong><u>Shenao Wang*</u></strong>, Yanjie Zhao, Xinyi Hou, Zhao Liu, Quanchen Zou, Haoyu Wang.
         <br><em>The 48th IEEE/ACM International Conference on Software Engineering (ICSE'26)</em>
-        <a href="" target="_blank">[Paper]</a>
     </li>
     <li>
         <strong><span style="color:#09a778">[ASE'25]</span> Demystifying Cookie Sharing Risks in WebView-based Mobile App-in-app Ecosystems</strong>
+        <a href="https://arxiv.org/pdf/2510.24141" target="_blank"><span class="pdf">PDF</span></a>
         <br>Miao Zhang*, <strong><u>Shenao Wang*</u></strong>, Guilin Zheng, Yanjie Zhao, Haoyu Wang.
         <br><em>The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE'25)</em>
-        <a href="https://arxiv.org/pdf/2510.24141" target="_blank">[Paper]</a>
     </li>
     <li>
         <strong><span style="color:#09a778">[Internetware'25]</span> Seeing is (Not) Believing: The Mirage Card Attack Targeting Online Social Networks</strong>
+        <a href="https://arxiv.org/pdf/2405.10758" target="_blank"><span class="pdf">PDF</span></a>
         <br>Wangchenlu Huang*, <strong><u>Shenao Wang*</u></strong>, Yanjie Zhao, Guosheng Xu, Haoyu Wang.
         <br><em>Proceedings of the 15th Asia-Pacific Symposium on Internetware</em>
-        <a href="https://arxiv.org/pdf/2405.10758" target="_blank">[Paper]</a>
     </li>
     <li>
         <strong><span style="color:#09a778">[CCS'24]</span> CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments </strong>
+        <a href="https://arxiv.org/pdf/2408.16515" target="_blank"><span class="pdf">PDF</span></a>
         <br><strong><u>Shenao Wang*</u></strong>, Feng Dong*, Hangfeng Yang, Jingheng Xu, and Haoyu Wang.
         <br><em>The 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS'24)</em>
-        <a href="https://arxiv.org/pdf/2408.16515" target="_blank">[Paper]</a>
     </li>
     <li>
         <strong><span style="color:#09a778">[ASE'24-Ind]</span> Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs </strong>
+        <br>
+        <a href="https://arxiv.org/pdf/2409.09368" target="_blank"><span class="pdf">PDF</span></a>
+        <a href="https://github.com/security-pride/MalHug" target="_blank"><span class="repo">Repo</span></a>
         <br>Jian Zhao*, <strong><u>Shenao Wang*</u></strong>, Yanjie Zhao, Xinyi Hou, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang.
         <br><em>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), Industry Showcase</em>
-        <a href="https://arxiv.org/pdf/2409.09368" target="_blank">[Paper]</a>
-        <a href="https://github.com/security-pride/MalHug" target="_blank">[Repo]</a>
     </li>
 </ul>
 
@@ -120,49 +123,49 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
     <ul class="pubs">
         <li>
             <strong><span style="color:#09a778">[ASE'25-Ind]</span> A Characterization Study of Bugs in LLM Agent Workflow Orchestration Frameworks </strong>
+            <a href="" target="_blank"><span class="pdf">PDF</span></a>
             <br>Zilou Xue, Yanjie Zhao, <strong><u>Shenao Wang</u></strong>, Kai Chen, Haoyu Wang.
             <br><em>The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE'25), Industry Showcase</em>
-            <a href="" target="_blank">[Paper]</a>
         </li>
         <li>
             <strong><span style="color:#09a778">[Internetware'25]</span> Exploring Typo Squatting Threats in the Hugging Face Ecosystem </strong>
+            <a href="https://dl.acm.org/doi/pdf/10.1145/3755881.3755921" target="_blank"><span class="pdf">PDF</span></a>
             <br>Ningyuan Li, Yanjie Zhao, <strong><u>Shenao Wang</u></strong>, Zehao Wu, Haoyu Wang.
             <br><em>Proceedings of the 15th Asia-Pacific Symposium on Internetware</em>
-            <a href="" target="_blank">[Paper]</a>
         </li>
         <li>
             <strong><span style="color:#09a778">[Internetware'25]</span> GPT Store Mining and Analysis </strong>
+            <a href="https://arxiv.org/pdf/2405.10210" target="_blank"><span class="pdf">PDF</span></a>
             <br>Dongxun Su, Yanjie Zhao, Xinyi Hou, <strong><u>Shenao Wang</u></strong>, Haoyu Wang.
             <br><em>Proceedings of the 15th Asia-Pacific Symposium on Internetware</em>
-            <a href="https://arxiv.org/pdf/2405.10210" target="_blank">[Paper]</a>
         </li>
         <li>
             <strong><span style="color:#09a778">[ASE'24-Ind]</span> Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments </strong>
+            <a href="https://arxiv.org/pdf/2409.09356" target="_blank"><span class="pdf">PDF</span></a>
+            <a href="https://github.com/security-pride/OSCAR" target="_blank"><span class="repo">Repo</span></a>
             <br>Xinyi Zheng, Chen Wei, <strong><u>Shenao Wang</u></strong>, Yanjie Zhao, Peiming Gao, Yuanchao Zhang, Kailong Wang, Haoyu Wang.
             <br><em>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), Industry Showcase</em>
-            <a href="https://arxiv.org/pdf/2409.09356" target="_blank">[Paper]</a>
-            <a href="https://github.com/security-pride/OSCAR" target="_blank">[Repo]</a>
         </li>
         <li>
             <strong><span style="color:#09a778">[ASE'24-NIER]</span> GPTZoo: A Large-scale Dataset of GPTs for the Research Community </strong>
+            <a href="https://arxiv.org/pdf/2405.15630" target="_blank"><span class="pdf">PDF</span></a>
+            <a href="https://github.com/security-pride/GPTZoo" target="_blank"><span class="repo">Repo</span></a>
             <br>Xinyi Hou, Yanjie Zhao, <strong><u>Shenao Wang</u></strong>, Haoyu Wang.
             <br><em>The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), NIER Track</em>
-            <a href="https://arxiv.org/pdf/2405.15630" target="_blank">[Paper]</a>
-            <a href="https://github.com/security-pride/GPTZoo" target="_blank">[Repo]</a>
         </li>
         <li>
             <strong><span style="color:#09a778">[ASE'23-Ind]</span> MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains </strong>
+            <a href="http://ShenaoW.github.io/files/ase23malwukong.pdf" target="_blank"><span class="pdf">PDF</span></a>
+            <a href="https://github.com/security-pride/malwukong-samples" target="_blank"><span class="repo">Repo</span></a>
             <br>Ningke Li, <strong><u>Shenao Wang</u></strong>, Mingxi Feng, Kailong Wang, Meizhen Wang, Haoyu Wang.
             <br><em>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE'23), Industry Challenge Track</em>
-            <a href="http://ShenaoW.github.io/files/ase23malwukong.pdf" target="_blank">[Paper]</a>
-            <a href="https://github.com/security-pride/malwukong-samples" target="_blank">[Repo]</a>
         </li>
         <li>
             <strong><span style="color:#09a778">[ASE'23]</span> WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs </strong>
+            <a href="http://ShenaoW.github.io/files/ase23wemint.pdf" target="_blank"><span class="pdf">PDF</span></a>
+            <a href="https://github.com/EEEEEEcho/wemint" target="_blank"><span class="repo">Repo</span></a>
             <br>Shi Meng, Liu Wang, <strong><u>Shenao Wang</u></strong>, Kailong Wang, Xusheng Xiao, Guangdong Bai, Haoyu Wang.
             <br><em>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE'23)</em>
-            <a href="http://ShenaoW.github.io/files/ase23wemint.pdf" target="_blank">[Paper]</a>
-            <a href="https://github.com/EEEEEEcho/wemint" target="_blank">[Repo]</a>
         </li>
     </ul>
 </details>
@@ -172,18 +175,18 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 <ul class="pubs">
     <li>
         <strong><span style="color:#09a778">[TOSEM'25]</span> MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis </strong>
+        <a href="https://arxiv.org/pdf/2401.03218" target="_blank"><span class="pdf">PDF</span></a>
+        <a href="https://github.com/security-pride/MiniScope" target="_blank"><span class="repo">Repo</span></a>
         <br><strong><u>Shenao Wang</u></strong>, Yuekang Li, Kailong Wang, Yi Liu, Hui Li, Yang Liu, Haoyu Wang.
         <br><em>ACM Transactions on Software Engineering and Methodology (TOSEM)</em>
-        <a href="https://arxiv.org/pdf/2401.03218" target="_blank">[Paper]</a>
-        <a href="https://github.com/security-pride/MiniScope" target="_blank">[Repo]</a>
         <br><em>Also accepted by FSE 2025 Journal First Track</em>
     </li>
     <li>
         <strong><span style="color:#09a778">[TOSEM'25]</span> Large Language Model Supply Chain: A Research Agenda </strong>
+        <a href="https://arxiv.org/pdf/2404.12736" target="_blank"><span class="pdf">PDF</span></a>
+        <a href="https://github.com/ShenaoW/awesome-llm-supply-chain-security" target="_blank"><span class="repo">Repo</span></a>
         <br><strong><u>Shenao Wang</u></strong>, Yanjie Zhao, Xinyi Hou, Haoyu Wang.
         <br><em>ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap</em>
-        <a href="https://arxiv.org/pdf/2404.12736" target="_blank">[Paper]</a>
-        <a href="https://github.com/ShenaoW/awesome-llm-supply-chain-security" target="_blank">[Repo]</a>
     </li>
 </ul>
 
@@ -192,15 +195,15 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
     <ul class="pubs">
         <li>
             <strong><span style="color:#09a778">[TOSEM'25]</span> Large Language Models for Cyber Security: A Systematic Literature Review </strong>
+            <a href="https://arxiv.org/pdf/2405.04760" target="_blank"><span class="pdf">PDF</span></a>
             <br>Hanxiang Xu, <strong><u>Shenao Wang</u></strong>, Ningke Li, Kailong Wang, Yanjie Zhao, Kai Chen, Ting Yu, Yang Liu, Haoyu Wang.
             <br><em>ACM Transactions on Software Engineering and Methodology (TOSEM)</em>
-            <a href="https://arxiv.org/pdf/2405.04760" target="_blank">[Paper]</a>
         </li>
         <li>
             <strong><span style="color:#09a778">[TOSEM'25]</span> LLM App Store Analysis: A Vision and Roadmap </strong>
+            <a href="https://arxiv.org/pdf/2404.12737" target="_blank"><span class="pdf">PDF</span></a>
             <br>Yanjie Zhao, Xinyi Hou, <strong><u>Shenao Wang</u></strong>, Haoyu Wang.
             <br><em>ACM Transactions on Software Engineering and Methodology (TOSEM), Special Issue: 2030 Software Engineering Roadmap</em>
-            <a href="https://arxiv.org/pdf/2404.12737" target="_blank">[Paper]</a>
         </li>
     </ul>
 </details>
@@ -210,15 +213,15 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 <ul class="pubs">
     <li>
         <strong><span style="color:#09a778">[SE 2030]</span> Towards Reliable Vector Database Management Systems: A Software Testing Roadmap for 2030 </strong>
+        <a href="https://arxiv.org/pdf/2502.20812" target="_blank"><span class="pdf">PDF</span></a>
         <br><strong><u>Shenao Wang</u></strong>, Yanjie Zhao, Yinglin Xie, Zhao Liu, Xinyi Hou, Quanchen Zou, Haoyu Wang.
         <br><em>ACM 2030 Roadmap for Software Engineering, co-located with FSE</em>
-        <a href="https://arxiv.org/pdf/2502.20812" target="_blank">[Paper]</a>
     </li>
     <li>
         <strong><span style="color:#09a778">[SaTS'23]</span> On the Usage-scenario-based Data Minimization in Mini Programs </strong>
+        <a href="http://ShenaoW.github.io/files/sats23.pdf" target="_blank"><span class="pdf">PDF</span></a>
         <br><strong><u>Shenao Wang</u></strong>, Yanjie Zhao, Kailong Wang, Haoyu Wang. 
         <br><em>The 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS), co-located with CCS</em>
-        <a href="http://ShenaoW.github.io/files/sats23.pdf" target="_blank">[Paper]</a>
     </li>
 </ul>
 
