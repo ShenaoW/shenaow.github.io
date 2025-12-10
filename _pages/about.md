@@ -17,9 +17,9 @@ Hi, there! I am Shenao Wang (王申奥). I am currently pursuing my Ph.D. at Hua
 I am interested in the intersection of security, program analysis, and AI systems.
 Specifically, I focus on developing impactful, real-world solutions for detecting and defending against vulnerabilities in a wide range of systems, including Open-Source Software Supply Chains, Cross-Platform Endpoints, and Agentic Systems.
 
-- **OSS Security**: NPM/PyPI code poisoning (ASE'23, ASE'24)
-- **Endpoint Security**: ransomware (CCS'24), miniapp security (ASE'23, ASE'25) & privacy (SaTS'23, TOSEM'25)
-- **Agentic Security**: pre-trained model supply chain (ASE'24, TOSEM'25, ICSE'26)
+- **OSS Security**: NPM/PyPI Code Poisoning (ASE'23, ASE'24)
+- **Endpoint Security**: Ransomware (CCS'24), MiniApp Security (ASE'23, ASE'25) & Privacy (SaTS'23, TOSEM'25)
+- **Agentic Security**: LLM Supply Chain (ASE'24, TOSEM'25), Agentic Software (ICSE'26), LLM Infra (ASE'25, ICSE'26)
 
 If you would like to reach me, please send an email to [shenaowang AT hust.edu.cn](mailto:shenaowang@hust.edu.cn)
 
