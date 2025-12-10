@@ -19,7 +19,7 @@ Specifically, I focus on developing impactful, real-world solutions for detectin
 
 - **OSS Security**: NPM/PyPI code poisoning (ASE'23, ASE'24)
 - **Endpoint Security**: ransomware (CCS'24), miniapp security (ASE'23, ASE'25) & privacy (SaTS'23, TOSEM'25)
-- **LLM Infra Security**: pre-trained model supply chain (ASE'24, TOSEM'25, ICSE'26)
+- **Agentic Security**: pre-trained model supply chain (ASE'24, TOSEM'25, ICSE'26)
 
 If you would like to reach me, please send an email to [shenaowang AT hust.edu.cn](mailto:shenaowang@hust.edu.cn)
 
