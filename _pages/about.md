@@ -304,4 +304,6 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 ---
 
-<p style="text-align: center; color: #808080; word-break: break-all;">© Copyright 2025 Shenao Wang. Last Updated: 7th Aug. 2025</p>
+<p style="text-align: center; color: #808080; word-break: break-all;">
+  &copy; Copyright 2025 Shenao Wang. Last Updated: {{ site.time | date: "%-d %b %Y" }}
+</p>
