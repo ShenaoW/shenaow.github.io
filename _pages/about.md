@@ -229,13 +229,9 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 ## <span style="color:grey">Reviewer</span>
 
-(Submitted 5 Review Comments)
-
 - 2025: TDSC, TOSEM, TOPS, EMSE
 
 ## <span style="color:grey">Sub Reviewer</span>
-
-(Submitted 31 Review Comments)
 
 - 2026: USENIX Security, WWW
 - 2025: S&P, FSE, ISSTA, ASE, NSDI, AsiaCCS, PoPETs, IWQoS
