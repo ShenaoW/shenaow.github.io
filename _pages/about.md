@@ -70,9 +70,6 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 - **<span style="color:#09a778">\[arXiv\]</span> Toward Understanding Bugs in Vector Database Management Systems** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2506.02617)
   <br>Yinlin Xie, Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Kai Chen, Haoyu Wang
 
-- **<span style="color:#09a778">\[arXiv\]</span> Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2503.23278)
-  <br>Xinyi Hou, Yanjie Zhao, **<u>Shenao Wang</u>**, Haoyu Wang
-
 ## <span style="color:grey">Conference</span>
 
 <ul class="pubs">
@@ -193,6 +190,12 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 <details>
     <summary><strong>More</strong></summary>
     <ul class="pubs">
+        <li>
+            <strong><span style="color:#09a778">[TOSEM'26]</span> Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions </strong>
+            <a href="https://arxiv.org/pdf/2503.23278" target="_blank"><span class="pdf">PDF</span></a>
+            <br>Xinyi Hou, Yanjie Zhao, <strong><u>Shenao Wang</u></strong>, Haoyu Wang.
+            <br><em>ACM Transactions on Software Engineering and Methodology (TOSEM)</em>
+        </li>
         <li>
             <strong><span style="color:#09a778">[TOSEM'25]</span> Large Language Models for Cyber Security: A Systematic Literature Review </strong>
             <a href="https://arxiv.org/pdf/2405.04760" target="_blank"><span class="pdf">PDF</span></a>
