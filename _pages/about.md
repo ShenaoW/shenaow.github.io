@@ -61,10 +61,6 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 ## <span style="color:grey">Preprint</span>
 
-- **<span style="color:#09a778">\[arXiv\]</span> YASA: Scalable Multi-Language Taint Analysis on the Unified AST at Ant Group** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2601.17390)
-  <br>Yayi Wang\*, **<u>Shenao Wang</u>\***, Jian Zhao, Shaosen Shi, Ting Li, Yan Cheng,
-  Lizhong Bian, Kan Yu, Yanjie Zhao, Haoyu Wang
-
 - **<span style="color:#09a778">\[arXiv\]</span> SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2502.12497)
   <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Zhao Liu, Quanchen Zou, Haoyu Wang
 
@@ -77,6 +73,13 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 ## <span style="color:grey">Conference</span>
 
 <ul class="pubs">
+    <li>
+        <strong><span style="color:#09a778">[FSE'26-Ind]</span> YASA: Scalable Multi-Language Taint Analysis on the Unified AST at Ant Group </strong>
+        <a href="https://arxiv.org/pdf/2601.17390" target="_blank"><span class="pdf">PDF</span></a>
+        <a href="https://github.com/antgroup/YASA-Engine" target="_blank"><span class="repo">Repo</span></a>
+        <br>Yayi Wang*, <strong><u>Shenao Wang*</u></strong>, Jian Zhao, Shaosen Shi, Ting Li, Yan Cheng, Lizhong Bian, Kan Yu, Yanjie Zhao, Haoyu Wang
+        <br><em>The ACM International Conference on the Foundations of Software Engineering, Industry Track (FSE'26)</em>
+    </li>
     <li>
         <strong><span style="color:#09a778">[ICSE'26]</span> VDBFuzz: Understanding and Detecting Crash Bugs in Vector Database Management Systems </strong>
         <a href="http://ShenaoW.github.io/files/icse26vdbfuzz.pdf" target="_blank"><span class="pdf">PDF</span></a>
