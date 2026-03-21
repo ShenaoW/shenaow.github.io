@@ -236,7 +236,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 ## <span style="color:grey">Reviewer</span>
 
-- 2026: IEEE T. Cybern.
+- 2026: TIFS, IEEE T. Cybern.
 - 2025: TDSC, TOSEM, TOPS, EMSE
 
 ## <span style="color:grey">Sub Reviewer</span>
