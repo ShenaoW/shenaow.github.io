@@ -29,6 +29,8 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 - 🔝 **12/2024: We are actively maintaining the [Awesome-LLM-Supply-Chain-Security](https://github.com/ShenaoW/awesome-llm-supply-chain-security). Welcome to star, fork, and contribute!** -->
 
+- 03/2026: One paper working on multi-language static analysis in collaboration AntGroup was accepted by FSE 2026 Industry Track!
+
 - 10/2025: Two papers working on LLM Infra Security were accepted by ICSE 2026!
 
 - 08/2025: Our paper working on Cookie Sharing in MiniApps was accepted by ASE'25!
