@@ -128,6 +128,12 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
     <summary><strong>More</strong></summary>
     <ul class="pubs">
         <li>
+            <strong><span style="color:#09a778">[SIGMETRICS'26]</span> Mapping the Landscape of LLM Deployment in the Wild: Prevalence, Patterns, and Perils </strong>
+            <a href="" target="_blank"><span class="pdf">PDF</span></a>
+            <br>Xinyi Hou, Jiahan Han, Yanjie Zhao, <strong><u>Shenao Wang</u></strong>, Haoyu Wang.
+            <br><em>Proceedings of the ACM on Measurement and Analysis of Computer Systems (POMACS)</em>
+        </li>
+        <li>
             <strong><span style="color:#09a778">[ASE'25-Ind]</span> A Characterization Study of Bugs in LLM Agent Workflow Orchestration Frameworks </strong>
             <a href="" target="_blank"><span class="pdf">PDF</span></a>
             <br>Zilou Xue, Yanjie Zhao, <strong><u>Shenao Wang</u></strong>, Kai Chen, Haoyu Wang.
