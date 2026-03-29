@@ -260,6 +260,11 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 - LLMSC Workshop @ISSTA 2025
 
+# 🎤 Talks
+
+- 04/2026, Towards Reliable Vector Database Management Systems, invited by [TEST Lab](https://nus-test.github.io/event/260401/) @ NUS
+- 09/2024, Supply Chain Poisoning: From Open-source Software to Open-source Models, invited by [CCF Opensource Development Committee](https://mp.weixin.qq.com/s/DHztpGq1BnXALUGc5b-LRQ)
+
 # 👾 Experience
 
 ## <span style="color:grey">Education</span>
