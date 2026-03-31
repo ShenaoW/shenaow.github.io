@@ -63,6 +63,9 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 ## <span style="color:grey">Preprint</span>
 
+- **<span style="color:#09a778">\[arXiv\]</span> "Elementary, My Dear Watson." Detecting Malicious Skills via Neuro-Symbolic Reasoning across Heterogeneous Artifacts** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2603.27204)
+  <br>**<u>Shenao Wang</u>**, Junjie He, Yanjie Zhao, Yayi Wang, Kan Yu, Haoyu Wang
+
 - **<span style="color:#09a778">\[arXiv\]</span> SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2502.12497)
   <br>**<u>Shenao Wang</u>**, Yanjie Zhao, Zhao Liu, Quanchen Zou, Haoyu Wang
 
