@@ -265,6 +265,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 # 🎤 Talks
 
+- 04/2026, Agentic Software Security: Current State, Opportunities and Challenges, invited by Ant Group
 - 04/2026, Towards Reliable Vector Database Management Systems, invited by [TEST Lab](https://nus-test.github.io/event/260401/) @ NUS
 - 09/2024, Supply Chain Poisoning: From Open-source Software to Open-source Models, invited by [CCF Opensource Development Committee](https://mp.weixin.qq.com/s/DHztpGq1BnXALUGc5b-LRQ)
 
