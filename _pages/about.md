@@ -63,7 +63,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 ## <span style="color:grey">Preprint</span>
 
-- **<span style="color:#09a778">\[arXiv\]</span> Demystifying and Detecting Agentic Workflow Injection Vulnerabilities in GitHub Actions** [<span class="pdf">PDF</span>]()
+- **<span style="color:#09a778">\[arXiv\]</span> Demystifying and Detecting Agentic Workflow Injection Vulnerabilities in GitHub Actions** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2605.07135)
   <br>**<u>Shenao Wang</u>**\*, Xinyi Hou\*, Zhao Liu, Yanjie Zhao, Xiao Cheng, Quanchen Zou, Xiangzheng Zhang, Haoyu Wang
 
 - **<span style="color:#09a778">\[arXiv\]</span> "Elementary, My Dear Watson." Detecting Malicious Skills via Neuro-Symbolic Reasoning across Heterogeneous Artifacts** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2603.27204)
@@ -266,6 +266,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 ## <span style="color:grey">Publicity & Web Chair</span>
 
+- LLMSC Workshop @FSE 2026
 - LLMSC Workshop @ISSTA 2025
 
 # 🎤 Talks
