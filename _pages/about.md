@@ -194,6 +194,12 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 <ul class="pubs">
     <li>
+        <strong><span style="color:#09a778">[JCRD'26]</span> Survey of Storage Mechanism Security Threats for Large Language Models </strong>
+        <a href="https://crad.ict.ac.cn/cn/article/pdf/preview/10.7544/issn1000-1239.202550481.pdf" target="_blank"><span class="pdf">PDF</span></a>
+        <br>Liu Wang*, <strong><u>Shenao Wang*</u></strong>, Xinyi Hou, Jian Zhao, Rongxin Wu, Qiao Xiang, Yanjie Zhao, Yi Wang
+        <br><em>Journal of Computer Research and Development, in Chinese</em>
+    </li>
+    <li>
         <strong><span style="color:#09a778">[TOSEM'25]</span> MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis </strong>
         <a href="https://arxiv.org/pdf/2401.03218" target="_blank"><span class="pdf">PDF</span></a>
         <a href="https://github.com/security-pride/MiniScope" target="_blank"><span class="repo">Repo</span></a>
