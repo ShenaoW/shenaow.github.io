@@ -87,6 +87,13 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
         <br><em>The 48th IEEE/ACM International Conference on Software Engineering (ICSE'26)</em>
     </li>
     <li>
+        <strong><span style="color:#09a778">[ICSE'26]</span> TaintP2X: Detecting Taint-Style Prompt-to-Anything Injection Vulnerabilities in LLM-Integrated Applications </strong>
+        <a href="http://ShenaoW.github.io/files/icse26taintp2x.pdf" target="_blank"><span class="pdf">PDF</span></a>
+        <a href="https://github.com/security-pride/TaintP2X" target="_blank"><span class="repo">Repo</span></a>
+        <br>Junjie He*, <strong><u>Shenao Wang*</u></strong>, Yanjie Zhao, Xinyi Hou, Zhao Liu, Quanchen Zou, Haoyu Wang.
+        <br><em>The 48th IEEE/ACM International Conference on Software Engineering (ICSE'26)</em>
+    </li>
+    <li>
         <strong><span style="color:#09a778">[Internetware'26]</span> Demystifying LLM Supply Chain Vulnerabilities in the Wild: Distribution, Root Cause, and Real-World Impact</strong>
         <a href="https://arxiv.org/pdf/2502.12497" target="_blank"><span class="pdf">PDF</span></a>
         <br><strong><u>Shenao Wang</u></strong>, Yanjie Zhao, Zhao Liu, Quanchen Zou, Haoyu Wang
