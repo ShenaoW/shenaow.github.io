@@ -1,0 +1,51 @@
+- year: 2024
+  title: Third Prize, Prototype Competition in ChinaSoft'24
+  reference:
+    label: Reference
+    url: /files/chinasoft24.pdf
+
+- year: 2023
+  title: Bronze Award, National Innovation Competition
+  reference:
+    label: Reference
+    url: /files/hulianwang+.pdf
+
+- year: 2023
+  title: Third Prize, Prototype Competition in ChinaSoft'23
+  reference:
+    label: Reference
+    url: /files/chinasoft.pdf
+
+- year: 2022
+  title: First Prize, National Digital Forensics Competition
+  note: "[19/764](https://www.meiyacup.cn/Ne_d_gci_16_id_62.html)"
+  reference:
+    label: Reference
+    url: /files/meiyacup.pdf
+
+- year: 2022
+  title: First Prize & Most Valuable Award, National College Student Information Security Contest
+  note: "[2/728](http://117.78.33.202/upload/file/20220905/1662368728900393.pdf)"
+  reference:
+    label: Reference
+    url: /files/ciscn.pdf
+
+- year: 2022
+  title: Meritorious Winner, MCM/ICM
+  note: Problem A
+  reference:
+    label: Reference
+    url: /files/icm.pdf
+
+- year: 2021
+  title: First Prize, National Cryptographic Competition
+  note: 16/121
+  reference:
+    label: Reference
+    url: /files/crypto.pdf
+
+- year: 2021
+  title: First Prize, CUMCM in Shannxi Province
+  reference:
+    label: Reference
+    url: /files/cumcm.pdf

@@ -83,32 +83,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 # 🏆 Honors & Awards
 
-## <span style="color:grey">Awards</span>
-
-- 2024 - Third Prize, Prototype Competition in ChinaSoft'24 [[Reference]](/files/chinasoft24.pdf)
-- 2023 - Bronze Award, National Innovation Competition [[Reference]](/files/hulianwang+.pdf)
-- 2023 - Third Prize, Prototype Competition in ChinaSoft'23 [[Reference]](/files/chinasoft.pdf)
-- 2022 - First Prize, National Digital Forensics Competition ([19/764](https://www.meiyacup.cn/Ne_d_gci_16_id_62.html)) [[Reference]](/files/meiyacup.pdf)
-- 2022 - First Prize & Most Valuable Award, National College Student Information Security Contest ([2/728](http://117.78.33.202/upload/file/20220905/1662368728900393.pdf)) [[Reference]](/files/ciscn.pdf)
-- 2022 - Meritorious Winner, MCM/ICM (Problem A) [[Reference]](/files/icm.pdf)
-- 2021 - First Prize, National Cryptographic Competition (16/121) [[Reference]](/files/crypto.pdf)
-- 2021 - First Prize, CUMCM in Shannxi Province [[Reference]](/files/cumcm.pdf)
-
-## <span style="color:grey">Honors</span>
-
-- 2025 - National Scholarship, Ministry of Education of P.R. China
-- 2025 - SIGSOFT CAPS AWARD FSE/ISSTA 2025
-- 2024 - National Scholarship, Ministry of Education of P.R. China [[Reference]](/files/national_scholarship.pdf)
-- 2024 - Merit Student, Huazhong University of Science and Technology [[Reference]](/files/merit.pdf)
-- 2023 - Outstanding Graduate of Shaanxi Province [[Reference]](http://www.sxjybk.com/2023/0705/66484.html)
-- 2023 - Outstanding Bachelor Thesis, Xidian University [[Reference]](/files/thesis.pdf)
-- 2022 - President Scholarship, Xidian University ([5 undergraduates among 5300+](https://news.xidian.edu.cn/info/2106/223413.htm)) [[Reference]](/files/president_scholarship.pdf)
-- 2022 - National Scholarship, Ministry of Education of P.R. China (Top 1%) [[Reference]](/files/national_scholarship.pdf)
-- 2022 - Xiaomi Special Scholarship (5 undergraduates among 5300+)
-- 2021 - Excellent Student Cadre, Xidian University
-- 2021 - National Encouragement Scholarship, Ministry of Education of P.R. China
-- 2020 - Pacemaker to Merit Student, Xidian University
-- 2020 - Special Scholarship, Xidian University (Top 1%)
+{% include honors.html %}
 
 # 🐞 StarBugs
 
