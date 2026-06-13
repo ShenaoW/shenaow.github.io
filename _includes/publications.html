@@ -1,0 +1,97 @@
+{% assign mode = include.mode | default: "selected" %}
+{% if mode == "preprints" %}
+  {% assign papers = site.data.publications | where: "type", "preprint" %}
+{% elsif mode == "full" %}
+  {% assign papers = site.data.publications | where_exp: "paper", "paper.type != 'preprint'" %}
+{% else %}
+  {% assign papers = site.data.publications | where: "selected", true %}
+{% endif %}
+
+{% assign all_conferences = site.data.publications | where: "type", "conference" | sort: "sort_key" %}
+{% assign all_journals = site.data.publications | where: "type", "journal" | sort: "sort_key" %}
+{% assign all_workshops = site.data.publications | where: "type", "workshop" | sort: "sort_key" %}
+{% assign papers = papers | sort: "sort_key" | reverse %}
+{% assign grouped_papers = papers | group_by: "year" | sort: "name" | reverse %}
+
+<div class="publication-list publication-list--{{ mode }}">
+  {% if mode == "preprints" %}
+    <ol class="publication-items publication-items--preprints">
+      {% for paper in papers %}
+        <li class="publication-item">
+          <div class="publication-main">
+            <span class="publication-title">{{ paper.title }}</span>
+            {% if paper.links %}
+              <span class="publication-links">
+                {% for link in paper.links %}
+                  <a class="{{ link.class | default: 'pub-link' }}" href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.label }}</a>
+                {% endfor %}
+              </span>
+            {% endif %}
+          </div>
+          <div class="publication-authors">{% include publication-authors.html paper=paper %}</div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    {% for group in grouped_papers %}
+      <details class="publication-year" open>
+        <summary>{{ group.name }}</summary>
+        <ol class="publication-items">
+          {% for paper in group.items %}
+            <li class="publication-item">
+              <div class="publication-main">
+                {% unless paper.type == "preprint" %}
+                  {% assign publication_index = nil %}
+                  {% if paper.type == "conference" %}
+                    {% for item in all_conferences %}
+                      {% if item.title == paper.title %}{% assign publication_index = forloop.index %}{% endif %}
+                    {% endfor %}
+                    <span class="publication-id">[C{{ publication_index }}]</span>
+                  {% elsif paper.type == "journal" %}
+                    {% for item in all_journals %}
+                      {% if item.title == paper.title %}{% assign publication_index = forloop.index %}{% endif %}
+                    {% endfor %}
+                    <span class="publication-id">[J{{ publication_index }}]</span>
+                  {% elsif paper.type == "workshop" %}
+                    {% for item in all_workshops %}
+                      {% if item.title == paper.title %}{% assign publication_index = forloop.index %}{% endif %}
+                    {% endfor %}
+                    <span class="publication-id">[W{{ publication_index }}]</span>
+                  {% endif %}
+                {% endunless %}
+                <span class="publication-title">{{ paper.title }}</span>
+                {% if paper.badges %}
+                  {% for badge in paper.badges %}
+                    <span class="publication-badge">{{ badge }}</span>
+                  {% endfor %}
+                {% endif %}
+              </div>
+              <div class="publication-authors">{% include publication-authors.html paper=paper %}</div>
+              {% if paper.venue %}
+                <div class="publication-venue">
+                  {{ paper.venue }}
+                  {% if paper.links %}
+                    <span class="publication-links">
+                      {% for link in paper.links %}
+                        <a class="{{ link.class | default: 'pub-link' }}" href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.label }}</a>
+                      {% endfor %}
+                    </span>
+                  {% endif %}
+                </div>
+              {% elsif paper.links %}
+                <div class="publication-links publication-links--standalone">
+                  {% for link in paper.links %}
+                    <a class="{{ link.class | default: 'pub-link' }}" href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.label }}</a>
+                  {% endfor %}
+                </div>
+              {% endif %}
+              {% if paper.note %}
+                <div class="publication-note">{{ paper.note }}</div>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ol>
+      </details>
+    {% endfor %}
+  {% endif %}
+</div>

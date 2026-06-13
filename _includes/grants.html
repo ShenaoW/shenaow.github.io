@@ -1,0 +1,15 @@
+<ul class="grant-list">
+  {% for grant in site.data.grants %}
+    <li class="grant-item">
+      <strong>{{ grant.title }}</strong>
+      <br><em>{{ grant.program }}</em>
+      <br><em>
+        Funded by {{ grant.funder }}, {{ grant.period }}
+        {% if grant.note %}
+          (<a href="{{ grant.note_url }}">{{ grant.note }}</a>
+          {% if grant.note_detail %} [{{ grant.note_detail }}]{% endif %})
+        {% endif %}
+      </em>
+    </li>
+  {% endfor %}
+</ul>

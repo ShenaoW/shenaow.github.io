@@ -7,7 +7,8 @@
 
 # Site Settings
 title: 'Shenao Wang'
-description: 'First-Year Ph.D. Student @ Huazhong Univerisity of Science and Technology'
+description: 'First-Year Ph.D. Student @ Huazhong University of Science and Technology'
+url: 'https://shenaow.github.io'
 repository: 'shenaow.github.io'
 google_scholar_stats_use_cdn: true
 
@@ -22,7 +23,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 # Site Author
 author:
   name: 'Shenao Wang'
-  avatar: 'images/chinasoft24.jpg'
+  avatar: '/images/avatar.jpg'
   bio: "What's Past Is Prologue ✨"
   location: 'Wuhan, China'
   employer:

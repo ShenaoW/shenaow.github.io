@@ -1,0 +1,12 @@
+{%- for author in include.paper.authors -%}
+  {%- assign is_equal = false -%}
+  {%- if include.paper.equal_contributors contains author -%}
+    {%- assign is_equal = true -%}
+  {%- endif -%}
+  {%- if author == site.author.name -%}
+    <strong><u>{{ author }}</u>{% if is_equal %}*{% endif %}</strong>
+  {%- else -%}
+    {{ author }}{% if is_equal %}*{% endif %}
+  {%- endif -%}
+  {%- unless forloop.last -%}, {% endunless -%}
+{%- endfor -%}
