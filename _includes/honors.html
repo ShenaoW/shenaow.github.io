@@ -17,7 +17,7 @@
           ({{ item.note | markdownify | remove: '<p>' | remove: '</p>' | strip }})
         {% endif %}
         {% if item.reference %}
-          <a href="{{ item.reference.url }}">[{{ item.reference.label }}]</a>
+          <a class="honor-ref" href="{{ item.reference.url }}">REF</a>
         {% endif %}
       </li>
     {% endfor %}
