@@ -268,3 +268,22 @@
     display: none;
   }
 }
+
+.author__visitor-map {
+  clear: both;
+  margin-top: 1rem;
+  text-align: center;
+  width: 100%;
+
+  img,
+  canvas,
+  iframe,
+  object,
+  embed {
+    display: block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+  }
+}
