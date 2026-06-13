@@ -1,0 +1,17 @@
+- id: CVE-2026-44246
+  url: https://github.com/MIC-DKFZ/nnUNet/security/advisories/GHSA-63mx-j37w-gh59
+  project: nnUNet
+  stars: 8.5k Star
+  vulnerability: Agentic Workflow Injection
+
+- id: CVE-2026-42848
+  url: https://github.com/InternLM/xtuner/security/advisories/GHSA-2fqw-f2xc-gfjf
+  project: xtuner
+  stars: 5.2k Star
+  vulnerability: Agentic Workflow Injection
+
+- id: CVE-2026-39260
+  url: https://gist.github.com/ShenaoW/0b93fdf7883b7c4a963a8f89a202863f
+  project: Shippie
+  stars: 2.4k Star
+  vulnerability: Prompt Injection

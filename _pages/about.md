@@ -114,9 +114,7 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 I have discovered some vulnerabilities in popular OSS. A selective list is shown below.
 
-- [[CVE-2026-44246]](https://github.com/MIC-DKFZ/nnUNet/security/advisories/GHSA-63mx-j37w-gh59) nnUNet, 8.5k Star, Agentic Workflow Injection
-- [[CVE-2026-42848]](https://github.com/InternLM/xtuner/security/advisories/GHSA-2fqw-f2xc-gfjf) xtuner, 5.2k Star, Agentic Workflow Injection
-- [[CVE-2026-39260]](https://gist.github.com/ShenaoW/0b93fdf7883b7c4a963a8f89a202863f) Shippie, 2.4k Star, Prompt Injection
+{% include bugs.html %}
 
 # 🌟 Grants
 

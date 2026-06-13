@@ -1,0 +1,8 @@
+<ul class="bug-list">
+  {% for bug in site.data.bugs %}
+    <li class="bug-item">
+      <a href="{{ bug.url }}">[{{ bug.id }}]</a>
+      {{ bug.project }}{% if bug.stars %}, {{ bug.stars }}{% endif %}{% if bug.vulnerability %}, {{ bug.vulnerability }}{% endif %}
+    </li>
+  {% endfor %}
+</ul>
