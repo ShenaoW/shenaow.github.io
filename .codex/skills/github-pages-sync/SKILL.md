@@ -1,11 +1,13 @@
 ---
 name: "github-pages-sync"
-description: "Use after updating this Jekyll GitHub Pages site when the user asks to sync, publish, push, deploy, or update the changes to GitHub. The workflow verifies the site build, reviews the Git diff, commits the intended changes, and pushes only to origin."
+description: "Use automatically after updating this Jekyll GitHub Pages site unless the user explicitly says not to push. The workflow verifies the site build, reviews the Git diff, commits the intended changes, and pushes only to origin."
 ---
 
 # GitHub Pages Sync
 
-Use this skill when the user asks to sync the latest site updates to GitHub after editing `shenaow.github.io`.
+Use this skill after editing `shenaow.github.io` unless the user explicitly says not to commit, not to push, or only wants a local draft.
+
+Default behavior: after a site update is complete, automatically build, commit, and push the intended changes to GitHub. Do not wait for a separate "push it" request unless there is an unresolved risk or the user has asked to keep changes local.
 
 ## Scope
 
@@ -34,6 +36,8 @@ git diff --check
 ```
 
 Stop and ask the user if there are unexpected sensitive files, unrelated large files, credential files, or changes that clearly do not belong to the site update.
+
+If the working tree contains unrelated existing changes, do not include them in the auto-sync commit. Stage only the files that belong to the completed update, or ask if separation is ambiguous.
 
 3. Verify the site builds successfully.
 
