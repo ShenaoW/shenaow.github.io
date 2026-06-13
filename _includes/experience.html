@@ -1,0 +1,19 @@
+{% assign experience_groups = "education,Education|intern,Intern" | split: "|" %}
+
+{% for group in experience_groups %}
+  {% assign parts = group | split: "," %}
+  {% assign key = parts[0] %}
+  {% assign label = parts[1] %}
+  {% assign items = site.data.experience[key] %}
+
+  <h2 class="section-subtitle">{{ label }}</h2>
+
+  <ul class="experience-list experience-list--{{ key }}">
+    {% for item in items %}
+      <li class="experience-item">
+        {{ item.period }},
+        {{ item.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}

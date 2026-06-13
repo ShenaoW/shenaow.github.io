@@ -1,0 +1,50 @@
+reviewer:
+  - year: 2026
+    venues:
+      - TIFS
+      - IEEE T. Cybern.
+
+  - year: 2025
+    venues:
+      - TDSC
+      - TOSEM
+      - TOPS
+      - EMSE
+
+sub_reviewer:
+  - year: 2026
+    venues:
+      - USENIX Security
+      - ASE
+      - WWW
+      - SIGCOMM
+
+  - year: 2025
+    venues:
+      - S&P
+      - FSE
+      - ISSTA
+      - ASE
+      - NSDI
+      - AsiaCCS
+      - PoPETs
+      - IWQoS
+
+  - year: 2024
+    venues:
+      - CCS
+      - FSE
+      - ISSTA
+      - WWW
+      - IMC
+      - Internetware
+      - MSR
+      - EASE
+      - MobileSoft
+      - SaTS
+      - MobiLLM
+      - LCTES
+
+publicity_web_chair:
+  - LLMSC Workshop @FSE 2026
+  - LLMSC Workshop @ISSTA 2025

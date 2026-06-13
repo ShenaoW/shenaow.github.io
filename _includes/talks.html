@@ -1,0 +1,15 @@
+<ul class="talk-list">
+  {% for talk in site.data.talks %}
+    <li class="talk-item">
+      {{ talk.date }},
+      {{ talk.title }},
+      invited by
+      {% if talk.invited_by_url %}
+        <a href="{{ talk.invited_by_url }}">{{ talk.invited_by }}</a>
+      {% else %}
+        {{ talk.invited_by }}
+      {% endif %}
+      {% if talk.suffix %} {{ talk.suffix }}{% endif %}
+    </li>
+  {% endfor %}
+</ul>

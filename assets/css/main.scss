@@ -186,6 +186,10 @@ h1:before,
   margin-bottom: 0.85em;
 }
 
+.section-subtitle {
+  color: grey;
+}
+
 .bug-list {
   margin-left: 0;
   padding-left: 1.2em;
@@ -201,6 +205,19 @@ h1:before,
 }
 
 .honor-item {
+  margin-bottom: 0.55em;
+}
+
+.service-list,
+.talk-list,
+.experience-list {
+  margin-left: 0;
+  padding-left: 1.2em;
+}
+
+.service-item,
+.talk-item,
+.experience-item {
   margin-bottom: 0.55em;
 }
 

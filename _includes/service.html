@@ -1,0 +1,22 @@
+{% assign service_groups = "reviewer,Reviewer|sub_reviewer,Sub Reviewer|publicity_web_chair,Publicity & Web Chair" | split: "|" %}
+
+{% for group in service_groups %}
+  {% assign parts = group | split: "," %}
+  {% assign key = parts[0] %}
+  {% assign label = parts[1] %}
+  {% assign items = site.data.service[key] %}
+
+  <h2 class="section-subtitle">{{ label }}</h2>
+
+  <ul class="service-list service-list--{{ key }}">
+    {% for item in items %}
+      <li class="service-item">
+        {% if item.year %}
+          {{ item.year }}: {{ item.venues | join: ", " }}
+        {% else %}
+          {{ item }}
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}

@@ -1,0 +1,19 @@
+education:
+  - period: 09/2019 - 06/2023
+    text: "B.Eng., Xidian University, Xi'an, China."
+
+  - period: 09/2023 - 06/2025
+    text: "M.S. Candidate, Huazhong University of Science and Technology, Wuhan, China."
+
+  - period: 09/2025 - Present
+    text: "Ph.D. Student, Huazhong University of Science and Technology, Wuhan, China."
+
+intern:
+  - period: 01/2024 - 02/2024
+    text: Research Intern, Ant Group (MYbank), Hangzhou, China.
+
+  - period: 09/2024 - 09/2025
+    text: Research Intern, Jinyinhu Lab, Wuhan, China.
+
+  - period: 08/2025 - Present
+    text: "Research Intern (Static Analysis, working on [YASA](https://github.com/antgroup/YASA-Engine) and [UAST](https://github.com/antgroup/YASA-UAST)), Ant Group, Chengdu, China."

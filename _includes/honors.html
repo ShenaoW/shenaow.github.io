@@ -6,7 +6,7 @@
   {% assign label = parts[1] %}
   {% assign items = site.data[key] %}
 
-  <h2><span style="color:grey">{{ label }}</span></h2>
+  <h2 class="section-subtitle">{{ label }}</h2>
 
   <ul class="honor-list honor-list--{{ key }}">
     {% for item in items %}
