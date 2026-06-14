@@ -1,7 +1,6 @@
 ---
 - type: preprint
   year: 2026
-  tag: arXiv
   title: Demystifying and Detecting Agentic Workflow Injection Vulnerabilities in GitHub Actions
   links:
   - label: PDF
@@ -23,7 +22,6 @@
   sort_key: 2026050800
 - type: preprint
   year: 2026
-  tag: arXiv
   title: '"Elementary, My Dear Watson." Detecting Malicious Skills via Neuro-Symbolic Reasoning across Heterogeneous Artifacts'
   links:
   - label: PDF
@@ -41,7 +39,6 @@
 - type: conference
   selected: true
   year: 2026
-  tag: FSE'26-Ind
   title: 'YASA: Scalable Multi-Language Taint Analysis on the Unified AST at Ant Group'
   venue: The ACM International Conference on the Foundations of Software Engineering, Industry Track (FSE'26)
   links:
@@ -72,7 +69,6 @@
 - type: conference
   selected: true
   year: 2026
-  tag: ICSE'26
   title: 'VDBFuzz: Understanding and Detecting Crash Bugs in Vector Database Management Systems'
   venue: The 48th IEEE/ACM International Conference on Software Engineering (ICSE'26)
   links:
@@ -98,7 +94,6 @@
 - type: conference
   selected: true
   year: 2026
-  tag: ICSE'26
   title: 'TaintP2X: Detecting Taint-Style Prompt-to-Anything Injection Vulnerabilities in LLM-Integrated Applications'
   venue: The 48th IEEE/ACM International Conference on Software Engineering (ICSE'26)
   links:
@@ -126,7 +121,6 @@
 - type: conference
   selected: true
   year: 2026
-  tag: Internetware'26
   title: 'Demystifying LLM Supply Chain Vulnerabilities in the Wild: Distribution, Root Cause, and Real-World Impact'
   venue: The 17th Asia-Pacific Symposium on Internetware (Internetware'26)
   links:
@@ -145,7 +139,6 @@
 - type: conference
   selected: true
   year: 2026
-  tag: Internetware'26
   title: 'Unveiling Large Language Model Supply Chain: Structure, Domain, and Vulnerabilities'
   venue: The 17th Asia-Pacific Symposium on Internetware (Internetware'26)
   links:
@@ -167,7 +160,6 @@
   sort_key: 2026090300
 - type: conference
   year: 2026
-  tag: Internetware'26
   title: Understanding Bugs in Vector Database Management Systems
   venue: The 17th Asia-Pacific Symposium on Internetware (Internetware'26)
   links:
@@ -187,7 +179,6 @@
   sort_key: 2026090200
 - type: conference
   year: 2026
-  tag: SIGMETRICS'26
   title: 'Mapping the Landscape of LLM Deployment in the Wild: Prevalence, Patterns, and Perils'
   venue: Proceedings of the ACM on Measurement and Analysis of Computer Systems (POMACS)
   selected: false
@@ -204,7 +195,6 @@
 - type: conference
   selected: true
   year: 2025
-  tag: ASE'25
   title: Demystifying Cookie Sharing Risks in WebView-based Mobile App-in-app Ecosystems
   venue: The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE'25)
   links:
@@ -227,7 +217,6 @@
 - type: conference
   selected: true
   year: 2025
-  tag: Internetware'25
   title: 'Seeing is (Not) Believing: The Mirage Card Attack Targeting Online Social Networks'
   venue: Proceedings of the 16th Asia-Pacific Symposium on Internetware (Internetware'25)
   links:
@@ -248,7 +237,6 @@
   sort_key: 2025062003
 - type: conference
   year: 2025
-  tag: ASE'25-Ind
   title: A Characterization Study of Bugs in LLM Agent Workflow Orchestration Frameworks
   venue: The 40th IEEE/ACM International Conference on Automated Software Engineering, Industry Showcase (ASE'25)
   selected: false
@@ -264,7 +252,6 @@
   sort_key: 2025111601
 - type: conference
   year: 2025
-  tag: Internetware'25
   title: Exploring Typo Squatting Threats in the Hugging Face Ecosystem
   venue: Proceedings of the 15th Asia-Pacific Symposium on Internetware
   links:
@@ -283,7 +270,6 @@
   sort_key: 2025062002
 - type: conference
   year: 2025
-  tag: Internetware'25
   title: GPT Store Mining and Analysis
   venue: Proceedings of the 15th Asia-Pacific Symposium on Internetware
   links:
@@ -303,7 +289,6 @@
 - type: conference
   selected: true
   year: 2024
-  tag: CCS'24
   title: 'CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments'
   venue: The 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS'24)
   links:
@@ -326,7 +311,6 @@
 - type: conference
   selected: true
   year: 2024
-  tag: ASE'24-Ind
   title: 'Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs'
   venue: The 39th IEEE/ACM International Conference on Automated Software Engineering, Industry Showcase (ASE'24)
   links:
@@ -355,7 +339,6 @@
   sort_key: 2024102703
 - type: conference
   year: 2024
-  tag: ASE'24-Ind
   title: Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments
   venue: The 39th IEEE/ACM International Conference on Automated Software Engineering, Industry Showcase (ASE'24)
   links:
@@ -381,7 +364,6 @@
   sort_key: 2024102702
 - type: conference
   year: 2024
-  tag: ASE'24-NIER
   title: 'GPTZoo: A Large-scale Dataset of GPTs for the Research Community'
   venue: The 39th IEEE/ACM International Conference on Automated Software Engineering, NIER Track (ASE'24)
   links:
@@ -403,7 +385,6 @@
   sort_key: 2024102701
 - type: conference
   year: 2023
-  tag: ASE'23-Ind
   title: 'MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains'
   venue: The 38th IEEE/ACM International Conference on Automated Software Engineering, Industry Challenge Track (ASE'23)
   links:
@@ -427,7 +408,6 @@
   sort_key: 2023091101
 - type: conference
   year: 2023
-  tag: ASE'23
   title: 'WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs'
   venue: The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE'23)
   links:
@@ -453,7 +433,6 @@
 - type: journal
   selected: true
   year: 2026
-  tag: JCRD'26
   title: Survey of Storage Mechanism Security Threats for Large Language Models
   venue: Journal of Computer Research and Development, in Chinese
   links:
@@ -477,7 +456,6 @@
   sort_key: 2026030100
 - type: journal
   year: 2026
-  tag: TOSEM'26
   title: 'Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions'
   venue: ACM Transactions on Software Engineering and Methodology (TOSEM)
   links:
@@ -487,6 +465,7 @@
   selected: false
   badges:
   - CCF-A
+  - JCR Q1
   authors:
   - Xinyi Hou
   - Yanjie Zhao
@@ -496,7 +475,6 @@
 - type: journal
   selected: true
   year: 2025
-  tag: TOSEM'25
   title: 'MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis'
   venue: ACM Transactions on Software Engineering and Methodology (TOSEM)
   note: Also accepted by FSE 2025 Journal First Track
@@ -509,6 +487,7 @@
     class: repo
   badges:
   - CCF-A
+  - JCR Q1
   authors:
   - Shenao Wang
   - Yuekang Li
@@ -521,7 +500,6 @@
 - type: journal
   selected: true
   year: 2025
-  tag: TOSEM'25
   title: 'Large Language Model Supply Chain: A Research Agenda'
   venue: 'ACM Transactions on Software Engineering and Methodology, Special Issue: 2030 Software Engineering Roadmap (TOSEM)'
   links:
@@ -533,6 +511,7 @@
     class: repo
   badges:
   - CCF-A
+  - JCR Q1
   authors:
   - Shenao Wang
   - Yanjie Zhao
@@ -541,7 +520,6 @@
   sort_key: 2025052401
 - type: journal
   year: 2025
-  tag: TOSEM'25
   title: 'Large Language Models for Cyber Security: A Systematic Literature Review'
   venue: ACM Transactions on Software Engineering and Methodology (TOSEM)
   links:
@@ -551,6 +529,7 @@
   selected: false
   badges:
   - CCF-A
+  - JCR Q1
   authors:
   - Hanxiang Xu
   - Shenao Wang
@@ -564,7 +543,6 @@
   sort_key: 2025092900
 - type: journal
   year: 2025
-  tag: TOSEM'25
   title: 'LLM App Store Analysis: A Vision and Roadmap'
   venue: 'ACM Transactions on Software Engineering and Methodology, Special Issue: 2030 Software Engineering Roadmap (TOSEM)'
   links:
@@ -574,6 +552,7 @@
   selected: false
   badges:
   - CCF-A
+  - JCR Q1
   authors:
   - Yanjie Zhao
   - Xinyi Hou
@@ -583,7 +562,6 @@
 - type: workshop
   selected: false
   year: 2025
-  tag: SE 2030
   title: 'Towards Reliable Vector Database Management Systems: A Software Testing Roadmap for 2030'
   venue: ACM 2030 Roadmap for Software Engineering, co-located with FSE
   links:
@@ -602,7 +580,6 @@
 - type: workshop
   selected: false
   year: 2023
-  tag: SaTS'23
   title: On the Usage-scenario-based Data Minimization in Mini Programs
   venue: The 2023 ACM Workshop on Secure and Trustworthy Superapps, co-located with CCS (SaTS)
   links:
