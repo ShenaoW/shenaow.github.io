@@ -3,38 +3,38 @@
   year: 2026
   title: Demystifying and Detecting Agentic Workflow Injection Vulnerabilities in GitHub Actions
   links:
-  - label: PDF
-    url: https://arxiv.org/pdf/2605.07135
-    class: pdf
+    - label: PDF
+      url: https://arxiv.org/pdf/2605.07135
+      class: pdf
   selected: false
   authors:
-  - Shenao Wang
-  - Xinyi Hou
-  - Zhao Liu
-  - Yanjie Zhao
-  - Xiao Cheng
-  - Quanchen Zou
-  - Xiangzheng Zhang
-  - Haoyu Wang
+    - Shenao Wang
+    - Xinyi Hou
+    - Zhao Liu
+    - Yanjie Zhao
+    - Xiao Cheng
+    - Quanchen Zou
+    - Xiangzheng Zhang
+    - Haoyu Wang
   equal_contributors:
-  - Shenao Wang
-  - Xinyi Hou
+    - Shenao Wang
+    - Xinyi Hou
   sort_key: 2026050800
 - type: preprint
   year: 2026
   title: '"Elementary, My Dear Watson." Detecting Malicious Skills via Neuro-Symbolic Reasoning across Heterogeneous Artifacts'
   links:
-  - label: PDF
-    url: https://arxiv.org/pdf/2603.27204
-    class: pdf
+    - label: PDF
+      url: https://arxiv.org/pdf/2603.27204
+      class: pdf
   selected: false
   authors:
-  - Shenao Wang
-  - Junjie He
-  - Yanjie Zhao
-  - Yayi Wang
-  - Kan Yu
-  - Haoyu Wang
+    - Shenao Wang
+    - Junjie He
+    - Yanjie Zhao
+    - Yayi Wang
+    - Kan Yu
+    - Haoyu Wang
   sort_key: 2026032800
 - type: conference
   selected: true
@@ -42,29 +42,29 @@
   title: 'YASA: Scalable Multi-Language Taint Analysis on the Unified AST at Ant Group'
   venue: The ACM International Conference on the Foundations of Software Engineering, Industry Track (FSE'26)
   links:
-  - label: PDF
-    url: https://arxiv.org/pdf/2601.17390
-    class: pdf
-  - label: Repo
-    url: https://github.com/antgroup/YASA-Engine
-    class: repo
+    - label: PDF
+      url: https://arxiv.org/pdf/2601.17390
+      class: pdf
+    - label: Repo
+      url: https://github.com/antgroup/YASA-Engine
+      class: repo
   badges:
-  - CCF-A
-  - CORE-A*
+    - CCF-A
+    - CORE-A*
   authors:
-  - Yayi Wang
-  - Shenao Wang
-  - Jian Zhao
-  - Shaosen Shi
-  - Ting Li
-  - Yan Cheng
-  - Lizhong Bian
-  - Kan Yu
-  - Yanjie Zhao
-  - Haoyu Wang
+    - Yayi Wang
+    - Shenao Wang
+    - Jian Zhao
+    - Shaosen Shi
+    - Ting Li
+    - Yan Cheng
+    - Lizhong Bian
+    - Kan Yu
+    - Yanjie Zhao
+    - Haoyu Wang
   equal_contributors:
-  - Yayi Wang
-  - Shenao Wang
+    - Yayi Wang
+    - Shenao Wang
   sort_key: 2026070500
 - type: conference
   selected: true
@@ -72,24 +72,24 @@
   title: 'VDBFuzz: Understanding and Detecting Crash Bugs in Vector Database Management Systems'
   venue: The 48th IEEE/ACM International Conference on Software Engineering (ICSE'26)
   links:
-  - label: PDF
-    url: "/files/icse26vdbfuzz.pdf"
-    class: pdf
-  - label: Repo
-    url: https://github.com/security-pride/VDBFuzz
-    class: repo
+    - label: PDF
+      url: '/files/icse26vdbfuzz.pdf'
+      class: pdf
+    - label: Repo
+      url: https://github.com/security-pride/VDBFuzz
+      class: repo
   badges:
-  - CCF-A
-  - CORE-A*
+    - CCF-A
+    - CORE-A*
   authors:
-  - Shenao Wang
-  - Zhao Liu
-  - Yanjie Zhao
-  - Quanchen Zou
-  - Haoyu Wang
+    - Shenao Wang
+    - Zhao Liu
+    - Yanjie Zhao
+    - Quanchen Zou
+    - Haoyu Wang
   equal_contributors:
-  - Shenao Wang
-  - Zhao Liu
+    - Shenao Wang
+    - Zhao Liu
   sort_key: 2026041600
 - type: conference
   selected: true
@@ -97,26 +97,26 @@
   title: 'TaintP2X: Detecting Taint-Style Prompt-to-Anything Injection Vulnerabilities in LLM-Integrated Applications'
   venue: The 48th IEEE/ACM International Conference on Software Engineering (ICSE'26)
   links:
-  - label: PDF
-    url: "/files/icse26taintp2x.pdf"
-    class: pdf
-  - label: Repo
-    url: https://github.com/security-pride/TaintP2X
-    class: repo
+    - label: PDF
+      url: '/files/icse26taintp2x.pdf'
+      class: pdf
+    - label: Repo
+      url: https://github.com/security-pride/TaintP2X
+      class: repo
   badges:
-  - CCF-A
-  - CORE-A*
+    - CCF-A
+    - CORE-A*
   authors:
-  - Junjie He
-  - Shenao Wang
-  - Yanjie Zhao
-  - Xinyi Hou
-  - Zhao Liu
-  - Quanchen Zou
-  - Haoyu Wang
+    - Junjie He
+    - Shenao Wang
+    - Yanjie Zhao
+    - Xinyi Hou
+    - Zhao Liu
+    - Quanchen Zou
+    - Haoyu Wang
   equal_contributors:
-  - Junjie He
-  - Shenao Wang
+    - Junjie He
+    - Shenao Wang
   sort_key: 2026041500
 - type: conference
   selected: true
@@ -124,17 +124,17 @@
   title: 'Demystifying LLM Supply Chain Vulnerabilities in the Wild: Distribution, Root Cause, and Real-World Impact'
   venue: The 17th Asia-Pacific Symposium on Internetware (Internetware'26)
   links:
-  - label: PDF
-    url: https://arxiv.org/pdf/2502.12497
-    class: pdf
+    - label: PDF
+      url: https://arxiv.org/pdf/2502.12497
+      class: pdf
   badges:
-  - CCF-C
+    - CCF-C
   authors:
-  - Shenao Wang
-  - Yanjie Zhao
-  - Zhao Liu
-  - Quanchen Zou
-  - Haoyu Wang
+    - Shenao Wang
+    - Yanjie Zhao
+    - Zhao Liu
+    - Quanchen Zou
+    - Haoyu Wang
   sort_key: 2026090400
 - type: conference
   selected: true
@@ -142,40 +142,40 @@
   title: 'Unveiling Large Language Model Supply Chain: Structure, Domain, and Vulnerabilities'
   venue: The 17th Asia-Pacific Symposium on Internetware (Internetware'26)
   links:
-  - label: PDF
-    url: https://arxiv.org/pdf/2504.20763
-    class: pdf
+    - label: PDF
+      url: https://arxiv.org/pdf/2504.20763
+      class: pdf
   badges:
-  - CCF-C
+    - CCF-C
   authors:
-  - Yanzhe Hu
-  - Shenao Wang
-  - Yuhan Tang
-  - Tianyuan Nie
-  - Yanjie Zhao
-  - Haoyu Wang
+    - Yanzhe Hu
+    - Shenao Wang
+    - Yuhan Tang
+    - Tianyuan Nie
+    - Yanjie Zhao
+    - Haoyu Wang
   equal_contributors:
-  - Yanzhe Hu
-  - Shenao Wang
+    - Yanzhe Hu
+    - Shenao Wang
   sort_key: 2026090300
 - type: conference
   year: 2026
   title: Understanding Bugs in Vector Database Management Systems
   venue: The 17th Asia-Pacific Symposium on Internetware (Internetware'26)
   links:
-  - label: PDF
-    url: https://arxiv.org/pdf/2506.02617
-    class: pdf
+    - label: PDF
+      url: https://arxiv.org/pdf/2506.02617
+      class: pdf
   selected: false
   badges:
-  - CCF-C
+    - CCF-C
   authors:
-  - Yinlin Xie
-  - Xinyi Hou
-  - Yanjie Zhao
-  - Shenao Wang
-  - Kai Chen
-  - Haoyu Wang
+    - Yinlin Xie
+    - Xinyi Hou
+    - Yanjie Zhao
+    - Shenao Wang
+    - Kai Chen
+    - Haoyu Wang
   sort_key: 2026090200
 - type: conference
   year: 2026
@@ -183,14 +183,14 @@
   venue: Proceedings of the ACM on Measurement and Analysis of Computer Systems (POMACS)
   selected: false
   badges:
-  - CCF-B
-  - CORE-A*
+    - CCF-B
+    - CORE-A*
   authors:
-  - Xinyi Hou
-  - Jiahan Han
-  - Yanjie Zhao
-  - Shenao Wang
-  - Haoyu Wang
+    - Xinyi Hou
+    - Jiahan Han
+    - Yanjie Zhao
+    - Shenao Wang
+    - Haoyu Wang
   sort_key: 2026060800
 - type: conference
   selected: true
@@ -198,42 +198,42 @@
   title: Demystifying Cookie Sharing Risks in WebView-based Mobile App-in-app Ecosystems
   venue: The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE'25)
   links:
-  - label: PDF
-    url: https://arxiv.org/pdf/2510.24141
-    class: pdf
+    - label: PDF
+      url: https://arxiv.org/pdf/2510.24141
+      class: pdf
   badges:
-  - CCF-A
-  - CORE-A*
+    - CCF-A
+    - CORE-A*
   authors:
-  - Miao Zhang
-  - Shenao Wang
-  - Guilin Zheng
-  - Yanjie Zhao
-  - Haoyu Wang
+    - Miao Zhang
+    - Shenao Wang
+    - Guilin Zheng
+    - Yanjie Zhao
+    - Haoyu Wang
   equal_contributors:
-  - Miao Zhang
-  - Shenao Wang
-  sort_key: 2025111602
+    - Miao Zhang
+    - Shenao Wang
+  sort_key: 2025111601
 - type: conference
   selected: true
   year: 2025
   title: 'Seeing is (Not) Believing: The Mirage Card Attack Targeting Online Social Networks'
   venue: Proceedings of the 16th Asia-Pacific Symposium on Internetware (Internetware'25)
   links:
-  - label: PDF
-    url: https://arxiv.org/pdf/2405.10758
-    class: pdf
+    - label: PDF
+      url: https://arxiv.org/pdf/2405.10758
+      class: pdf
   badges:
-  - CCF-C
+    - CCF-C
   authors:
-  - Wangchenlu Huang
-  - Shenao Wang
-  - Yanjie Zhao
-  - Guosheng Xu
-  - Haoyu Wang
+    - Wangchenlu Huang
+    - Shenao Wang
+    - Yanjie Zhao
+    - Guosheng Xu
+    - Haoyu Wang
   equal_contributors:
-  - Wangchenlu Huang
-  - Shenao Wang
+    - Wangchenlu Huang
+    - Shenao Wang
   sort_key: 2025062003
 - type: conference
   year: 2025
@@ -241,50 +241,50 @@
   venue: The 40th IEEE/ACM International Conference on Automated Software Engineering, Industry Showcase (ASE'25)
   selected: false
   badges:
-  - CCF-A
-  - CORE-A*
+    - CCF-A
+    - CORE-A*
   authors:
-  - Zilou Xue
-  - Yanjie Zhao
-  - Shenao Wang
-  - Kai Chen
-  - Haoyu Wang
-  sort_key: 2025111601
+    - Zilou Xue
+    - Yanjie Zhao
+    - Shenao Wang
+    - Kai Chen
+    - Haoyu Wang
+  sort_key: 2025111602
 - type: conference
   year: 2025
   title: Exploring Typo Squatting Threats in the Hugging Face Ecosystem
   venue: Proceedings of the 15th Asia-Pacific Symposium on Internetware
   links:
-  - label: PDF
-    url: https://dl.acm.org/doi/pdf/10.1145/3755881.3755921
-    class: pdf
+    - label: PDF
+      url: https://dl.acm.org/doi/pdf/10.1145/3755881.3755921
+      class: pdf
   selected: false
   badges:
-  - CCF-C
+    - CCF-C
   authors:
-  - Ningyuan Li
-  - Yanjie Zhao
-  - Shenao Wang
-  - Zehao Wu
-  - Haoyu Wang
+    - Ningyuan Li
+    - Yanjie Zhao
+    - Shenao Wang
+    - Zehao Wu
+    - Haoyu Wang
   sort_key: 2025062002
 - type: conference
   year: 2025
   title: GPT Store Mining and Analysis
   venue: Proceedings of the 15th Asia-Pacific Symposium on Internetware
   links:
-  - label: PDF
-    url: https://arxiv.org/pdf/2405.10210
-    class: pdf
+    - label: PDF
+      url: https://arxiv.org/pdf/2405.10210
+      class: pdf
   selected: false
   badges:
-  - CCF-C
+    - CCF-C
   authors:
-  - Dongxun Su
-  - Yanjie Zhao
-  - Xinyi Hou
-  - Shenao Wang
-  - Haoyu Wang
+    - Dongxun Su
+    - Yanjie Zhao
+    - Xinyi Hou
+    - Shenao Wang
+    - Haoyu Wang
   sort_key: 2025062001
 - type: conference
   selected: true
@@ -292,21 +292,21 @@
   title: 'CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments'
   venue: The 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS'24)
   links:
-  - label: PDF
-    url: https://arxiv.org/pdf/2408.16515
-    class: pdf
+    - label: PDF
+      url: https://arxiv.org/pdf/2408.16515
+      class: pdf
   badges:
-  - CCF-A
-  - CORE-A*
+    - CCF-A
+    - CORE-A*
   authors:
-  - Shenao Wang
-  - Feng Dong
-  - Hangfeng Yang
-  - Jingheng Xu
-  - Haoyu Wang
+    - Shenao Wang
+    - Feng Dong
+    - Hangfeng Yang
+    - Jingheng Xu
+    - Haoyu Wang
   equal_contributors:
-  - Shenao Wang
-  - Feng Dong
+    - Shenao Wang
+    - Feng Dong
   sort_key: 2024120200
 - type: conference
   selected: true
@@ -314,121 +314,121 @@
   title: 'Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs'
   venue: The 39th IEEE/ACM International Conference on Automated Software Engineering, Industry Showcase (ASE'24)
   links:
-  - label: PDF
-    url: https://arxiv.org/pdf/2409.09368
-    class: pdf
-  - label: Repo
-    url: https://github.com/security-pride/MalHug
-    class: repo
+    - label: PDF
+      url: https://arxiv.org/pdf/2409.09368
+      class: pdf
+    - label: Repo
+      url: https://github.com/security-pride/MalHug
+      class: repo
   badges:
-  - CCF-A
-  - CORE-A*
+    - CCF-A
+    - CORE-A*
   authors:
-  - Jian Zhao
-  - Shenao Wang
-  - Yanjie Zhao
-  - Xinyi Hou
-  - Kailong Wang
-  - Peiming Gao
-  - Yuanchao Zhang
-  - Chen Wei
-  - Haoyu Wang
+    - Jian Zhao
+    - Shenao Wang
+    - Yanjie Zhao
+    - Xinyi Hou
+    - Kailong Wang
+    - Peiming Gao
+    - Yuanchao Zhang
+    - Chen Wei
+    - Haoyu Wang
   equal_contributors:
-  - Jian Zhao
-  - Shenao Wang
-  sort_key: 2024102703
+    - Jian Zhao
+    - Shenao Wang
+  sort_key: 2024102701
 - type: conference
   year: 2024
   title: Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments
   venue: The 39th IEEE/ACM International Conference on Automated Software Engineering, Industry Showcase (ASE'24)
   links:
-  - label: PDF
-    url: https://arxiv.org/pdf/2409.09356
-    class: pdf
-  - label: Repo
-    url: https://github.com/security-pride/OSCAR
-    class: repo
+    - label: PDF
+      url: https://arxiv.org/pdf/2409.09356
+      class: pdf
+    - label: Repo
+      url: https://github.com/security-pride/OSCAR
+      class: repo
   selected: false
   badges:
-  - CCF-A
-  - CORE-A*
+    - CCF-A
+    - CORE-A*
   authors:
-  - Xinyi Zheng
-  - Chen Wei
-  - Shenao Wang
-  - Yanjie Zhao
-  - Peiming Gao
-  - Yuanchao Zhang
-  - Kailong Wang
-  - Haoyu Wang
+    - Xinyi Zheng
+    - Chen Wei
+    - Shenao Wang
+    - Yanjie Zhao
+    - Peiming Gao
+    - Yuanchao Zhang
+    - Kailong Wang
+    - Haoyu Wang
   sort_key: 2024102702
 - type: conference
   year: 2024
   title: 'GPTZoo: A Large-scale Dataset of GPTs for the Research Community'
   venue: The 39th IEEE/ACM International Conference on Automated Software Engineering, NIER Track (ASE'24)
   links:
-  - label: PDF
-    url: https://arxiv.org/pdf/2405.15630
-    class: pdf
-  - label: Repo
-    url: https://github.com/security-pride/GPTZoo
-    class: repo
+    - label: PDF
+      url: https://arxiv.org/pdf/2405.15630
+      class: pdf
+    - label: Repo
+      url: https://github.com/security-pride/GPTZoo
+      class: repo
   selected: false
   badges:
-  - CCF-A
-  - CORE-A*
+    - CCF-A
+    - CORE-A*
   authors:
-  - Xinyi Hou
-  - Yanjie Zhao
-  - Shenao Wang
-  - Haoyu Wang
-  sort_key: 2024102701
+    - Xinyi Hou
+    - Yanjie Zhao
+    - Shenao Wang
+    - Haoyu Wang
+  sort_key: 2024102703
 - type: conference
   year: 2023
   title: 'MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains'
   venue: The 38th IEEE/ACM International Conference on Automated Software Engineering, Industry Challenge Track (ASE'23)
   links:
-  - label: PDF
-    url: "/files/ase23malwukong.pdf"
-    class: pdf
-  - label: Repo
-    url: https://github.com/security-pride/malwukong-samples
-    class: repo
+    - label: PDF
+      url: '/files/ase23malwukong.pdf'
+      class: pdf
+    - label: Repo
+      url: https://github.com/security-pride/malwukong-samples
+      class: repo
   selected: false
   badges:
-  - CCF-A
-  - CORE-A*
+    - CCF-A
+    - CORE-A*
   authors:
-  - Ningke Li
-  - Shenao Wang
-  - Mingxi Feng
-  - Kailong Wang
-  - Meizhen Wang
-  - Haoyu Wang
+    - Ningke Li
+    - Shenao Wang
+    - Mingxi Feng
+    - Kailong Wang
+    - Meizhen Wang
+    - Haoyu Wang
   sort_key: 2023091101
 - type: conference
   year: 2023
   title: 'WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs'
   venue: The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE'23)
   links:
-  - label: PDF
-    url: "/files/ase23wemint.pdf"
-    class: pdf
-  - label: Repo
-    url: https://github.com/EEEEEEcho/wemint
-    class: repo
+    - label: PDF
+      url: '/files/ase23wemint.pdf'
+      class: pdf
+    - label: Repo
+      url: https://github.com/EEEEEEcho/wemint
+      class: repo
   selected: false
   badges:
-  - CCF-A
-  - CORE-A*
+    - CCF-A
+    - CORE-A*
   authors:
-  - Shi Meng
-  - Liu Wang
-  - Shenao Wang
-  - Kailong Wang
-  - Xusheng Xiao
-  - Guangdong Bai
-  - Haoyu Wang
+    - Shi Meng
+    - Liu Wang
+    - Shenao Wang
+    - Kailong Wang
+    - Xusheng Xiao
+    - Guangdong Bai
+    - Haoyu Wang
   sort_key: 2023091102
 - type: journal
   selected: true
@@ -436,41 +436,41 @@
   title: Survey of Storage Mechanism Security Threats for Large Language Models
   venue: Journal of Computer Research and Development, in Chinese
   links:
-  - label: PDF
-    url: https://crad.ict.ac.cn/cn/article/pdf/preview/10.7544/issn1000-1239.202550481.pdf
-    class: pdf
+    - label: PDF
+      url: https://crad.ict.ac.cn/cn/article/pdf/preview/10.7544/issn1000-1239.202550481.pdf
+      class: pdf
   badges:
-  - CCF-T1
+    - CCF-T1
   authors:
-  - Liu Wang
-  - Shenao Wang
-  - Xinyi Hou
-  - Jian Zhao
-  - Rongxin Wu
-  - Qiao Xiang
-  - Yanjie Zhao
-  - Yi Wang
+    - Liu Wang
+    - Shenao Wang
+    - Xinyi Hou
+    - Jian Zhao
+    - Rongxin Wu
+    - Qiao Xiang
+    - Yanjie Zhao
+    - Yi Wang
   equal_contributors:
-  - Liu Wang
-  - Shenao Wang
+    - Liu Wang
+    - Shenao Wang
   sort_key: 2026030100
 - type: journal
   year: 2026
   title: 'Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions'
   venue: ACM Transactions on Software Engineering and Methodology (TOSEM)
   links:
-  - label: PDF
-    url: https://arxiv.org/pdf/2503.23278
-    class: pdf
+    - label: PDF
+      url: https://arxiv.org/pdf/2503.23278
+      class: pdf
   selected: false
   badges:
-  - CCF-A
-  - JCR Q1
+    - CCF-A
+    - JCR Q1
   authors:
-  - Xinyi Hou
-  - Yanjie Zhao
-  - Shenao Wang
-  - Haoyu Wang
+    - Xinyi Hou
+    - Yanjie Zhao
+    - Shenao Wang
+    - Haoyu Wang
   sort_key: 2026021600
 - type: journal
   selected: true
@@ -479,23 +479,23 @@
   venue: ACM Transactions on Software Engineering and Methodology (TOSEM)
   note: Also accepted by FSE 2025 Journal First Track
   links:
-  - label: PDF
-    url: https://arxiv.org/pdf/2401.03218
-    class: pdf
-  - label: Repo
-    url: https://github.com/security-pride/MiniScope
-    class: repo
+    - label: PDF
+      url: https://arxiv.org/pdf/2401.03218
+      class: pdf
+    - label: Repo
+      url: https://github.com/security-pride/MiniScope
+      class: repo
   badges:
-  - CCF-A
-  - JCR Q1
+    - CCF-A
+    - JCR Q1
   authors:
-  - Shenao Wang
-  - Yuekang Li
-  - Kailong Wang
-  - Yi Liu
-  - Hui Li
-  - Yang Liu
-  - Haoyu Wang
+    - Shenao Wang
+    - Yuekang Li
+    - Kailong Wang
+    - Yi Liu
+    - Hui Li
+    - Yang Liu
+    - Haoyu Wang
   sort_key: 2025070100
 - type: journal
   selected: true
@@ -503,61 +503,61 @@
   title: 'Large Language Model Supply Chain: A Research Agenda'
   venue: 'ACM Transactions on Software Engineering and Methodology, Special Issue: 2030 Software Engineering Roadmap (TOSEM)'
   links:
-  - label: PDF
-    url: https://arxiv.org/pdf/2404.12736
-    class: pdf
-  - label: Repo
-    url: https://github.com/ShenaoW/awesome-llm-supply-chain-security
-    class: repo
+    - label: PDF
+      url: https://arxiv.org/pdf/2404.12736
+      class: pdf
+    - label: Repo
+      url: https://github.com/ShenaoW/awesome-llm-supply-chain-security
+      class: repo
   badges:
-  - CCF-A
-  - JCR Q1
+    - CCF-A
+    - JCR Q1
   authors:
-  - Shenao Wang
-  - Yanjie Zhao
-  - Xinyi Hou
-  - Haoyu Wang
+    - Shenao Wang
+    - Yanjie Zhao
+    - Xinyi Hou
+    - Haoyu Wang
   sort_key: 2025052401
 - type: journal
   year: 2025
   title: 'Large Language Models for Cyber Security: A Systematic Literature Review'
   venue: ACM Transactions on Software Engineering and Methodology (TOSEM)
   links:
-  - label: PDF
-    url: https://arxiv.org/pdf/2405.04760
-    class: pdf
+    - label: PDF
+      url: https://arxiv.org/pdf/2405.04760
+      class: pdf
   selected: false
   badges:
-  - CCF-A
-  - JCR Q1
+    - CCF-A
+    - JCR Q1
   authors:
-  - Hanxiang Xu
-  - Shenao Wang
-  - Ningke Li
-  - Kailong Wang
-  - Yanjie Zhao
-  - Kai Chen
-  - Ting Yu
-  - Yang Liu
-  - Haoyu Wang
+    - Hanxiang Xu
+    - Shenao Wang
+    - Ningke Li
+    - Kailong Wang
+    - Yanjie Zhao
+    - Kai Chen
+    - Ting Yu
+    - Yang Liu
+    - Haoyu Wang
   sort_key: 2025092900
 - type: journal
   year: 2025
   title: 'LLM App Store Analysis: A Vision and Roadmap'
   venue: 'ACM Transactions on Software Engineering and Methodology, Special Issue: 2030 Software Engineering Roadmap (TOSEM)'
   links:
-  - label: PDF
-    url: https://arxiv.org/pdf/2404.12737
-    class: pdf
+    - label: PDF
+      url: https://arxiv.org/pdf/2404.12737
+      class: pdf
   selected: false
   badges:
-  - CCF-A
-  - JCR Q1
+    - CCF-A
+    - JCR Q1
   authors:
-  - Yanjie Zhao
-  - Xinyi Hou
-  - Shenao Wang
-  - Haoyu Wang
+    - Yanjie Zhao
+    - Xinyi Hou
+    - Shenao Wang
+    - Haoyu Wang
   sort_key: 2025052402
 - type: workshop
   selected: false
@@ -565,17 +565,17 @@
   title: 'Towards Reliable Vector Database Management Systems: A Software Testing Roadmap for 2030'
   venue: ACM 2030 Roadmap for Software Engineering, co-located with FSE
   links:
-  - label: PDF
-    url: https://arxiv.org/pdf/2502.20812
-    class: pdf
+    - label: PDF
+      url: https://arxiv.org/pdf/2502.20812
+      class: pdf
   authors:
-  - Shenao Wang
-  - Yanjie Zhao
-  - Yinglin Xie
-  - Zhao Liu
-  - Xinyi Hou
-  - Quanchen Zou
-  - Haoyu Wang
+    - Shenao Wang
+    - Yanjie Zhao
+    - Yinglin Xie
+    - Zhao Liu
+    - Xinyi Hou
+    - Quanchen Zou
+    - Haoyu Wang
   sort_key: 2025022800
 - type: workshop
   selected: false
@@ -583,12 +583,12 @@
   title: On the Usage-scenario-based Data Minimization in Mini Programs
   venue: The 2023 ACM Workshop on Secure and Trustworthy Superapps, co-located with CCS (SaTS)
   links:
-  - label: PDF
-    url: "/files/sats23.pdf"
-    class: pdf
+    - label: PDF
+      url: '/files/sats23.pdf'
+      class: pdf
   authors:
-  - Shenao Wang
-  - Yanjie Zhao
-  - Kailong Wang
-  - Haoyu Wang
+    - Shenao Wang
+    - Yanjie Zhao
+    - Kailong Wang
+    - Haoyu Wang
   sort_key: 2023112600
