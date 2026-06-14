@@ -135,7 +135,7 @@
     - Zhao Liu
     - Quanchen Zou
     - Haoyu Wang
-  sort_key: 20260718
+  sort_key: 20260720
 - type: conference
   selected: true
   year: 2026
@@ -157,7 +157,7 @@
   equal_contributors:
     - Yanzhe Hu
     - Shenao Wang
-  sort_key: 20260718
+  sort_key: 20260719
 - type: conference
   year: 2026
   title: Understanding Bugs in Vector Database Management Systems
