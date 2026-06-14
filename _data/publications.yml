@@ -19,7 +19,7 @@
   equal_contributors:
     - Shenao Wang
     - Xinyi Hou
-  sort_key: 2026050800
+  sort_key: 20260508
 - type: preprint
   year: 2026
   title: '"Elementary, My Dear Watson." Detecting Malicious Skills via Neuro-Symbolic Reasoning across Heterogeneous Artifacts'
@@ -35,7 +35,7 @@
     - Yayi Wang
     - Kan Yu
     - Haoyu Wang
-  sort_key: 2026032800
+  sort_key: 20260328
 - type: conference
   selected: true
   year: 2026
@@ -65,7 +65,7 @@
   equal_contributors:
     - Yayi Wang
     - Shenao Wang
-  sort_key: 2026070500
+  sort_key: 20260705
 - type: conference
   selected: true
   year: 2026
@@ -90,7 +90,7 @@
   equal_contributors:
     - Shenao Wang
     - Zhao Liu
-  sort_key: 2026041600
+  sort_key: 20260416
 - type: conference
   selected: true
   year: 2026
@@ -117,7 +117,7 @@
   equal_contributors:
     - Junjie He
     - Shenao Wang
-  sort_key: 2026041500
+  sort_key: 20260415
 - type: conference
   selected: true
   year: 2026
@@ -135,7 +135,7 @@
     - Zhao Liu
     - Quanchen Zou
     - Haoyu Wang
-  sort_key: 2026090400
+  sort_key: 20260904
 - type: conference
   selected: true
   year: 2026
@@ -157,7 +157,7 @@
   equal_contributors:
     - Yanzhe Hu
     - Shenao Wang
-  sort_key: 2026090300
+  sort_key: 20260903
 - type: conference
   year: 2026
   title: Understanding Bugs in Vector Database Management Systems
@@ -176,7 +176,7 @@
     - Shenao Wang
     - Kai Chen
     - Haoyu Wang
-  sort_key: 2026090200
+  sort_key: 20260902
 - type: conference
   year: 2026
   title: 'Mapping the Landscape of LLM Deployment in the Wild: Prevalence, Patterns, and Perils'
@@ -191,7 +191,7 @@
     - Yanjie Zhao
     - Shenao Wang
     - Haoyu Wang
-  sort_key: 2026060800
+  sort_key: 20260608
 - type: conference
   selected: true
   year: 2025
@@ -213,7 +213,7 @@
   equal_contributors:
     - Miao Zhang
     - Shenao Wang
-  sort_key: 2025111601
+  sort_key: 20251116
 - type: conference
   selected: true
   year: 2025
@@ -234,7 +234,7 @@
   equal_contributors:
     - Wangchenlu Huang
     - Shenao Wang
-  sort_key: 2025062003
+  sort_key: 20250620
 - type: conference
   year: 2025
   title: A Characterization Study of Bugs in LLM Agent Workflow Orchestration Frameworks
@@ -249,7 +249,7 @@
     - Shenao Wang
     - Kai Chen
     - Haoyu Wang
-  sort_key: 2025111602
+  sort_key: 20251116
 - type: conference
   year: 2025
   title: Exploring Typo Squatting Threats in the Hugging Face Ecosystem
@@ -267,7 +267,7 @@
     - Shenao Wang
     - Zehao Wu
     - Haoyu Wang
-  sort_key: 2025062002
+  sort_key: 20250620
 - type: conference
   year: 2025
   title: GPT Store Mining and Analysis
@@ -285,7 +285,7 @@
     - Xinyi Hou
     - Shenao Wang
     - Haoyu Wang
-  sort_key: 2025062001
+  sort_key: 20250620
 - type: conference
   selected: true
   year: 2024
@@ -307,7 +307,7 @@
   equal_contributors:
     - Shenao Wang
     - Feng Dong
-  sort_key: 2024120200
+  sort_key: 20241202
 - type: conference
   selected: true
   year: 2024
@@ -336,7 +336,7 @@
   equal_contributors:
     - Jian Zhao
     - Shenao Wang
-  sort_key: 2024102701
+  sort_key: 20241027
 - type: conference
   year: 2024
   title: Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments
@@ -361,7 +361,7 @@
     - Yuanchao Zhang
     - Kailong Wang
     - Haoyu Wang
-  sort_key: 2024102702
+  sort_key: 20241027
 - type: conference
   year: 2024
   title: 'GPTZoo: A Large-scale Dataset of GPTs for the Research Community'
@@ -382,7 +382,7 @@
     - Yanjie Zhao
     - Shenao Wang
     - Haoyu Wang
-  sort_key: 2024102703
+  sort_key: 20241027
 - type: conference
   year: 2023
   title: 'MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains'
@@ -405,7 +405,7 @@
     - Kailong Wang
     - Meizhen Wang
     - Haoyu Wang
-  sort_key: 2023091101
+  sort_key: 20230911
 - type: conference
   year: 2023
   title: 'WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs'
@@ -429,7 +429,7 @@
     - Xusheng Xiao
     - Guangdong Bai
     - Haoyu Wang
-  sort_key: 2023091102
+  sort_key: 20230911
 - type: journal
   selected: true
   year: 2026
@@ -453,7 +453,7 @@
   equal_contributors:
     - Liu Wang
     - Shenao Wang
-  sort_key: 2026030100
+  sort_key: 20260301
 - type: journal
   year: 2026
   title: 'Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions'
@@ -471,7 +471,7 @@
     - Yanjie Zhao
     - Shenao Wang
     - Haoyu Wang
-  sort_key: 2026021600
+  sort_key: 20260216
 - type: journal
   selected: true
   year: 2025
@@ -496,7 +496,7 @@
     - Hui Li
     - Yang Liu
     - Haoyu Wang
-  sort_key: 2025070100
+  sort_key: 20250701
 - type: journal
   selected: true
   year: 2025
@@ -517,7 +517,7 @@
     - Yanjie Zhao
     - Xinyi Hou
     - Haoyu Wang
-  sort_key: 2025052401
+  sort_key: 20250524
 - type: journal
   year: 2025
   title: 'Large Language Models for Cyber Security: A Systematic Literature Review'
@@ -540,7 +540,7 @@
     - Ting Yu
     - Yang Liu
     - Haoyu Wang
-  sort_key: 2025092900
+  sort_key: 20250929
 - type: journal
   year: 2025
   title: 'LLM App Store Analysis: A Vision and Roadmap'
@@ -558,7 +558,7 @@
     - Xinyi Hou
     - Shenao Wang
     - Haoyu Wang
-  sort_key: 2025052402
+  sort_key: 20250524
 - type: workshop
   selected: false
   year: 2025
@@ -576,7 +576,7 @@
     - Xinyi Hou
     - Quanchen Zou
     - Haoyu Wang
-  sort_key: 2025022800
+  sort_key: 20250228
 - type: workshop
   selected: false
   year: 2023
@@ -591,4 +591,4 @@
     - Yanjie Zhao
     - Kailong Wang
     - Haoyu Wang
-  sort_key: 2023112600
+  sort_key: 20231126

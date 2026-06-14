@@ -7,16 +7,59 @@
   {% assign papers = site.data.publications | where: "selected", true %}
 {% endif %}
 
-{% assign all_conferences = site.data.publications | where: "type", "conference" | sort: "sort_key" %}
-{% assign all_journals = site.data.publications | where: "type", "journal" | sort: "sort_key" %}
-{% assign all_workshops = site.data.publications | where: "type", "workshop" | sort: "sort_key" %}
-{% assign papers = papers | sort: "sort_key" | reverse %}
+{% assign all_conferences = site.data.publications | where: "type", "conference" %}
+{% assign all_journals = site.data.publications | where: "type", "journal" %}
+{% assign all_workshops = site.data.publications | where: "type", "workshop" %}
+
+{% capture conference_records -%}
+  {%- for paper in all_conferences -%}
+    {%- include publication-sort-record.html paper=paper index=forloop.index0 order="asc" -%}
+    {%- unless forloop.last -%}
+{% endunless -%}
+  {%- endfor -%}
+{%- endcapture %}
+{% assign conference_records = conference_records | strip | split: "
+" | sort %}
+
+{% capture journal_records -%}
+  {%- for paper in all_journals -%}
+    {%- include publication-sort-record.html paper=paper index=forloop.index0 order="asc" -%}
+    {%- unless forloop.last -%}
+{% endunless -%}
+  {%- endfor -%}
+{%- endcapture %}
+{% assign journal_records = journal_records | strip | split: "
+" | sort %}
+
+{% capture workshop_records -%}
+  {%- for paper in all_workshops -%}
+    {%- include publication-sort-record.html paper=paper index=forloop.index0 order="asc" -%}
+    {%- unless forloop.last -%}
+{% endunless -%}
+  {%- endfor -%}
+{%- endcapture %}
+{% assign workshop_records = workshop_records | strip | split: "
+" | sort %}
+
+{% capture paper_records -%}
+  {%- for paper in papers -%}
+    {%- include publication-sort-record.html paper=paper index=forloop.index0 order="desc" -%}
+    {%- unless forloop.last -%}
+{% endunless -%}
+  {%- endfor -%}
+{%- endcapture %}
+{% assign paper_records = paper_records | strip | split: "
+" | sort %}
 {% assign grouped_papers = papers | group_by: "year" | sort: "name" | reverse %}
 
 <div class="publication-list publication-list--{{ mode }}">
   {% if mode == "preprints" %}
     <ol class="publication-items publication-items--preprints">
-      {% for paper in papers %}
+      {% for record in paper_records %}
+        {% unless record contains "|" %}{% continue %}{% endunless %}
+        {% assign record_parts = record | split: "|" %}
+        {% assign paper_index = record_parts[3] | plus: 0 %}
+        {% assign paper = papers[paper_index] %}
         <li class="publication-item">
           <div class="publication-main">
             <span class="publication-title">{{ paper.title }}</span>
@@ -37,24 +80,51 @@
       <details class="publication-year" open>
         <summary>{{ group.name }}</summary>
         <ol class="publication-items">
-          {% for paper in group.items %}
+          {% for record in paper_records %}
+            {% unless record contains "|" %}{% continue %}{% endunless %}
+            {% assign record_parts = record | split: "|" %}
+            {% assign paper_index = record_parts[3] | plus: 0 %}
+            {% assign paper = papers[paper_index] %}
+            {% assign paper_year = paper.year | append: "" %}
+            {% assign group_year = group.name | append: "" %}
+            {% unless paper_year == group_year %}
+              {% continue %}
+            {% endunless %}
             <li class="publication-item">
               <div class="publication-main">
                 {% unless paper.type == "preprint" %}
                   {% assign publication_index = nil %}
                   {% if paper.type == "conference" %}
-                    {% for item in all_conferences %}
-                      {% if item.title == paper.title %}{% assign publication_index = forloop.index %}{% endif %}
+                    {% assign type_index = 0 %}
+                    {% for type_record in conference_records %}
+                      {% unless type_record contains "|" %}{% continue %}{% endunless %}
+                      {% assign type_index = type_index | plus: 1 %}
+                      {% assign type_record_parts = type_record | split: "|" %}
+                      {% assign item_index = type_record_parts[3] | plus: 0 %}
+                      {% assign item = all_conferences[item_index] %}
+                      {% if item.title == paper.title %}{% assign publication_index = type_index %}{% endif %}
                     {% endfor %}
                     <span class="publication-id">[C{{ publication_index }}]</span>
                   {% elsif paper.type == "journal" %}
-                    {% for item in all_journals %}
-                      {% if item.title == paper.title %}{% assign publication_index = forloop.index %}{% endif %}
+                    {% assign type_index = 0 %}
+                    {% for type_record in journal_records %}
+                      {% unless type_record contains "|" %}{% continue %}{% endunless %}
+                      {% assign type_index = type_index | plus: 1 %}
+                      {% assign type_record_parts = type_record | split: "|" %}
+                      {% assign item_index = type_record_parts[3] | plus: 0 %}
+                      {% assign item = all_journals[item_index] %}
+                      {% if item.title == paper.title %}{% assign publication_index = type_index %}{% endif %}
                     {% endfor %}
                     <span class="publication-id">[J{{ publication_index }}]</span>
                   {% elsif paper.type == "workshop" %}
-                    {% for item in all_workshops %}
-                      {% if item.title == paper.title %}{% assign publication_index = forloop.index %}{% endif %}
+                    {% assign type_index = 0 %}
+                    {% for type_record in workshop_records %}
+                      {% unless type_record contains "|" %}{% continue %}{% endunless %}
+                      {% assign type_index = type_index | plus: 1 %}
+                      {% assign type_record_parts = type_record | split: "|" %}
+                      {% assign item_index = type_record_parts[3] | plus: 0 %}
+                      {% assign item = all_workshops[item_index] %}
+                      {% if item.title == paper.title %}{% assign publication_index = type_index %}{% endif %}
                     {% endfor %}
                     <span class="publication-id">[W{{ publication_index }}]</span>
                   {% endif %}
