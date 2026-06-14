@@ -135,7 +135,7 @@
     - Zhao Liu
     - Quanchen Zou
     - Haoyu Wang
-  sort_key: 20260904
+  sort_key: 20260718
 - type: conference
   selected: true
   year: 2026
@@ -157,7 +157,7 @@
   equal_contributors:
     - Yanzhe Hu
     - Shenao Wang
-  sort_key: 20260903
+  sort_key: 20260718
 - type: conference
   year: 2026
   title: Understanding Bugs in Vector Database Management Systems
@@ -176,7 +176,7 @@
     - Shenao Wang
     - Kai Chen
     - Haoyu Wang
-  sort_key: 20260902
+  sort_key: 20260718
 - type: conference
   year: 2026
   title: 'Mapping the Landscape of LLM Deployment in the Wild: Prevalence, Patterns, and Perils'
@@ -234,7 +234,7 @@
   equal_contributors:
     - Wangchenlu Huang
     - Shenao Wang
-  sort_key: 20250620
+  sort_key: 20251027
 - type: conference
   year: 2025
   title: A Characterization Study of Bugs in LLM Agent Workflow Orchestration Frameworks
@@ -253,7 +253,7 @@
 - type: conference
   year: 2025
   title: Exploring Typo Squatting Threats in the Hugging Face Ecosystem
-  venue: Proceedings of the 15th Asia-Pacific Symposium on Internetware
+  venue: Proceedings of the 16th Asia-Pacific Symposium on Internetware (Internetware'25)
   links:
     - label: PDF
       url: https://dl.acm.org/doi/pdf/10.1145/3755881.3755921
@@ -267,11 +267,11 @@
     - Shenao Wang
     - Zehao Wu
     - Haoyu Wang
-  sort_key: 20250620
+  sort_key: 20251027
 - type: conference
   year: 2025
   title: GPT Store Mining and Analysis
-  venue: Proceedings of the 15th Asia-Pacific Symposium on Internetware
+  venue: Proceedings of the 16th Asia-Pacific Symposium on Internetware (Internetware'25)
   links:
     - label: PDF
       url: https://arxiv.org/pdf/2405.10210
@@ -285,7 +285,7 @@
     - Xinyi Hou
     - Shenao Wang
     - Haoyu Wang
-  sort_key: 20250620
+  sort_key: 20251027
 - type: conference
   selected: true
   year: 2024
@@ -576,7 +576,7 @@
     - Xinyi Hou
     - Quanchen Zou
     - Haoyu Wang
-  sort_key: 20250228
+  sort_key: 20250627
 - type: workshop
   selected: false
   year: 2023
