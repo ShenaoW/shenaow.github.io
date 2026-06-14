@@ -43,13 +43,13 @@
 
 {% capture paper_records -%}
   {%- for paper in papers -%}
-    {%- include publication-sort-record.html paper=paper index=forloop.index0 order="desc" -%}
+    {%- include publication-sort-record.html paper=paper index=forloop.index0 order="asc" -%}
     {%- unless forloop.last -%}
 {% endunless -%}
   {%- endfor -%}
 {%- endcapture %}
 {% assign paper_records = paper_records | strip | split: "
-" | sort %}
+" | sort | reverse %}
 {% assign grouped_papers = papers | group_by: "year" | sort: "name" | reverse %}
 
 <div class="publication-list publication-list--{{ mode }}">
