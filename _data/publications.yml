@@ -105,7 +105,6 @@
       class: repo
   badges:
     - CCF-A
-    - CORE-A*
   authors:
     - Junjie He
     - Shenao Wang
@@ -297,7 +296,6 @@
       class: pdf
   badges:
     - CCF-A
-    - CORE-A*
   authors:
     - Shenao Wang
     - Feng Dong
