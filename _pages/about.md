@@ -19,7 +19,7 @@ Specifically, I focus on developing impactful, real-world solutions for detectin
 
 - **OSS Security**: NPM/PyPI Code Poisoning (ASE'23, ASE'24)
 - **Endpoint Security**: Ransomware (CCS'24), MiniApp Security (ASE'23, ASE'25) & Privacy (SaTS'23, TOSEM'25)
-- **Agentic Security**: Agentic Supply Chain (ASE'24, TOSEM'25), Agentic Software (ICSE'26), LLM Infra (ASE'25, ICSE'26)
+- **Agentic Security**: Agentic Supply Chain (ASE'24, TOSEM'25, ASE'26), Agentic Software (ICSE'26), LLM Infra (ASE'25, ICSE'26)
 
 If you would like to reach me, please send an email to [shenaowang AT hust.edu.cn](mailto:shenaowang@hust.edu.cn)
 
@@ -32,11 +32,13 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 **(\* Equal Contribution)**
 
 ## Preprints
+
 {: .section-subtitle }
 
 {% include publications.html mode="preprints" %}
 
 ## Selected Publications
+
 {: .section-subtitle }
 
 {% include publications.html mode="selected" %}
