@@ -20,14 +20,19 @@
     - Shenao Wang
     - Xinyi Hou
   sort_key: 20260508
-- type: preprint
+- type: conference
+  selected: true
   year: 2026
-  title: '"Elementary, My Dear Watson." Detecting Malicious Skills via Neuro-Symbolic Reasoning across Heterogeneous Artifacts'
+  title: 'MalSkills: Detecting Malicious Skills in the Agentic Supply Chain via Neuro-Symbolic Reasoning'
+  venue: The 41st IEEE/ACM International Conference on Automated Software Engineering (ASE'26)
   links:
     - label: PDF
       url: https://arxiv.org/pdf/2603.27204
       class: pdf
-  selected: false
+  badges:
+    - CCF-A
+    - CORE-A*
+  note: 'Direct acceptance rate: 115/1236=9.30%'
   authors:
     - Shenao Wang
     - Junjie He
@@ -35,7 +40,7 @@
     - Yayi Wang
     - Kan Yu
     - Haoyu Wang
-  sort_key: 20260328
+  sort_key: 20260618
 - type: conference
   selected: true
   year: 2026
