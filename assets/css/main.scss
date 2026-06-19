@@ -273,6 +273,7 @@ h1:before,
 }
 
 .publication-main {
+  color: $text-color;
   line-height: 1.35;
 }
 
@@ -283,6 +284,7 @@ h1:before,
 }
 
 .publication-title {
+  color: $text-color;
   font-weight: bold;
 }
 
@@ -306,6 +308,7 @@ h1:before,
 }
 
 .publication-authors {
+  color: $text-color;
   margin-top: 0.2em;
 }
 
