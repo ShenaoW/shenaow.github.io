@@ -22,12 +22,12 @@
   sort_key: 20260508
 - type: conference
   year: 2026
-  title: MalTotal: Cost-Effective and Language-Agnostic Malicious Code Poisoning Detection for Millions of Repositories
+  title: 'MalTotal: Cost-Effective and Language-Agnostic Malicious Code Poisoning Detection for Millions of Repositories'
   links:
     - label: PDF
       url: 
       class: pdf
-  selected: false
+  selected: true
   authors:
     - Jian Zhao
     - Shenao Wang
