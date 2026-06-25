@@ -1,5 +1,8 @@
 - date: '06/2026'
-  text: 'Our paper on malicious skills in the agentic supply chain was accepted by ASE 2026!'
+  text: 'Our paper working on malicious code poisoning detection was accepted by ISSTA 2026!'
+
+- date: '06/2026'
+  text: 'Our paper working on malicious skills detection was accepted by ASE 2026!'
 
 - date: '03/2026'
   text: 'One paper working on multi-language static analysis in collaboration AntGroup was accepted by FSE 2026 Industry Track!'
