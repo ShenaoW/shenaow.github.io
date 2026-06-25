@@ -21,6 +21,25 @@
     - Xinyi Hou
   sort_key: 20260508
 - type: conference
+  year: 2026
+  title: MalTotal: Cost-Effective and Language-Agnostic Malicious Code Poisoning Detection for Millions of Repositories
+  links:
+    - label: PDF
+      url: 
+      class: pdf
+  selected: false
+  authors:
+    - Jian Zhao
+    - Shenao Wang
+    - Qingyang Wu
+    - Yanjie Zhao
+    - Xiao Cheng
+    - Haoyu Wang
+  equal_contributors:
+    - Jian Zhao
+    - Shenao Wang
+  sort_key: 20261003
+- type: conference
   selected: true
   year: 2026
   title: 'MalSkills: Detecting Malicious Skills in the Agentic Supply Chain via Neuro-Symbolic Reasoning'
