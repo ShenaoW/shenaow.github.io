@@ -17,7 +17,7 @@ Hi, there! I am Shenao Wang (王申奥). I am currently pursuing my Ph.D. at Hua
 I am interested in the intersection of security, program analysis, and agentic systems.
 Specifically, I focus on developing impactful, real-world solutions for detecting and defending against vulnerabilities in a wide range of systems.
 
-- **OSS Security**: NPM/PyPI Code Poisoning (ASE'23, ASE'24)
+- **OSS Security**: NPM/PyPI Code Poisoning (ASE'23, ASE'24, ISSTA'26)
 - **Endpoint Security**: Ransomware (CCS'24), MiniApp Security (ASE'23, ASE'25) & Privacy (SaTS'23, TOSEM'25)
 - **LLM/Agent Security**: Agent Supply Chain (ASE'24, TOSEM'25, ASE'26), Agent Software (ICSE'26), LLM Infra (ASE'25, ICSE'26)
 

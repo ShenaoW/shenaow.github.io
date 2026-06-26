@@ -23,10 +23,10 @@
 - type: conference
   year: 2026
   title: 'MalTotal: Cost-Effective and Language-Agnostic Malicious Code Poisoning Detection for Millions of Repositories'
-  links:
-    - label: PDF
-      url: 
-      class: pdf
+  venue: The 35th ACM International Conference on Software Testing and Analysis (ISSTA'26)
+  badges:
+    - CCF-A
+    - CORE-A*
   selected: true
   authors:
     - Jian Zhao
