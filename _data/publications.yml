@@ -1,6 +1,17 @@
 ---
 - type: preprint
   year: 2026
+  title: 'AgentFlow: Building Agent Dependency Graphs for Static Analysis of Agent Programs'
+  selected: false
+  authors:
+    - Shenao Wang
+    - Xinyi Hou
+    - Yanjie Zhao
+    - Xiao Cheng
+    - Haoyu Wang
+  sort_key: 20260702
+- type: preprint
+  year: 2026
   title: Demystifying and Detecting Agentic Workflow Injection Vulnerabilities in GitHub Actions
   links:
     - label: PDF
