@@ -2,6 +2,10 @@
 - type: preprint
   year: 2026
   title: 'AgentFlow: Building Agent Dependency Graphs for Static Analysis of Agent Programs'
+  links:
+    - label: PDF
+      url: https://arxiv.org/pdf/2607.01640
+      class: pdf
   selected: false
   authors:
     - Shenao Wang
