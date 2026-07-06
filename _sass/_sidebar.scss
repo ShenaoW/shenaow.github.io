@@ -251,6 +251,19 @@
       text-decoration: underline;
     }
   }
+
+  .author__visitor-map {
+    margin-top: 0.75em;
+    max-width: 175px;
+    overflow: hidden;
+    white-space: normal;
+
+    img,
+    iframe,
+    canvas {
+      max-width: 100%;
+    }
+  }
 }
 
 .author__urls_sm{
