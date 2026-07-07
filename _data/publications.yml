@@ -6,12 +6,26 @@
     - label: PDF
       url: https://arxiv.org/pdf/2607.01640
       class: pdf
-  selected: false
+  selected: true
   authors:
     - Shenao Wang
     - Xinyi Hou
     - Yanjie Zhao
     - Xiao Cheng
+    - Haoyu Wang
+  sort_key: 20260703
+- type: preprint
+  year: 2026
+  title: 'When Agents Do Not Stop: Uncovering Infinite Agentic Loops in LLM Agents'
+  links:
+    - label: PDF
+      url: https://arxiv.org/pdf/2607.01641
+      class: pdf
+  selected: true
+  authors:
+    - Xinyi Hou
+    - Shenao Wang
+    - Yanjie Zhao
     - Haoyu Wang
   sort_key: 20260702
 - type: preprint
@@ -21,7 +35,7 @@
     - label: PDF
       url: https://arxiv.org/pdf/2605.07135
       class: pdf
-  selected: false
+  selected: true
   authors:
     - Shenao Wang
     - Xinyi Hou
