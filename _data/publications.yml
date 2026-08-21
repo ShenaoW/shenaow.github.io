@@ -76,6 +76,9 @@
     - label: PDF
       url: https://arxiv.org/pdf/2603.27204
       class: pdf
+    - label: Repo
+      url: https://github.com/security-pride/MalSkills
+      class: repo
   badges:
     - CCF-A
     - CORE-A*
