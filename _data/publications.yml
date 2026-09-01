@@ -53,6 +53,13 @@
   year: 2026
   title: 'MalTotal: Cost-Effective and Language-Agnostic Malicious Code Poisoning Detection for Millions of Repositories'
   venue: The 35th ACM International Conference on Software Testing and Analysis (ISSTA'26)
+  links:
+    - label: PDF
+      url: https://arxiv.org/pdf/2608.03232
+      class: pdf
+    - label: Repo
+      url: https://github.com/security-pride/MalTotal
+      class: repo
   badges:
     - CCF-A
   selected: true
