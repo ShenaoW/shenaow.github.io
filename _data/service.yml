@@ -1,3 +1,17 @@
+committee:
+  - year: 2027
+    venue: AGENT Workshop @ICSE 2027
+    role: Program Committee
+    url: https://conf.researchr.org/home/icse-2027/agent-2027
+
+  - year: 2026
+    venue: LLMSC Workshop @FSE 2026
+    role: Publicity & Web Chair
+
+  - year: 2025
+    venue: LLMSC Workshop @ISSTA 2025
+    role: Publicity & Web Chair
+
 reviewer:
   - year: 2026
     venues:
@@ -45,7 +59,3 @@ sub_reviewer:
       - SaTS
       - MobiLLM
       - LCTES
-
-publicity_web_chair:
-  - LLMSC Workshop @FSE 2026
-  - LLMSC Workshop @ISSTA 2025
