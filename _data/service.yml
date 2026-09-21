@@ -4,6 +4,11 @@ committee:
     role: Program Committee
     url: https://conf.researchr.org/home/icse-2027/agent-2027
 
+  - year: 2027
+    venue: LLMSC Workshop @ICSE 2027
+    role: Publicity & Web Chair
+    url: https://llmsc.github.io/
+
   - year: 2026
     venue: LLMSC Workshop @FSE 2026
     role: Publicity & Web Chair
