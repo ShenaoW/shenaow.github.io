@@ -1,22 +1,22 @@
 committee:
   - year: 2027
     roles:
-      - venue: AGENT Workshop @ICSE 2027
-        role: Program Committee
-        url: https://conf.researchr.org/home/icse-2027/agent-2027
-      - venue: LLMSC Workshop @ICSE 2027
+      - venue: LLMSC'27@ICSE
         role: Publicity & Web Chair
         url: https://llmsc.github.io/
+      - venue: AGENT'27'@ICSE
+        role: Program Committee
+        url: https://conf.researchr.org/home/icse-2027/agent-2027
 
   - year: 2026
     roles:
-      - venue: LLMSC Workshop @FSE 2026
+      - venue: LLMSC'26@FSE
         role: Publicity & Web Chair
         url: https://llmsc.github.io/archive/26/
 
   - year: 2025
     roles:
-      - venue: LLMSC Workshop @ISSTA 2025
+      - venue: LLMSC'25@ISSTA
         role: Publicity & Web Chair
         url: https://llmsc.github.io/archive/25/
 
