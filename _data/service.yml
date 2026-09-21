@@ -7,10 +7,12 @@ committee:
   - year: 2026
     venue: LLMSC Workshop @FSE 2026
     role: Publicity & Web Chair
+    url: https://llmsc.github.io/archive/26/
 
   - year: 2025
     venue: LLMSC Workshop @ISSTA 2025
     role: Publicity & Web Chair
+    url: https://llmsc.github.io/archive/25/
 
 reviewer:
   - year: 2026
