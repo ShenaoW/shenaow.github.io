@@ -11,8 +11,8 @@
   <ul class="service-list service-list--{{ key }}">
     {% for item in items %}
       <li class="service-item">
-        {% if item.role %}
-          {{ item.year }}: {% if item.url %}<a href="{{ item.url }}">{{ item.venue }}</a>{% else %}{{ item.venue }}{% endif %} ({{ item.role }})
+        {% if item.roles %}
+          {{ item.year }}: {% for position in item.roles %}{% unless forloop.first %}; {% endunless %}<a href="{{ position.url }}">{{ position.venue }}</a> ({{ position.role }}){% endfor %}
         {% elsif item.year %}
           {{ item.year }}: {{ item.venues | join: ", " }}
         {% else %}
