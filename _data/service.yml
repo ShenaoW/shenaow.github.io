@@ -12,7 +12,7 @@ committee:
     roles:
       - venue: CCS'26
         role: Artifact Evaluation Committee
-        url: https://ccs2026b-artifacts.hotcrp.com
+        url: https://www.sigsac.org/ccs/CCS2026
       - venue: LLMSC'26@FSE
         role: Publicity & Web Chair
         url: https://llmsc.github.io/archive/26/
