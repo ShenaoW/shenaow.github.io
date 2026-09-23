@@ -4,12 +4,15 @@ committee:
       - venue: LLMSC'27@ICSE
         role: Publicity & Web Chair
         url: https://llmsc.github.io/
-      - venue: AGENT'27'@ICSE
+      - venue: AGENT'27@ICSE
         role: Program Committee
         url: https://conf.researchr.org/home/icse-2027/agent-2027
 
   - year: 2026
     roles:
+      - venue: CCS'26
+        role: Artifact Evaluation Committee
+        url: https://ccs2026b-artifacts.hotcrp.com
       - venue: LLMSC'26@FSE
         role: Publicity & Web Chair
         url: https://llmsc.github.io/archive/26/

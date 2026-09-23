@@ -1,4 +1,4 @@
-{% assign service_groups = "committee,Program Committee & Workshop Chair|reviewer,Reviewer|sub_reviewer,Sub Reviewer" | split: "|" %}
+{% assign service_groups = "committee,Committee Service|reviewer,Reviewer|sub_reviewer,Sub Reviewer" | split: "|" %}
 
 {% for group in service_groups %}
   {% assign parts = group | split: "," %}
