@@ -7,6 +7,8 @@ author_profile: true
 
 # 📝 Publications
 
+[← Back to Homepage](/#-publications){: .publication-full-link}
+
 **(\* Equal contribution)**
 
 {% include publications.html mode="full" %}

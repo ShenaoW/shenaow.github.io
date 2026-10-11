@@ -37,16 +37,13 @@ If you would like to reach me, please send an email to [shenaowang AT hust.edu.c
 
 {% include publications.html mode="preprints" %}
 
-<h2 class="section-subtitle" id="publication-heading">Selected Publications</h2>
-<div id="selected-publications">
+## Selected Publications
+
+{: .section-subtitle }
+
 {% include publications.html mode="selected" %}
-</div>
 
-<div id="full-publications" hidden>
-{% include publications.html mode="full" %}
-</div>
-
-[Full List →](/publications/){: .publication-full-link #publication-toggle}
+[Full List →](/publications/){: .publication-full-link}
 
 # 🔗 Service
 
