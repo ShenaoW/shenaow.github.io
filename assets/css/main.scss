@@ -333,4 +333,38 @@ h1:before,
   display: inline-block;
   margin-top: 0.2em;
   font-weight: bold;
+  padding: 0.45em 0.85em;
+  border: 1px solid #dce5ef;
+  border-radius: 999px;
+  background: #f5f8fc;
+  color: $link-color;
+  font-size: inherit;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background 160ms ease, border-color 160ms ease;
+
+  &:hover {
+    background: #e8f0ff;
+    border-color: $link-color;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $link-color;
+    outline-offset: 3px;
+  }
+}
+
+#publication-heading {
+  scroll-margin-top: 5rem;
+}
+
+#selected-publications[hidden],
+#full-publications[hidden] {
+  display: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .publication-full-link {
+    transition: none;
+  }
 }
