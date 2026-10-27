@@ -492,6 +492,32 @@
 - type: journal
   selected: true
   year: 2026
+  title: '“Wait, My Tool Can’t Do That?” A Fine-Grained Capability Study of Modern Static Taint Analyzers'
+  venue: ACM Transactions on Software Engineering and Methodology (TOSEM)
+  links:
+    - label: PDF
+      url: https://dl.acm.org/doi/pdf/10.1145/3849705
+      class: pdf
+    - label: Repo
+      url: https://github.com/alipay/ant-application-security-testing-benchmark
+      class: repo
+  badges:
+    - CCF-A
+    - JCR Q1
+  authors:
+    - Yanjie Zhao
+    - Shenao Wang
+    - Jian Zhao
+    - Junjie He
+    - Kan Yu
+    - Yayi Wang
+    - Lizhong Bian
+    - Yan Cheng
+    - Haoyu Wang
+  sort_key: 20261027
+- type: journal
+  selected: true
+  year: 2026
   title: Survey of Storage Mechanism Security Threats for Large Language Models
   venue: Journal of Computer Research and Development, in Chinese
   links:
