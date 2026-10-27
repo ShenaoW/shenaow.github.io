@@ -490,7 +490,7 @@
     - Haoyu Wang
   sort_key: 20230911
 - type: journal
-  selected: true
+  selected: false
   year: 2026
   title: '“Wait, My Tool Can’t Do That?” A Fine-Grained Capability Study of Modern Static Taint Analyzers'
   venue: ACM Transactions on Software Engineering and Methodology (TOSEM)
