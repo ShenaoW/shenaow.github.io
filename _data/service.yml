@@ -7,6 +7,9 @@ committee:
       - venue: AGENT'27@ICSE
         role: Program Committee
         url: https://conf.researchr.org/home/icse-2027/agent-2027
+      - venue: MSR'27
+        role: Program Committee
+        url: https://2027.msrconf.org/track/msr-2027-technical-papers
 
   - year: 2026
     roles:
@@ -39,6 +42,12 @@ reviewer:
       - EMSE
 
 sub_reviewer:
+  - year: 2027
+    venues:
+      - USENIX Security
+      - FSE
+      - ICSE
+      - Sigmetrics
   - year: 2026
     venues:
       - USENIX Security
